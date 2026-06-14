@@ -3,9 +3,24 @@ layout: default
 title: What's Up! | English Edition
 ---
 
-# what’s Up! — English Edition
+# what's Up! — English Edition
 **Weekly Global Signals**
 
-This page lists the English editions of the weekly briefing.
+---
 
-Posts are updated every week.
+## 📖 Latest
+
+**🟣 Vol.02 | June 8–14, 2026**  
+*English edition under review. Check back soon.*
+
+---
+
+## 📚 Archive
+
+| Issue | Date | Link |
+|-------|------|------|
+| Vol.02 | 2026-W24 (6.8–6.14) | Under review |
+
+---
+
+> 🔗 [GitHub](https://github.com/jackson-chu-sys/whats-up)
