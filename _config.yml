@@ -1,7 +1,5 @@
-title: "what's Up!"
+title: "whats Up!"
 description: 全球热点信息周刊 · Global Weekly Digest
-baseurl: "/whats-up"
-url: "https://jackson-chu-sys.github.io"
 markdown: kramdown
 defaults:
   - scope:
