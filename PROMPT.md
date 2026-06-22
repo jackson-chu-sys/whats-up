@@ -48,6 +48,8 @@
 > *What the Internet Is Talking About*
 > 本版块来自 X (Twitter)、Reddit 等社交平台，反映全球正在被讨论的热点与情绪信号。
 
+![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/YYYY-WNN/trending-news.jpg)
+
 ## 1️⃣ X 热点｜[标题]
 **为什么值得关注？**
 🔗 来源：[name](url)
@@ -150,14 +152,42 @@
 > 🔗 原文链接：[jackson-chu-sys.github.io/whats-up](https://jackson-chu-sys.github.io/whats-up)
 ```
 
-## 发布流水线
+## 发布流水线（两阶段）
 
-1. **中文版生成**: 按此提示词生成初稿 → 用户审阅修改 → 定稿
-2. **英文版翻译**: 基于定稿中文版翻译为地道的 Business English
-3. **部署**: 中文版 → `issues/YYYY-WNN/index.cn.md`、英文版 → `issues/YYYY-WNN/index.en.md`；Jekyll 版 → `_posts/YYYY-MM-DD-volXX.md`（加 frontmatter + permalink）
-4. **GitHub Pages**: push 到 `jackson-chu-sys/whats-up` 主分支，自动部署
-5. **小红书分发**: `./scripts/gen-xiaohongshu.sh YYYY-WNN` 生成中文摘要 → 手动发布
-6. **LinkedIn 分发**: `./scripts/gen-linkedin.sh YYYY-WNN` 生成英文摘要 → 手动发布
+### 🟢 一阶段（每周一 10:00 CST cron 自动执行）
+
+1. 确定期数（Week 编号 + Vol 编号）
+2. 搜索真实新闻源，生成中文初稿（7板块 × 3条）
+3. **下载全部 7 张配图**到 `assets/images/YYYY-WNN/`（Unsplash，统一 `?w=800`）
+4. 保存 → `issues/YYYY-WNN/index.cn.md`
+5. **更新索引页** → `index.md` + `zh/index.md`（最新期+往期表）
+6. **Git 提交并推送**（最多重试 3 次）
+7. **微信通知用户**审阅（附 GitHub 链接 + Pages 链接）
+
+> ⚠️ 一阶段必须一次性完成全部 7 步，不能只生成草稿就结束。
+
+### 🔵 二阶段（用户说"OK/继续"后人工触发）
+
+1. 基于定稿中文版翻译英文版 → `issues/YYYY-WNN/index.en.md`
+2. 生成 Jekyll 发布页 → `_posts/zh/YYYY-MM-DD-volXX.md` + `_posts/en/YYYY-MM-DD-volXX.md`（含 frontmatter + permalink）
+3. 生成社交文案 → `social-xiaohongshu.txt` + `social-linkedin.txt`
+4. 更新英文索引 → `en/index.md`
+5. Git 提交并推送
+6. 微信推送英文版链接 + 社交文案摘要
+7. **小红书分发**: 复制 `social-xiaohongshu.txt` 内容手动发布
+8. **LinkedIn 分发**: 复制 `social-linkedin.txt` 内容手动发布
+
+### 配图文件名规范（7张，必须全部下载）
+
+| 板块 | 文件名 | Unsplash 搜索关键词 |
+|------|--------|-------------------|
+| 🔥 时事热点 | trending-news.jpg | "news trending social media" |
+| 🏦 金融宏观 | finance-markets.jpg | "stock market trading floor" |
+| 🌐 国际政治 | geopolitics.jpg | "diplomacy summit" |
+| 🤖 人工智能 | ai-school.jpg | "AI education classroom" |
+| 💻 科技产业 | tech-industry.jpg | "silicon valley tech" |
+| 🌱 环境能源 | environment-energy.jpg | "renewable energy wind" |
+| 🏥 医疗健康 | health-medical.jpg | "medical research laboratory" |
 
 ## 技术规范
 
