@@ -173,6 +173,7 @@
   ```
 - **图片路径**: `https://jackson-chu-sys.github.io/whats-up/assets/images/YYYY-WNN/filename.jpg`
 - **图片优先来源**: Unsplash (高质量、免费、无需署名) → 文章中提取的原图 → 自制图标
+- **图片尺寸**: 从 Unsplash 下载时统一用 `?w=800`（宽度 800px），保证页面加载速度
 
 ## 可靠信息来源（优先使用）
 
