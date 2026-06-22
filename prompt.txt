@@ -1,0 +1,73 @@
+🟣 what's Up! 项目需求汇总 v1.0
+一、产品定位
+项 	说明
+名称 	what's Up! 全球热点信息周刊
+频率 	每周一期
+语言 	中文 + English 双语
+格式 	Markdown → GitHub Pages (Jekyll)
+域名 	https://jackson-chu-sys.github.io/whats-up/
+仓库 	github.com/jackson-chu-sys/whats-up
+项目根目录 	/volume2/个人文档/朱-个人文档/Documents/项目/whats-up (NAS 持久卷)
+二、内容结构（7板块 × 3篇 = 21篇/期）
+# 	板块 	内容
+🔥 	时事热点 	X/Reddit/HN 热议话题
+🏦 	金融宏观 	全球市场、央行利率、加密/另类资产
+🌐 	国际政治 	地缘冲突、监管政策、选举治理
+🤖 	人工智能 	技术前沿、产业落地、AI 治理/伦理
+💻 	科技产业 	开源工程、大厂动态、技术趋势
+🌱 	环境能源 	极端气候、能源转型、碳市场
+🏥 	医疗健康 	科研突破、AI+医疗、公共卫生
+三、每篇文章规范
+
+    长度 150-400 字，有实质内容
+    每条 ≥ 2 个真实可访问的源链接
+    每个板块至少 1 张配图（Unsplash 或原文提取）
+    图片路径：https://jackson-chu-sys.github.io/whats-up/assets/images/YYYY-WNN/xxx.jpg
+
+四、发布流水线（6 步）
+
+Step 1  信息采集 → 按 PROMPT.md 模板生成中文初稿
+Step 2  你审阅修改 → 定稿中文版
+Step 3  基于定稿中文 → 生成地道 Business English 版
+Step 4  两端推送 GitHub → Jekyll 自动部署 GitHub Pages
+        中文: .../zh/YYYY-MM-DD-volXX.html
+        英文: .../en/YYYY-MM-DD-volXX.html
+Step 5  中文版 → 生成小红书摘要 → social-xiaohongshu.txt
+Step 6  英文版 → 生成 LinkedIn 摘要 → social-linkedin.txt
+
+五、每期产出文件
+
+issues/YYYY-WNN/
+├── index.cn.md              ← 中文定稿
+├── index.en.md              ← 英文定稿
+├── social-xiaohongshu.txt   ← 小红书摘要（≤1000字，含完整链接）
+└── social-linkedin.txt      ← LinkedIn 摘要（含完整链接）
+
+assets/images/YYYY-WNN/      ← 当期配图 (7+张)
+
+_posts/
+├── zh/YYYY-MM-DD-volXX.md   ← Jekyll 中文版
+└── en/YYYY-MM-DD-volXX.md   ← Jekyll 英文版
+
+六、关键配置文件
+文件 	用途
+PROMPT.md 	AI 生成周刊时的系统提示词（喂给 AI 即可出稿）
+templates/weekly.cn.template.md 	中文周刊空模板
+templates/weekly.en.template.md 	英文周刊空模板
+scripts/publish.sh 	一键 git push → GitHub Pages
+scripts/gen-xiaohongshu.sh YYYY-WNN 	自动生成小红书摘要
+scripts/gen-linkedin.sh YYYY-WNN 	自动生成 LinkedIn 摘要
+七、可靠信息来源（优先级）
+一级 	二级
+HN, MIT Tech Review, ArXiv 	Reddit r/worldnews, r/technology
+Reuters, CNBC, Bloomberg, FT 	X/Twitter 记者第一手信息
+AP News, Politico, Foreign Affairs 	GitHub Trending
+IEA, IRENA, Carbon Brief, WMO 	Papers with Code
+The Lancet, STAT News, WHO, CDC 	—
+八、禁止事项
+
+    ❌ 不编造数据
+    ❌ 不引用不可访问的链接
+    ❌ 不偏激政治立场
+    ❌ 不修改 models/provider/channel 配置
+    ❌ 不覆盖已有的 openclaw.json

@@ -1,0 +1,21 @@
+🟣 what's Up! Global Weekly Digest | Vol.02 | June 8–14, 2026
+
+Curated signals across tech, AI, markets, geopolitics, climate, and health.
+
+🔥 The U.S. Census Bureau officially banned "noise infusion" from statistical products this week — a policy shift championed by data scientists and statisticians who have long argued it sacrificed accuracy for privacy. 827 upvotes on HN.
+
+🤖 China's Zhipu AI & Tsinghua released GLM 5.2, an open-weight multimodal LLM that has the global ML community taking notice. Meanwhile, engineers are questioning whether large context windows are more marketing than reality — a deep dive into "lost in the middle" performance hit HN's front page.
+
+🏦 Bitcoin broke through $95,000 to set a new 2026 high, with spot ETFs logging six consecutive weeks of net inflows. But central bankers are pushing back on rate-cut optimism: the "last mile" of inflation remains stubborn. The EU AI Act's high-risk provisions went into full effect, with penalties up to 6% of global revenue.
+
+🌱 A scorching heatwave across the Northern Hemisphere is stress-testing power grids from Delhi to Madrid. The EU's CBAM carbon tariff is now fully operational, and carbon allowances broke €110/ton for the first time. IEA warns the global grid investment gap could reach $800B by 2030.
+
+🏥 The Economist reported a potential breakthrough: researchers treating pancreatic tumors may have stumbled upon cancer's "master switch." The G7 health ministers declared antimicrobial resistance a top-tier threat alongside climate change — 1.7M deaths attributed to drug-resistant infections in 2025.
+
+—
+📖 Full issue (21 articles + images):
+https://jackson-chu-sys.github.io/whats-up/en/2026-06-14-vol02.html
+
+📂 GitHub：https://github.com/jackson-chu-sys/whats-up
+
+#WeeklyDigest #Tech #AI #Markets #GlobalNews #Climate #Healthcare #WhatsUp
