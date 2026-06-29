@@ -1,0 +1,225 @@
+# 🟣 what's Up! Global Weekly Digest｜Vol.04｜2026.06.22–06.28
+
+> *Let's take a look at what happened around the world last week.*
+
+> ⚠️ AI Generated, Pending Human Review
+
+---
+
+# 🔥 Headlines｜Social Pulse & Trending Topics
+> *What the Internet Is Talking About*
+> This section curates trending discussions from X (Twitter), Reddit, and other social platforms, reflecting global public sentiment and attention signals.
+
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W26/trending-news.jpg)
+
+## 1️⃣ X Trending｜Florida Sues OpenAI: First State-Level AI Lawsuit in US History
+
+In late June, Florida Attorney General James Uthmeier formally filed a lawsuit against OpenAI and its CEO Sam Altman, marking the first time a US state government has sued an AI company. The complaint alleges that ChatGPT bears product liability for certain violent incidents involving minors, accusing OpenAI of "putting growth ahead of safety."
+
+**Why this matters:**
+This is a landmark case for AI product liability. If Florida prevails, it could trigger a cascade of lawsuits nationwide and accelerate AI legislation at the federal level. OpenAI has stated that its systems already incorporate extensive safety measures and denies direct responsibility for the alleged incidents. The company has confidentially filed for an IPO with a valuation target as high as $1 trillion—the outcome of this case will directly impact investor confidence.
+
+🔗 Sources: [imfounder.com](https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/) · [Tech Startups](https://techstartups.com/2026/06/26/top-tech-news-today-june-26-2026/)
+
+## 2️⃣ Reddit Trending｜White House Asks OpenAI to Release GPT 5.6 Model in Phases
+
+The White House National Security Council, together with the Office of the National Cyber Director, has formally requested that OpenAI adopt a "staged, controlled" strategy for releasing its next-generation GPT 5.6 model, limiting initial access to vetted trusted partners only, with public release to follow after safety assessments are complete. OpenAI CEO Sam Altman has internally communicated this arrangement.
+
+**Key takeaways:**
+- This move echoes Anthropic's earlier self-imposed restrictions on its high-end Claude models
+- The core concern: frontier models being used for malicious code generation, vulnerability exploitation, and cyberattacks
+- Impact on the AI startup ecosystem: stricter federal scrutiny could lengthen product release cycles
+- Context: Anthropic is also pursuing an IPO; the AI industry finds itself caught between a "valuation bubble" and "regulatory tightening"
+
+🔗 Sources: [Reuters](https://www.reuters.com/) · [Tech Startups](https://techstartups.com/2026/06/26/top-tech-news-today-june-26-2026/) · [TechCrunch](https://techcrunch.com/2026/)
+
+## 3️⃣ Social Media Buzz｜TikTok June Trends: World Cup, Olivia Rodrigo & Summer Storytelling
+
+Entering summer 2026, TikTok and Instagram trends are distinctly "major event-driven." FIFA World Cup fan content has taken over platforms, Olivia Rodrigo's new album is fueling creative challenges that continue to top the charts, while brands are leaning into formats like "founder stories" and micro-vlogs for summer marketing.
+
+**Highlights:**
+- World Cup content (fan reactions, on-site clips, tactical breakdowns) became TikTok's biggest traffic driver in June
+- Olivia Rodrigo's album sparked a wave of dance challenges and cover videos
+- "Founder Diary" emerged as the most effective short-form video format for B2B brands
+- Brand content is officially shifting from hard-sell ads to authentic storytelling
+
+🔗 Sources: [Pepper Agency](https://www.pepperagency.com/blog/tiktok-instagram-trends-for-june-2026-and-how-brands-can-actually-use-them) · [New Engen](https://newengen.com/insights/june-tiktok-trends/)
+
+---
+
+# 🏦 Finance & Macroeconomics
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W26/finance-markets.jpg)
+
+## ▶ Fed Holds Steady; Warsh's Debut Hints at Rate Hike Possibility
+
+At the June 17 FOMC meeting—new Fed Chair Kevin Warsh's first—the committee held the federal funds rate steady at 3.5%–3.75%. However, the meeting statement shrank dramatically from 341 words to 130, and language that previously hinted at rate cuts was removed. Warsh himself declined to submit a rate projection in the dot plot and announced a comprehensive review of the Fed's communication framework, including whether to continue the dot plot regime.
+
+The median dot plot from the other 18 FOMC participants points to a year-end 2026 rate of 3.8%, implying at least one rate hike. Nine officials projected at least one increase, eight projected no change, and only one forecast a cut. The statement noted inflation "remaining above the 2% target, partly due to supply shocks from the Middle East conflict." Markets reacted immediately, with the Nasdaq falling on the day.
+
+🔗 Sources: [CNBC](https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html) · [WSJ](https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-06-17-2026)
+
+## ▶ Global Central Banks Diverge: ECB Hikes, Japan Follows, Rate-Cut Cycle Ends
+
+June became a "super week" for global monetary policy. The European Central Bank (ECB) announced a rate hike on June 11, joining Australia, Norway, and Japan in the "hiking club." According to KPMG analysis, the previously broad expectation of a global rate-cutting cycle has decisively reversed—rising sovereign debt and inflation pressures from the Middle East conflict are forcing central banks to tighten once again.
+
+The Bank of Japan faces particular pressure: Tokyo's core CPI data exceeded expectations, strengthening the case for rate hikes to defend the yen. The Bank of Canada held its rate at 2.25% for a fifth consecutive pause. IMF global market monitoring noted that tech stocks are dragging down global equities, while Chinese oil demand is softening due to a pivot in energy security policy.
+
+🔗 Sources: [Reuters](https://www.reuters.com/world/americas/global-markets-central-banks-graphics-2026-06-11/) · [KPMG](https://kpmg.com/us/en/articles/2026/june-2026-central-bank-scanner.html) · [Statistics of the World](https://statisticsoftheworld.com/blog/central-bank-super-week-june-2026-fed-ecb-boj-boe)
+
+## ▶ Bitcoin Under Pressure in June: ETF Outflows and Macro Headwinds
+
+Bitcoin experienced a 13% decline in early June, driven by massive ETF outflows and forced liquidations. Following the FOMC decision, BTC slipped from approximately $65,000–$66,000 to the $63,850–$64,400 range, with ETH falling 2.5%–3.5% in tandem. Analysts note that BTC is still holding above the key $83K support level, but technical signals suggest a risk of breaking out of its ascending channel.
+
+The macro logic is clear: a hawkish Fed pivot means high interest rates will persist longer, pressuring the valuation of non-yielding assets. Meanwhile, SpaceX included "water scarcity" as an AI infrastructure risk in its IPO filing for the first time, hinting that institutional allocation strategies toward crypto may shift with the broader macro environment.
+
+🔗 Sources: [Crypto Times](https://www.cryptotimes.io/2026/06/18/bitcoin-dips-altcoins-plunge-full-impact-of-june-2026-fomc-meeting-on-crypto/) · [BeInCrypto](https://beincrypto.com/bitcoin-price-prediction-june-2026/) · [CryptoThreads](https://cryptothreads.io/news/bitcoin-june-2026-crash-etf-outflows-and-liquidations/)
+
+---
+
+# 🌐 International Affairs & Geopolitics
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W26/geopolitics.jpg)
+
+## ▶ Strait of Hormuz Crisis Continues: The Biggest Supply Shock in Global Oil Markets
+
+Since the outbreak of US-Israeli military conflict with Iran in late February 2026, the Strait of Hormuz has entered de facto closure. This critical waterway—responsible for approximately 20% of global oil shipments (20–21 million barrels per day)—has ground to a halt due to insurer withdrawals and military standoffs. According to IEA/EIA reports, the strait lost roughly 6 million barrels per day of oil throughput in Q1, with the World Bank describing it as "the largest oil market shock in history."
+
+The situation escalated again in early June: a US Apache helicopter was shot down on June 8, the US launched retaliatory strikes the following day, and Iran attacked US military bases in the Gulf on June 10. The US Secretary of State has stated that any Iranian "toll" system for the strait would "render a diplomatic deal unworkable." OPEC+ is currently discussing alternative export routes and strategic petroleum reserve releases.
+
+🔗 Sources: [DefenceXP](https://www.defencexp.com/strait-of-hormuz-closure-2026-global-energy-shock/) · [Dallas Fed](https://www.dallasfed.org/research/economics/2026/0320) · [World Bank](https://blogs.worldbank.org/en/opendata/strait-of-hormuz-disruption-sends-oil-prices-surging) · [Mappr](https://www.mappr.co/strait-of-hormuz-crisis-2026/)
+
+## ▶ EU Launches "Tech Sovereignty" Package: Dual Legislation on Cloud and Chips
+
+On June 3, the European Commission unveiled its "Tech Sovereignty Package," anchored by the Cloud and AI Development Act and the Chips Act 2.0. The plan aims to triple EU data center capacity within five to seven years and, for the first time, legally defines "sovereign cloud"—emphasizing that sensitive European data must be controlled by European entities.
+
+The backdrop: anxiety among member states such as France over Europe's technological dependence has reached a peak—over 80% of critical digital products, services, and infrastructure come from non-EU suppliers. An EY survey found that 63% of tech companies developing AI within the EU already report facing "sovereign AI requirements." France and Germany also plan to release a joint "sovereign technology" definition during the Viva Tech conference on June 17–20.
+
+🔗 Sources: [EY Geostrategic Analysis](https://www.ey.com/en_gl/insights/geostrategy/geostrategic-analysis) · [Deutsche Bank Research](https://www.dbresearch.com/)
+
+## ▶ G7 Summit in France and the Global Governance Agenda
+
+The G7 leaders' summit held in France in late June was one of the most significant multilateral diplomatic events of the season. The agenda covered the Middle East crisis, AI governance, climate finance, and global supply chain security. Notably, June's global geo-agenda was exceptionally dense: alongside the G7 summit, South Korea's local elections tested President Lee Jae-myung's approval ratings, the Bank of Japan considered a rate hike, SpaceX's record-breaking IPO (with water-risk disclosure), and Pope Leo XIV's visit to Spain.
+
+Deutsche Bank research noted that the geopolitical landscape in June 2026 is characterized by "multi-layered superposition": escalating great power competition, the overt emergence of an AI arms race, and intensifying tension between energy security and climate goals.
+
+🔗 Sources: [Graphic News](https://www.graphicnews.com/en/pages/48050/world-agenda-june-2026) · [Deutsche Bank Research](https://www.dbresearch.com/) · [PRS Group](https://www.prsgroup.com/prs-geopolitics-insights-and-happenings-june-2026/)
+
+---
+
+# 🤖 Artificial Intelligence
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W26/ai-school.jpg)
+
+## ▶ Apple WWDC 2026: Siri's Largest-Ever Overhaul Becomes a True AI Agent
+
+At WWDC 2026, Apple unveiled a radically rebuilt Siri—no longer just a voice assistant, but a true AI agent capable of working across apps, understanding on-screen context, executing multi-step operations, and maintaining conversational memory. The new Siri supports seamless cross-device continuity (iPhone, iPad, Mac), and can search for information, photos, and complete complex tasks without leaving the current app.
+
+This is Apple's largest AI deployment in history: with over 1 billion active devices globally under its control, it could be the widest-reaching AI product launch ever. Meanwhile, both Apple and Microsoft have raised prices on some products due to memory and hardware cost increases driven by AI data center demand—consumers are now directly feeling the cost of the AI boom.
+
+🔗 Sources: [imfounder.com](https://imfounder.com/science-tech/ai/ai-updates-june-2026-siri-gemini-claude/) · [Tech Startups](https://techstartups.com/2026/06/26/top-tech-news-today-june-26-2026/)
+
+## ▶ Anthropic Files for IPO at $965 Billion Valuation, Claude Controversy Continues
+
+Anthropic has confidentially filed for an IPO with a valuation target of up to $965 billion, making it the second-largest AI unicorn after OpenAI. At the same time, its Claude model series (including the latest Claude Mythos) has sparked fierce debate in the AI community due to advanced jailbreaking techniques and safety concerns, prompting access restrictions.
+
+In a separate development, Jeff Bezos has made his first formal return to tech since stepping down from Amazon's leadership, launching an AI company called Prometheus focused on engineering simulation, manufacturing optimization, and rapid prototyping—eschewing chatbots in favor of the blue ocean of industrial AI.
+
+🔗 Sources: [Kersai](https://kersai.com/june-2026-ai-news-anthropic-spacex-google-business-impact/) · [imfounder.com](https://imfounder.com/science-tech/ai/ai-updates-june-2026-siri-gemini-claude/) · [DevFlokers](https://www.devflokers.com/blog/open-source-ai-roundup-june-2026)
+
+## ▶ Google Gemini Live Translate Goes Live, Breaking Language Barriers
+
+Google officially launched Gemini Live Translate in June, supporting real-time voice translation in 70+ languages while preserving the speaker's natural tone and emotion. The same technology has been integrated into Google Meet, enabling cross-language conversations during video calls with instant translated audio.
+
+This marks AI translation's upgrade from "text-level" to "conversation-level," with disruptive potential for tourism, multinational business, and international cooperation. Chinese AI company Moonshot AI also launched its Kimi Work desktop platform during the same period, capable of coordinating hundreds of AI agents for automated research, analysis, and report generation—the diverging paths of AI application scenarios between East and West are becoming increasingly clear.
+
+🔗 Sources: [imfounder.com](https://imfounder.com/science-tech/ai/ai-updates-june-2026-siri-gemini-claude/) · [AI Apps](https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/)
+
+---
+
+# 💻 Tech Industry
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W26/tech-industry.jpg)
+
+## ▶ Samsung Group Announces 10-Year $648 Billion South Korea Investment: Chips and AI
+
+Samsung Group announced an unprecedented 10-year, 1,000 trillion won (~$648 billion) investment plan. The funds will be heavily directed toward chip factories, AI data centers, batteries, and display panels in southwestern South Korea. This is not only the largest domestic investment in Samsung's history but also one of the single largest corporate investment commitments in the history of the global tech industry.
+
+The investment reflects the white-hot intensity of the AI infrastructure race—chip manufacturing capacity has become a national strategic asset. Analysts note that this move serves both as a direct response to competitors like TSMC and Intel, and as a long-term bet on the structural transformation of South Korea's economy.
+
+🔗 Sources: [Tech Startups](https://techstartups.com/2026/06/26/top-tech-news-today-june-26-2026/) · [CNBC](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html)
+
+## ▶ Onsemi Acquires Synaptics for $7 Billion, Betting on "Physical AI"
+
+US chipmaker Onsemi (formerly ON Semiconductor) announced the acquisition of touch and human-machine interface technology company Synaptics in an all-stock deal valued at approximately $7 billion. Onsemi is targeting Synaptics' technology portfolio in connectivity, edge processors, and human-machine interaction, aiming to push AI from data centers into the "physical world"—robotics, automotive, and industrial equipment.
+
+This acquisition signals that the semiconductor industry's competition is shifting from "serving the cloud" to "serving the edge"—Physical AI has become the next battleground for chip giants.
+
+🔗 Sources: [CNBC](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html) · [Tech Startups](https://techstartups.com/2026/06/26/top-tech-news-today-june-26-2026/)
+
+## ▶ Alphabet Plans $80 Billion Fundraise for AI Infrastructure Arms Race
+
+Alphabet announced plans to raise approximately $80 billion through a stock offering to fund massive AI infrastructure investments, compute capacity expansion, and global data center construction. The company stated that demand for AI services has now exceeded existing supply capacity. The scale of this fundraise is extraordinarily rare in tech industry history, roughly equivalent to the combined annual revenues of several major tech companies.
+
+Nvidia is simultaneously advancing its AI PC initiative—partnering with Microsoft, Dell, and HP to create "AI Agent PCs" capable of running advanced AI workloads locally. The AI competition is extending from software to hardware, from the cloud to end-user devices, forming a full-stack arms race.
+
+🔗 Sources: [imfounder.com](https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/) · [Tech Startups](https://techstartups.com/2026/06/26/top-tech-news-today-june-26-2026/)
+
+---
+
+# 🌱 Environment & Energy
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W26/environment-energy.jpg)
+
+## ▶ US Renewable Energy Reaches 30% of Power Generation; Coal Continues Decline
+
+According to SUN DAY Campaign data, renewable energy accounted for 30% of total US electricity generation in the first four months of 2026, marking a year-over-year increase of over 10%. Meanwhile, coal-fired power generation fell by 11.6%, and natural gas generation also declined. Solar and wind continue to dominate new capacity additions.
+
+IEA data shows that global renewable energy capacity additions hit a record 800 GW in 2025, the 23rd consecutive year of record-breaking growth. Solar PV accounted for over three-quarters of new additions, with wind power at roughly 20%. Renewables are expected to officially overtake coal as the world's largest source of electricity by mid-2026—ending coal's more than century-long reign.
+
+🔗 Sources: [Green Energy Times](https://greenenergytimes.org/2026/06/) · [IEA](https://www.iea.org/reports/global-energy-review-2026/technology-solar-pv-and-wind) · [Yale Climate Connections](https://yaleclimateconnections.org/2026/06/solar-surge-good-news-stories-on-the-renewable-energy-front/)
+
+## ▶ SpaceX IPO Filing Includes "Water" as AI Infrastructure Risk for the First Time
+
+SpaceX added a notable risk disclosure in its amended IPO filing: water scarcity could become a critical constraint on large-scale AI infrastructure operations and expansion. Modern data centers require massive volumes of water for cooling systems, and drought, local resource competition, and regulatory restrictions were all listed as potential threats.
+
+This disclosure brings the environmental cost of the AI boom to the forefront. Previously, industry focus centered on electricity and chips; SpaceX's warning reminds the market that AI expansion is not only a compute race but also a resource race. As data center water consumption continues to climb, communities in some regions have already begun opposing new data center construction—adding a new layer of uncertainty to tech companies' expansion plans.
+
+🔗 Sources: [imfounder.com](https://imfounder.com/science-tech/explosive-tech-news-june-2026-ai-lawsuits-ipos-cyberattacks/) · [Energy Connects](https://www.energyconnects.com/news/renewables/2026/june/)
+
+## ▶ Global Renewable Energy Investment Surges, Green Hydrogen Accelerates Toward Industrialization
+
+Global renewable energy investment continued its high-speed growth in 2026, with solar and wind projects achieving subsidy-free grid parity in multiple regions. The industrialization of green hydrogen (hydrogen produced by electrolyzing water with renewable power) has notably accelerated, with multiple governments and energy majors ramping up hydrogen infrastructure investment.
+
+According to solsetu.com, renewable energy investment has surged across Europe, Asia, and the Middle East, driven by energy storage technology expansion and new clean energy policies. Meanwhile, the disruption of traditional energy supply caused by the Strait of Hormuz crisis is objectively accelerating countries' energy diversification strategies—geopolitical risk is reshaping global energy investment flows.
+
+🔗 Sources: [Solsetu](https://solsetu.com/news/solar-news/global-renewable-energy-investments-surge-2026/) · [Energy Connects](https://www.energyconnects.com/news/renewables/2026/june/) · [Green Fuel Journal](https://www.greenfueljournal.com/post/renewable-energy-trends-in-2026-key-drivers-growth-forecasts-strategic-outlook)
+
+---
+
+# 🏥 Healthcare & Medicine
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W26/health-medical.jpg)
+
+## ▶ Stanford Scientists Regenerate Knee Cartilage, Potentially Ending the Era of Artificial Joint Replacements
+
+A Stanford School of Medicine research team published a landmark study in *Science* (June 12): a single injection that blocks the aging-related protein 15-PGDH reversed naturally occurring cartilage loss in the knee joints of elderly mice—not slowed it, but fully restored it. When the same treatment was applied to mice simulating ACL tear injuries, arthritis was completely prevented. More importantly, when the team tested the same approach on human cartilage samples taken from knee replacement surgeries, they observed the generation of fresh, functional cartilage tissue.
+
+Osteoarthritis affects one in five US adults, with direct annual medical costs of roughly $65 billion. The researchers call 15-PGDH a "gerozyme"—a protein that drives tissue degeneration with age. An oral version of the drug is already in clinical trials for age-related muscle atrophy, meaning human trials for cartilage regeneration may arrive sooner than expected.
+
+🔗 Sources: [ScienceDaily/Stanford Medicine](https://www.sciencedaily.com/releases/2026/06/260612021604.htm) · [PatientWing](https://www.patientwing.com/blog/the-weekly-wing-latest-medical-breakthroughs-june-2026)
+
+## ▶ ASCO 2026: GLP-1 Drugs (e.g., Ozempic) Show 30% Reduction in Breast Cancer Risk
+
+At the 2026 ASCO annual meeting, University of Pennsylvania researchers presented a major analysis: women taking GLP-1 receptor agonists had an approximately 30% lower risk of developing breast cancer compared to non-users. The study encompassed over 110,000 women aged 45–80 with a BMI ≥25 who had undergone breast imaging within the Penn Medicine system.
+
+The results held after controlling for age, race, BMI, breast density, and diabetes status. While observational studies cannot establish causation, this adds another line of evidence to the protective effects of GLP-1 receptor agonists—already shown to reduce risk of heart disease, stroke, kidney disease, and sleep apnea. GLP-1s are moving from "metabolic drugs" onto a track toward becoming "broad-spectrum preventive medicines."
+
+🔗 Sources: [PatientWing](https://www.patientwing.com/blog/the-weekly-wing-latest-medical-breakthroughs-june-2026) · [HealthcareNOW Radio](https://www.healthcarenowradio.com/now-in-life-sciences-june-2026/)
+
+## ▶ University of Montreal Discovers the "Secret Brake" Behind Cancer Immunotherapy Failure
+
+Scientists at the University of Montreal have discovered a hidden mechanism behind why certain cancers develop resistance to immunotherapy: cancer cells exploit a previously unknown immune system "brake" signal to evade immune attack (published June 9 in ScienceDaily). This discovery explains why some patients initially respond well to immune checkpoint inhibitors but then suddenly lose effectiveness.
+
+The research team is developing antibody drugs targeting this "brake" to reactivate the immune response suppressed by cancer cells. In a parallel development, the first-ever human tooth regeneration drug has entered clinical trials—data from PatientWing indicates that a drug capable of stimulating dentin regeneration is being tested in volunteers for safety and efficacy. Together, both studies point to a trend: regenerative medicine is moving from science fiction to the clinic.
+
+🔗 Sources: [ScienceDaily](https://www.sciencedaily.com/releases/2026/06/260608040021.htm) · [PatientWing](https://www.patientwing.com/blog/the-weekly-wing-latest-medical-breakthroughs-june-2026) · [Healthcare Readers](https://healthcarereaders.com/news/healthcare-news-30th-may-to-june-6th-2026)
+
+---
+
+> 📬 Coming next: Vol.05 | 2026-W27 (6.29–7.5)
+> 🔗 Read online: [jackson-chu-sys.github.io/whats-up](https://jackson-chu-sys.github.io/whats-up)
