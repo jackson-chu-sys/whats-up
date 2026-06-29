@@ -170,7 +170,10 @@
 
 1. 基于定稿中文版翻译英文版 → `issues/YYYY-WNN/index.en.md`
 2. 生成 Jekyll 发布页 → `_posts/zh/YYYY-MM-DD-volXX.md` + `_posts/en/YYYY-MM-DD-volXX.md`（含 frontmatter + permalink）
-3. 生成社交文案 → `social-xiaohongshu.txt` + `social-linkedin.txt`
+3. 生成社交文案 → `issues/YYYY-WNN/social.md`（含以下三部分）：
+   - **小红书文案**：中文，仅取7个板块共21条标题（不含正文摘要），emoji分段，文末附中文版链接 + #标签，适应小红书正文上限1000字
+   - **LinkedIn文案**：英文，仅取21条标题（不含正文摘要），professional分段，文末附英文版链接 + #标签，适应LinkedIn上限3000字符
+   - **朋友圈文案**：中文，精选6-7条标题+一句话卖点，附首页链接
 4. 更新英文索引 → `en/index.md`
 5. Git 提交并推送
 6. 微信推送英文版链接 + 社交文案摘要
