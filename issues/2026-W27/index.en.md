@@ -1,0 +1,231 @@
+# 🟣 what's Up! Global Weekly Digest｜Vol.05｜2026.06.29–07.05
+
+> *Let's take a look at what happened around the world last week.*
+
+> ⚠️ AI-generated, pending human review
+
+---
+
+# 🔥 Headlines｜Social Pulse & Trending Topics
+> *What the Internet Is Talking About*
+> This section curates trending discussions from X (Twitter), Reddit, and other social platforms, reflecting global public sentiment and attention signals.
+
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W27/trending-news.jpg)
+
+## 1️⃣ X Trending｜Taylor Swift's Wedding Breaks the Internet: Brands Race to Leverage AI Marketing
+
+On the July 4th Independence Day weekend, Taylor Swift and Travis Kelce's wedding became the biggest global social media event. A giant "JUST MARRIED!" sign lit up outside Madison Square Garden in New York, while brands scrambled to ride the wave with AI-generated content—some posting AI-crafted "wedding wishes," others deploying real-time digital ads, all aiming to siphon traffic from this mega-celebrity moment.
+
+**Why this matters:**
+This is the single largest entertainment traffic event of 2026 so far. Brand marketing has evolved from "riding trends" to "mass-producing AI content to ride trends," reflecting a new phase of AI-generated content penetration in real-time marketing. Platforms like The Knot simultaneously launched live coverage, further amplifying the reach. In the attention economy, whoever responds fastest to super-events holds the traffic key.
+
+🔗 Sources: [The New York Times](https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html) · [Deadline](https://deadline.com/2026/07/taylor-swift-travis-kelce-wedding-social-media-1236000000/)
+
+## 2️⃣ Reddit Trending｜Delta Flight Struck by Fireworks During Landing—Fourth of July Scare
+
+On the evening of July 4, a Delta flight (operated by United Airlines) was struck by ground-launched fireworks while landing at Chicago Midway International Airport. The incident triggered intense discussion across Reddit and X, with threads in r/news and r/aviation quickly reaching the front page (121+ points). Fortunately, no one was injured and the flight landed safely.
+
+**Key discussion takeaways:**
+- Fireworks were launched near the landing path, reigniting debate over fireworks control around airports
+- Users extensively shared statistics on similar incidents from 2020–2025, showing aviation safety risks spike significantly during Independence Day
+- The FAA has launched an investigation, but Reddit users widely question the adequacy of enforcement
+- Discussion extended to the need for technology upgrades addressing dual threats from drones and fireworks at airports
+
+🔗 Sources: [NBC Chicago](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/) · [Hacker News](https://news.ycombinator.com/item?id=48797141)
+
+## 3️⃣ Social Media Firestorm｜EU Council Fast-Tracks Controversial Chat Control Bill
+
+This week, the EU Council used a fast-track mechanism to push through the highly controversial Chat Control 1.0 bill, requiring instant messaging apps to scan users' private messages for Child Sexual Abuse Material (CSAM). The move sparked fierce protests on Reddit's r/europe, r/privacy, and HN (432 points), with the tech community dubbing it "the EU's surveillance bill."
+
+**Key controversies:**
+- The survival of end-to-end encryption (E2EE) is at the core—platforms like Signal and WhatsApp face a "scan or exit Europe" dilemma
+- Critics note the fast-track bypassed proper parliamentary debate, denouncing it as "a democratic step backward"
+- German digital rights organizations have announced plans to mount legal challenges
+- Global privacy advocates warn this could trigger a domino effect worldwide
+
+🔗 Sources: [Heise.de](https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html) · [Hacker News](https://news.ycombinator.com/item?id=48794446)
+
+---
+
+# 🏦 Finance & Macroeconomics
+
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W27/finance-markets.jpg)
+
+## ▶ OPEC+ Pledges Output Increase, Oil Prices Slide—Iran Peace Talks Reshape Energy Landscape
+
+OPEC+ committed to increasing production at its July 5 meeting, even as international oil prices were already on a downward trajectory. The move comes at a critical juncture as US-Iran peace talks reach a framework agreement—the easing of Iran tensions has significantly reduced shipping risks in the Strait of Hormuz, improving crude supply prospects. Saudi Arabia has been actively ramping up crude shipments since June, and this latest OPEC+ resolution further reinforces expectations of a supply-side loosening.
+
+**Impact analysis:** Falling oil prices will ease global inflation pressures, particularly benefiting energy-import-dependent Asian economies. However, this poses fiscal challenges for oil-producing nations, with Russia and some Middle Eastern countries potentially facing budget shortfalls. The oil market is shifting from a "geopolitical risk premium" model to "demand-led" pricing.
+
+🔗 Sources: [The New York Times](https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html) · [Reuters](https://www.reuters.com/business/energy/)
+
+## ▶ US Auto Payments Hit Record $777/Month as Down Payments Plummet
+
+According to Bloomberg's July 1 report, average US auto monthly payments have climbed to an all-time high of $777, while consumer down payment ratios have fallen to multi-year lows. This phenomenon reflects deep-seated pressures in the US consumer credit market—with interest rates remaining high and vehicle prices stubbornly elevated, consumers are reducing down payments to maintain purchasing ability, but long-term debt risk is accumulating.
+
+**Deeper signal:** Changes in the auto loan market often serve as a leading indicator for consumer credit. The combination of record-high monthly payments and declining down payment ratios suggests rising subprime risks, particularly as used-car loan default rates have climbed for three consecutive months. If the Fed maintains its hawkish stance through autumn, the auto credit market could become the next flashpoint.
+
+🔗 Sources: [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-01/us-car-payments-hit-a-record-777-a-month-as-down-payments-drop) · [Hacker News](https://news.ycombinator.com/item?id=48800210)
+
+## ▶ Egg Giant's Profits Soar: $6/Dozen Prices Mask $1.22B in Profit
+
+Fortune magazine reported on July 2 that major US egg producers recorded a staggering $1.22 billion in profits over the past year, while consumers face retail prices as high as $6 per dozen. Investigations suggest these prices far exceed what supply shocks like avian flu can reasonably explain, pointing to suspected price fixing.
+
+**Core issue:** As a basic household staple, skyrocketing egg prices are eroding purchasing power for low-income families. The US Department of Justice's antitrust division has launched an investigation. This episode is also a crucial slice of the broader inflation narrative—even as headline CPI moderates, structural food price increases continue to inflict real pain on ordinary consumers.
+
+🔗 Sources: [Fortune](https://fortune.com/2026/07/02/egg-price-fixing-crisis-cover-cash-and-eggs/) · [Hacker News](https://news.ycombinator.com/item?id=48799155)
+
+---
+
+# 🌐 International Affairs & Geopolitics
+
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W27/geopolitics.jpg)
+
+## ▶ Iran Holds State Funeral for Khamenei: Power Transition Signals Amid War
+
+On July 6, hundreds of thousands gathered in Tehran for the funeral of Supreme Leader Ayatollah Khamenei, killed in a joint US-Israeli strike four months ago. Funeral preparations spanned months, with the government using the occasion to project regime continuity and political strength under the shadow of large-scale war. Meanwhile, the Grand Mosalla complex—unfinished for nearly 40 years—served as the funeral venue, criticized by opponents as a symbol of unfulfilled promises of his rule.
+
+**Geopolitical impact:** Khamenei's death represents Iran's biggest political transformation since 1989. His son Mojtaba Khamenei is widely considered the most likely successor, but uncertainties in the power transition process could further influence the ongoing US-Iran peace negotiations. There is clear tension between public war fatigue and the regime's narrative of unity.
+
+🔗 Sources: [The New York Times](https://www.nytimes.com/live/2026/07/06/world/iran-funeral-khamenei) · [The New York Times](https://www.nytimes.com/2026/07/05/world/middleeast/iran-grand-mosalla-khamenei.html)
+
+## ▶ China Test-Fires SLBM in Pacific, Escalating Regional Tensions
+
+On July 6, China successfully test-fired a submarine-launched long-range ballistic missile in the Pacific Ocean. The launch comes as Australia signs new defense agreements with multiple Pacific island nations, drawing serious concern from Japan, New Zealand, and others. China stated the test-firing was a "routine exercise" not targeting any country.
+
+**Strategic context:** This test occurs at a critical juncture of intensifying competition for influence in Pacific island nations and deepening US-Japan-Australia military cooperation. SLBMs represent "second-strike" nuclear capability, carrying significant strategic signaling weight. Regional nations worry this test could accelerate militarization in the Pacific, undermining the traditional consensus around the South Pacific Nuclear-Free Zone.
+
+🔗 Sources: [The New York Times](https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html) · [Reuters World](https://www.reuters.com/world/asia-pacific/)
+
+## ▶ Russia Launches Deadly Missile Strikes on Kyiv Ahead of NATO Summit
+
+On July 5, as NATO prepared for its Brussels summit, Russia launched multiple ballistic missiles at the Ukrainian capital of Kyiv, killing at least 12 people. This marks the second large-scale Russian airstrike in less than a week, with targets including civilian infrastructure and residential areas.
+
+**Strategic intent:** Launching a major strike on the eve of the NATO summit is a classic Russian "escalate to negotiate" tactic—demonstrating sustained military capability while creating internal debate within the alliance over aid priorities. Ukrainian President Zelensky immediately called on NATO to accelerate delivery of additional air defense systems. Meanwhile, the Donetsk front remains locked in intense attrition, with Ukraine denying Russian claims of capturing a city.
+
+🔗 Sources: [The New York Times](https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html) · [The New York Times](https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html)
+
+---
+
+# 🤖 Artificial Intelligence
+
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W27/ai-school.jpg)
+
+## ▶ GPT-5.6 "Sol Ultra" Confirmed for Codex Platform Integration
+
+A July 6 HN hot thread (265 points) confirmed that OpenAI's latest flagship model, GPT-5.6 "Sol Ultra," will be integrated into its AI coding assistant, Codex. Following the White House's request for a phased release of GPT 5.6, Codex serves as a controlled distribution channel, initially available to vetted trusted partners, with public rollout pending safety evaluation completion.
+
+**Industry significance:** GPT-5.6 is OpenAI's first next-generation model released under federal regulatory oversight, and its "enterprise partners first, then public" release strategy may become a new industry paradigm. As a vertically integrated coding platform, Codex could reshape the developer tools market—directly competing with GitHub Copilot (Microsoft), Claude Code (Anthropic), and others.
+
+🔗 Sources: [Hacker News](https://news.ycombinator.com/item?id=48799614) · [Reuters](https://www.reuters.com/technology/artificial-intelligence/)
+
+## ▶ Zuckerberg Admits AI Agent Development Progress Is Slower Than Expected
+
+Meta CEO Mark Zuckerberg told employees at a July 2 internal meeting that AI agent development is "not progressing as quickly as hoped." The candid admission sparked widespread discussion on HN (133 points) and TechCrunch. Zuckerberg acknowledged that building AI agents capable of autonomously completing complex tasks has proven "much harder than initially imagined."
+
+**Deep analysis:** This isn't just Meta's dilemma. The entire industry is hitting bottlenecks in the transition from "chatbots" to "autonomous agents"—long-range planning, tool-calling reliability, and context management remain unresolved core challenges. Meta's frank acknowledgment also reflects how the AI industry, after explosive 2024-2025 growth, is entering a more sober "capability delivery phase."
+
+🔗 Sources: [TechCrunch](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) · [Hacker News](https://news.ycombinator.com/item?id=48767058)
+
+## ▶ ByteDance Discovers New Scaling Law, Potentially Extending the AI Boom
+
+According to the South China Morning Post on July 6, ByteDance's research team has discovered a new model scaling law that may break through current LLM performance bottlenecks, providing a technical foundation to sustain the AI industry's rapid growth. Research details have not yet been fully disclosed, but the news has generated intense reaction across HN and AI communities.
+
+**Industry outlook:** Since 2025, "Is Scaling Law hitting a wall?" has been one of AI's core debates. If ByteDance's discovery holds, it would mean larger models can still deliver significant performance gains, directly benefiting the compute supply chain (NVIDIA, TSMC, etc.) and potentially reshaping the US-China AI competition landscape. Meanwhile, ByteDance and Alibaba have announced they will disable human-like AI custom agents to comply with impending Chinese AI regulations, reflecting China's dual dynamic of accelerated innovation and tightened regulation.
+
+🔗 Sources: [South China Morning Post](https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom) · [South China Morning Post](https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom)
+
+---
+
+# 💻 Tech Industry
+
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W27/tech-industry.jpg)
+
+## ▶ OpenPrinter Explodes on HN: The Community Miracle of Open-Source Printing
+
+An open-source project called OpenPrinter rocketed to the top of HN with 820 points, becoming the most-watched tech project of the week. OpenPrinter is dedicated to building a fully open-source FDM 3D printer ecosystem, from hardware design to firmware. Maintained by the opentools.studio team, the project adopts a modular design philosophy.
+
+**Why is this so popular?** In a consumer 3D printing market increasingly dominated by closed ecosystems like Bambu Lab and Prusa, OpenPrinter represents the maker community's yearning for "truly open hardware." Community discussion centers on comparisons with Bambu Lab's lock-in strategy and the long-term advantages of open ecosystems in sustainability and repairability. The project also launched a suite of open-source tools targeting education.
+
+🔗 Sources: [Hacker News](https://news.ycombinator.com/item?id=48797916) · [OpenTools Studio](https://www.opentools.studio/)
+
+## ▶ Microsoft 365 Price Hike: "AI Innovation Tax" Reaches 42%
+
+Windows Latest reported on July 5 that Microsoft has officially implemented new Microsoft 365 pricing, with some products seeing price increases of up to 42%, driven primarily by bundling Copilot AI features into all plans. Microsoft frames this as "continuous innovation," but enterprise customers and the HN community widely call it the "AI tax."
+
+**Market reaction:** SMBs and educational institutions are hit hardest. Some organizations are reassessing whether to maintain full-featured subscriptions or pivot to alternatives like Google Workspace and LibreOffice. This marks the first time a major tech company has so aggressively passed AI costs directly to consumers—the success or failure of this pricing strategy may become a crucial bellwether for AI monetization across the SaaS industry.
+
+🔗 Sources: [Windows Latest](https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/) · [Hacker News](https://news.ycombinator.com/item?id=48799155)
+
+## ▶ Jim Keller's Chip Startup Pivots to Building Fabs—"Mini Fabs" Nearing Mass Production
+
+Legendary chip architect Jim Keller's Atomic Semi has rebranded as Fab2 and shifted its focus from chip design to building mass-producible small wafer fabs. According to Tom's Hardware on July 7, Fab2 has established operations in Texas, aiming to standardize the mass production of "mini fabs."
+
+**Industry impact:** Keller's pivot logic: with chip manufacturing highly concentrated in a few giants like TSMC and Samsung, geopolitical risks and supply chain fragility are driving demand for distributed manufacturing capability. Once validated, the mini fab model would lower barriers to chip production, potentially sparking a wave of "regional chip manufacturing." This is also a commercial response to the US CHIPS Act's push for domestic manufacturing.
+
+🔗 Sources: [Tom's Hardware](https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas) · [Hacker News](https://news.ycombinator.com/item?id=48765706)
+
+---
+
+# 🌱 Environment & Energy
+
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W27/environment-energy.jpg)
+
+## ▶ BBC Publishes Seven Climate Charts for Europe: Visual Evidence of Accelerating Extremes
+
+On July 5, the BBC presented the latest European climate change trends through seven key charts. The data shows Europe is warming at more than twice the global average, with extreme heat, drought, and flood events increasing significantly in 2025-2026. Southern Europe faces desertification risks, while Northern Europe confronts dramatic shifts in precipitation patterns. The report garnered 151 points on HN, sparking broad discussion on climate response measures.
+
+**Policy implications:** The EU Green Deal's 2030 emissions reduction targets face mounting real-world pressure. Carbon prices in the Emissions Trading System (ETS) remain elevated amid recent volatility, reflecting market expectations of more aggressive abatement policies. Tour de France riders are also completing stages in extreme heat—sport is becoming climate change's most visceral "felt indicator."
+
+🔗 Sources: [BBC](https://www.bbc.com/news/articles/c8e2j0j87reo) · [Northeastern University](https://news.northeastern.edu/2026/07/02/cycling-in-extreme-heat-tour-de-france/)
+
+## ▶ Swiss Solar Railway Trial Succeeds, Europe Eyes Expansion
+
+Euronews reported on July 5 that Switzerland has successfully completed the world's first solar railway system trial—installing load-bearing solar panels between railway tracks to directly power rail infrastructure. Italy has been identified as the next potential deployment country. The project received 82 points on HN, hailed as an innovative model for integrating transport infrastructure with clean energy.
+
+**Rollout prospects:** The advantage of solar railways lies in utilizing existing land resources (inter-track space) without requiring additional land. Swiss Federal Railways (SBB) stated initial data is "encouraging," but large-scale deployment still needs to address practical issues including maintenance costs, winter efficiency, and standardization. If economic viability is proven, Europe's dense railway network could become a significant carrier for distributed energy.
+
+🔗 Sources: [Euronews](https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri) · [Hacker News](https://news.ycombinator.com/item?id=48794302)
+
+## ▶ 4D-Printed Wind Turbine Blades: Lighter, Faster, More Efficient
+
+Concordia University in Canada announced on July 2 the development of a 4D printing method capable of producing lighter, faster-spinning wind turbine blades. The technology leverages smart materials that autonomously deform under specific conditions (temperature, humidity), enabling blades to adapt their shape at different wind speeds for improved power generation efficiency.
+
+**Technology outlook:** This marks the first deep integration validation of additive manufacturing with renewable energy equipment. The weight reduction from 4D-printed blades could lower tower structural requirements, potentially reducing wind deployment marginal costs by another 10-15%. The research team says field testing is the next step. If commercialized successfully, it would disrupt product roadmaps for traditional turbine manufacturers like Vestas and Siemens Gamesa.
+
+🔗 Sources: [Concordia University](https://www.concordia.ca/cunews/encs/2026/07/02/research-new-4d-printing-method-creates-lighter-faster-spinning-wind-turbine-blades.html) · [Hacker News](https://news.ycombinator.com/item?id=48799614)
+
+---
+
+# 🏥 Health & Medicine
+
+![Image](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W27/health-medical.jpg)
+
+## ▶ Major Study: Cannabis Users Face Significantly Higher Heart Attack Risk
+
+A large-scale study released by the American College of Cardiology (ACC) in March sparked renewed HN discussion (169 points) in early July. Tracking over 4 million participants, the study found that individuals using cannabis more than once per week had a nearly 50% higher risk of heart attack compared to non-users, with the association remaining significant even after adjusting for age, smoking, and alcohol consumption. The study also identified a "dose-response" relationship with cannabis use.
+
+**Public health significance:** Against the backdrop of cannabis legalization sweeping across North America and parts of Europe, this finding poses a major challenge to the public health narrative. Previously, the general public widely believed cannabis posed far fewer cardiovascular risks than tobacco, but new data suggests this perception may need revision. The research team calls for cannabis use to be incorporated into routine cardiovascular risk assessments.
+
+🔗 Sources: [American College of Cardiology](https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk) · [Hacker News](https://news.ycombinator.com/item?id=48767058)
+
+## ▶ AI Deciphers Vesuvius Scrolls: 2,000-Year-Old Secrets Buried in Volcanic Ash
+
+CBS News reported in July that researchers have successfully decoded the Herculaneum scrolls carbonized in the 79 CE eruption of Mount Vesuvius using advanced AI technology. By combining CT scanning with machine learning algorithms, the team successfully "virtually unrolled" these extremely fragile, physically unopenable papyrus scrolls, revealing ancient philosophical texts.
+
+**Interdisciplinary exemplar:** This represents one of AI's most groundbreaking applications in archaeology. The project was initially driven by the "Vesuvius Challenge" prize competition, attracting computer vision and machine learning teams globally. The latest decoded content is believed to contain previously unknown Greek philosophical works, potentially rewriting certain established narratives in Western intellectual history.
+
+🔗 Sources: [CBS News](https://www.cbsnews.com/news/ancient-scrolls-mount-vesuvius-eruption-ai-decoding/) · [Hacker News](https://news.ycombinator.com/item?id=48799614)
+
+## ▶ Key Driver of Declining US Fertility: The Left-Wing "Baby Gap"
+
+A July study published in Nature sparked heated discussion (HN 54 points), identifying the declining fertility intentions of left-leaning populations as the primary driver of falling US birth rates in recent years. Using large-scale sociological survey data, the study found that political ideology remained an independent and significant factor explaining fertility differences even after controlling for income, education, urbanization, and other variables.
+
+**Social implications:** This is not merely a demographic issue but carries profound political and social meaning. The "ideological polarization of fertility" could systematically alter voter demographics across generations. The research team points to childcare costs, climate anxiety, and job insecurity as the main reasons for declining fertility among left-leaning groups. Policymakers seeking to reverse fertility trends may need to focus on structural economic support rather than cultural appeals.
+
+🔗 Sources: [Nature](https://www.nature.com/articles/s41598-026-57582-3) · [Hacker News](https://news.ycombinator.com/item?id=48758802)
+
+---
+
+> 📬 Next Issue: Vol.06 | 2026-W28 (7.06–7.12)
+> 🔗 Original link: [jackson-chu-sys.github.io/whats-up](https://jackson-chu-sys.github.io/whats-up)
