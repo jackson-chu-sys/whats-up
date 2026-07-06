@@ -29,7 +29,7 @@ title: What's Up! | English Edition
 | Vol.05 | 2026-W27 (6.29–7.05) | [Read](2026-07-06-vol05.html) |
 | Vol.04 | 2026-W26 (6.22–6.28) | [Read](2026-06-29-vol04.html) |
 | Vol.03 | 2026-W25 (6.15–6.21) | [Read](2026-06-22-vol03.html) |
-| Vol.02 | 2026-W24 (6.8–6.14) | Under review |
+| Vol.02 | 2026-W24 (6.8–6.14) | [Read](2026-06-14-vol02.html) |
 
 ---
 
