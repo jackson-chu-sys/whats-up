@@ -1,0 +1,25 @@
+🟣 what's Up! Global Signals Weekly — Vol.07 | July 13–19, 2026
+
+This week brought a convergence of geopolitical escalation, legal shockwaves in tech, and market-defining economic signals. Here's what professionals need to know:
+
+Key Takeaways:
+
+1️⃣ Apple v. OpenAI: The Trade Secret Lawsuit That Could Reshape AI Talent Mobility
+Apple's 41-page federal complaint accuses OpenAI of "systematic" trade secret theft involving over 400 former Apple employees. Apple alleges coordinated efforts — including bringing physical Apple parts to job interviews and exploiting authentication vulnerabilities. OpenAI dismissed the suit as "without merit" while simultaneously revealing its first hardware product. This case could set far-reaching precedents for IP protection in the AI talent wars.
+
+2️⃣ U.S.-Iran War Escalates: Oil Breaches $90, Strait of Hormuz Shipping Stalls
+Peace talks collapsed. Nine consecutive nights of U.S. airstrikes. Brent crude surged past $90/bbl as the Strait of Hormuz — the conduit for ~20% of global oil — ground to a halt. The ripple effects are global: UNICEF warns 23.4 million children could fall into poverty by year-end, with African and Asian nations bearing the heaviest burden.
+
+3️⃣ AI Capex Frenzy: Big Five Tech to Spend $724B in 2026
+Microsoft, Amazon, Meta, Alphabet, and Oracle are projected to invest a combined $724 billion in capex this year — nearly doubling 2025 levels — with the figure approaching $900B by 2027. SpaceX's $85B mega-IPO and the semiconductor sector's +88% Q2 return underscore the scale of AI-driven market transformation.
+
+4️⃣ Tate Brothers Arrested: Transnational Legal Drama Unfolds in Miami
+Andrew and Tristan Tate were arrested by U.S. Marshals. The UK seeks extradition on 38 new charges including rape and human trafficking. With millions of followers and prior platform bans, the case tests international cooperation frameworks and the accountability of influencer-platform ecosystems.
+
+5️⃣ Cyclospora Outbreak & War's Public Health Toll
+1,645 confirmed Cyclospora infections in the U.S. — a 6x surge YoY — linked to Taylor Farms lettuce. Meanwhile, the Middle East conflict's health externalities are mounting: fertilizer price spikes, malnutrition crises in Nigeria, and overloaded public health systems in vulnerable economies.
+
+📖 Full Issue (EN): https://jackson-chu-sys.github.io/whats-up/en/2026-07-19-vol07.html
+📖 中文版: https://jackson-chu-sys.github.io/whats-up/zh/2026-07-19-vol07.html
+
+#GlobalSignals #Geopolitics #AI #Markets #PublicHealth #WeeklyBrief

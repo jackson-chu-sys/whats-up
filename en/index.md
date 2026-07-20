@@ -10,6 +10,10 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.07 | July 13–19, 2026**
+[Read now](2026-07-19-vol07.html) · [🇨🇳 中文版](/zh/2026-07-19-vol07.html)
+> Tate brothers arrested in Miami, Spain wins 2026 World Cup, Apple sues OpenAI for trade secret theft, oil surges past $90 as U.S.-Iran war escalates, VP Vance welcomes fourth child, AI capex frenzy hits $724B, Cyclospora outbreak infects 1,645, and more.
+
 **🟣 Vol.06 | July 6–12, 2026**  
 [Read now](2026-07-12-vol06.html) · [🇨🇳 中文版](/zh/2026-07-12-vol06.html)  
 > GPT-5.6 three-tier launch reshapes AI pricing, Strait of Hormuz crisis sends oil surging 9.6%, Senator Lindsey Graham dies suddenly, Hungary accelerates post-Orbán transition, 200+ economists urge action on AI disruption, SpaceX sheds $1T in market value, and more.
@@ -27,6 +31,7 @@ title: What's Up! | English Edition
 
 | Issue | Date | Link |
 |-------|------|------|
+| Vol.07 | 2026-W29 (7.13–7.19) | [Read](2026-07-19-vol07.html) |
 | Vol.06 | 2026-W28 (7.06–7.12) | [Read](2026-07-12-vol06.html) |
 | Vol.05 | 2026-W27 (6.29–7.05) | [Read](2026-07-06-vol05.html) |
 | Vol.04 | 2026-W26 (6.22–6.28) | [Read](2026-06-29-vol04.html) |
