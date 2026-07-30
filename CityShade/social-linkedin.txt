@@ -1,0 +1,34 @@
+☀️ CityShade | White Paper Release: Distributed Deployable PV Shading as Urban Heat-Dome-Adaptive Infrastructure
+
+🔥 The problem
+Heat domes are turning into a city-scale, multi-week threat. High-pressure subsidence plus the urban heat island effect creates a positive feedback loop — the more we run air conditioners, the hotter the city gets. Heat events that once lasted 3–5 days now stretch to 10–15.
+
+💡 Our thesis
+Don't just block the sun — convert it. Distributed deployable photovoltaic shading intercepts the solar shortwave radiation that would otherwise heat asphalt and buildings, and turns it into electricity. The result: a negative net thermal effect.
+
+📊 By the numbers (engineering estimates)
+▶ Local cooling under the shade: ~3–8°C at summer peak (surface temperature down 10–20°C)
+▶ Near-surface heat load cut from ~85% (unshaded) to ~20% — roughly three-quarters
+▶ District-average cooling scales with coverage: ~0.05–0.1°C at 10% → ~0.3–0.5°C at 50%
+▶ Parking-lot scenario: ~3.8-year payback, 18–22% IRR
+▶ Single system: 4.7 kWh/day in summer, only 0.3 kWh self-consumption
+
+🏗️ Five deployment scenarios
+▶ Parking lots — the most mature, scalably replicable direction ("PV + storage + charging" loop)
+▶ Leisure spaces — umbrella-petal canopies for plazas and parks
+▶ Slow-traffic roads — zigzag folding grilles forming continuous shade corridors
+▶ Fast-traffic roads — tubular-truss gantries cooling expressway pavement
+▶ Building facades — single-roller flexible PV curtains balancing shade and daylight
+
+🌏 Why now
+China's PV supply chain — over 80% of global capacity from polysilicon to modules — gives this route a structural cost and resilience advantage. Urban cooling demand meets PV capacity absorption: a two-way positive feedback.
+
+🤝 Our position
+This is not geoengineering. It is reversible, measurable, free of cross-boundary spillover, and economically positive — a genuine "no-regret" intervention. Parking lots lead scaled rollout; deployability is an optional enhancement for extreme weather, not the core pitch. Standards, approval, supply chain, and O&M remain the key challenges to scale.
+
+We welcome discussion with researchers, urban planners, and industry partners on pilots and standards.
+
+📖 Full white paper (EN) 👉 https://github.com/jackson-chu-sys/whats-up/blob/main/CityShade/Whitepaper_Urban_Heat_Dome_Adaptive_PV_Shading_V1.0.md
+📖 中文版 👉 https://github.com/jackson-chu-sys/whats-up/blob/main/CityShade/白皮书_城市热穹顶适应性光伏遮阳技术路线_V1.0.md
+
+#UrbanHeat #HeatDome #SolarEnergy #Photovoltaic #ClimateAdaptation #UrbanCooling #HeatIsland #CleanEnergy #EnergyStorage #Sustainability #ClimateTech #RenewableEnergy #GreenInfrastructure #NetZero #CityShade
