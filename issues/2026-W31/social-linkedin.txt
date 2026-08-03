@@ -1,0 +1,43 @@
+🟣 what's Up! Global Signals Weekly｜Vol.09｜July 27 – August 2, 2026
+
+22 signals from a week when the AI trade split into winners and losers. Here's the full rundown:
+
+🔥 Social Pulse
+• Microsoft +22% vs. Meta's losing streak: "The Great AI Trade Split" ignites the internet
+• Open-weight AI "is having its Kubernetes moment": Hacker News pivots en masse
+• UEFA's 55 nations unanimously boycott FIFA: The biggest crisis in World Cup history
+
+🏦 Finance & Macro
+• Fed holds at 9–3: Three rare dissents demand hikes; 10-year Treasury yield hits 4.73%
+• Microsoft gains a record $450B in a day; Apple suffers one of the largest single-day wipeouts ever
+• CXMT debuts on the STAR Market: +466% on day one crowns mainland China's largest IPO
+
+🌐 International & Politics
+• Post-ceasefire stalemate: Iran's new Supreme Leader links a peace deal to Israel halting strikes on Lebanon
+• The August 1 deadline: Trump swings "across-the-board tariffs" at 60 trading partners
+• Zelensky meets Britain's new PM: Drone-jamming technology delivered
+
+🤖 AI Frontier
+• Anthropic releases Claude Opus 5: Near-flagship performance at half the price of Fable 5
+• Google DeepMind unveils Gemini Robotics 2: Humanoids get "whole-body intelligence"
+• Open-weight arms race: Kimi K3 hits 2.8T parameters; Inkling-Small punches above its weight
+
+💻 Tech Industry
+• GitHub launches Stacked PRs public preview: A milestone for developer workflows
+• Judge dismisses Google's DMCA suit: Anti-scraping mechanisms are not copyright gates; SerpApi wins
+• AI security alert: Document-borne AI worm can self-propagate through Word Copilot
+
+🌱 Environment & Energy
+• July may become the hottest month in U.S. history: ~3,000 heat records fall
+• Europe's "Summer of Reckoning": Largest wildfires + highest temperatures on record
+• Oil's roller coaster: From above $100 back to $88
+• CityShade: Retractable solar shading as a new paradigm for urban cooling
+
+🏥 Health & Medicine
+• Uganda declares its Ebola outbreak over; the DRC outbreak becomes the second-largest in history
+• Major HIV vaccine breakthrough: Broadly neutralizing antibodies induced at scale for the first time
+• WHO: Hantavirus outbreak officially over; U.S. cyclospora outbreak reaches 45 states
+
+📖 Read the full edition 👉 https://jackson-chu-sys.github.io/whats-up/en/2026-08-03-vol09.html
+
+#GlobalSignals #AITrends #Markets #Geopolitics #ClaudeOpus #GeminiRobotics #OpenSourceAI #ClimateChange #PublicHealth #CityShade #WhatsUpWeekly

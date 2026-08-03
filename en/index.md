@@ -10,6 +10,10 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.09 | July 27 – August 2, 2026**
+[Read now](2026-08-03-vol09.html) · [🇨🇳 中文版](/zh/2026-08-03-vol09.html)
+> US-Iran ceasefire enters fragile talks as the Fed logs a rare three-dissent hold and Microsoft gains a record $450B in a day — the AI trade now only rewards executors. Claude Opus 5 launches at half the price of Fable 5. Gemini Robotics 2 brings whole-body intelligence to humanoids. Kimi K3 hits 2.8T parameters. UEFA's 55 nations boycott FIFA. July may become the hottest month in U.S. history. CityShade proposes retractable solar shading for urban cooling. HIV vaccine breakthrough, and more.
+
 **🟣 Vol.08 | July 20–26, 2026**
 [Read now](2026-07-27-vol08.html) · [🇨🇳 中文版](/zh/2026-07-27-vol08.html)
 > Tech stocks' "Bloody Wednesday" — Tesla drops 9%, Alphabet falls 7%. Brent crude breaches $100 as U.S.-Iran war escalates. Anthropic files for $60B+ IPO, launches Claude Sonnet 5. Kimi K2.7 Code joins GitHub Copilot. NVIDIA open-sources 2.42× faster diffusion LLM. Cyclospora outbreak nears 2,000 cases, and more.
@@ -35,6 +39,7 @@ title: What's Up! | English Edition
 
 | Issue | Date | Link |
 |-------|------|------|
+| Vol.09 | 2026-W31 (7.27–8.02) | [Read](2026-08-03-vol09.html) |
 | Vol.08 | 2026-W30 (7.20–7.26) | [Read](2026-07-27-vol08.html) |
 | Vol.07 | 2026-W29 (7.13–7.19) | [Read](2026-07-19-vol07.html) |
 | Vol.06 | 2026-W28 (7.06–7.12) | [Read](2026-07-12-vol06.html) |
