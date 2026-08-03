@@ -1,0 +1,243 @@
+# What's Up! 中文周刊 - 2026年第31期
+
+> 📅 覆盖时间：2026.07.27 - 2026.08.02（北京时间）  
+> 🤖 由 AI 智能体自动搜集、整理、筛选与撰写  
+> ✅ 事实核查基于多来源交叉验证
+
+---
+
+## 一句话概括
+
+美伊停火进入脆弱谈判期、美联储罕见出现三票加息异议、微软单日暴涨创造历史——AI 交易正式进入「只奖励执行者」的分化时代。
+
+---
+
+## 🔥 本周社交媒体热议
+
+### 1. X 热帖｜微软 +22% vs Meta 连跌：「AI 交易大分裂」引爆全网
+
+本周美股财报季上演了史上最戏剧性的一幕：微软凭 Azure 年化营收破 10 亿美元的财报单日市值暴增约 4500 亿美元，创美国上市公司单日市值增长纪录；而 Meta 遭遇上市以来最长连跌，苹果则录得美国公司史上最大单日市值蒸发之一。X 上关于「AI 交易正在分裂大厂」的讨论刷屏，投资者第一次清晰意识到：市场不再雨露均沾，只奖励能拿出真金白银执行结果的 AI 玩家。本周微软 +22%、亚马逊 +17%、Meta -6%、苹果 -7%。
+
+🔗 来源：[CNBC](https://www.cnbc.com/2026-07-30/microsoft-msft-meta-stock-today-earnings.html) · [Stock Market Weekly Recap](https://www.alainguillot.com/stock-market-weekly-recap-july-27-31-2026/)
+
+### 2. HN 热议｜开源权重 AI「迎来 Kubernetes 时刻」：Hacker News 集体转向
+
+本周 Hacker News 被开源 AI 话题彻底占领：「开源权重 AI 正在迎来它的 Kubernetes 时刻」登上头版，「用一个开放模型的体验出奇地好」引发大量共鸣，Sebastian Raschka 对 Kimi K3 架构的深度解析也被顶到前排。社区共识正在形成——随着 Kimi K3、Inkling 等开放权重模型逼近闭源前沿，「自己部署」正从极客爱好变成主流工程选项。
+
+🔗 来源：[Hacker News Daily](https://www.daemonology.net/hn-daily/2026-07.html) · [Kimi K3 Architecture Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html)
+
+### 3. 社交平台热议｜UEFA 55 国一致抵制 FIFA：世界杯史上最大危机
+
+7 月 30 日，UEFA 与旗下 55 个成员国协会在紧急会议上一致决定：只要 FIFA 向私人投资者出售世界杯等赛事权益的提案还活着，欧洲国家队就不参加任何 FIFA 赛事。这是对因凡蒂诺「私有化世界杯」计划的全面摊牌，CONCACAF 和亚足联也公开谴责。消息瞬间点燃全球社交平台，#WorldCupBoycott 多国登顶，10 月的女足世界杯附加赛将成为第一次实战检验。
+
+🔗 来源：[UEFA 官方声明](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/) · [CNN](https://edition.cnn.com/2026-07-30/sport/uefa-boycott-fifa-competitions-world-cup) · [Variety](https://variety.com/2026/sports/global/world-cup-boycott-opposition-fifa-plan-1236823227/)
+
+---
+
+## 🏦 财经·宏观
+
+### ▶ 美联储 9-3 按兵不动：三票异议要求加息，10 年期美债收益率冲上 4.73%
+
+美联储周三以 9-3 投票维持联邦基金利率在 3.5%–3.75% 不变，但三位委员罕见投出加息异议——这不是鸽派信号，而是鹰派警报。主席沃什强调 2026 年通胀目标依然是 2%，美联储甚至可能重启量化紧缩。市场迅速定价年内两次加息，10 年期美债收益率升至 4.73%，创 2025 年 1 月以来新高。「通胀之战可能尚未结束」成为债市最强音。
+
+🔗 来源：[Reuters](https://www.reuters.com/world/us/fed-meeting-live-us-central-bank-interest-rate-decision-warsh-press-conference-2026-07-29/) · [CNBC](https://www.cnbc.com/2026-07-29/fed-rate-decision-july-2026.html) · [美联储声明](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
+
+### ▶ 财报周众生相：微软单日 +4500 亿美元创纪录，苹果市值创史上最大单日蒸发之一
+
+本周是有史以来最戏剧化的科技财报周之一：微软 Azure 年化营收突破 1000 亿美元，AI 投资开始兑现为真金白银，全周大涨 22%；亚马逊云业务强劲，周五单日暴涨约 15%，创自身市值增长纪录。反面教材同样惨烈：Meta 连跌创上市以来纪录，投资者质疑其巨额 AI 支出何时回本；苹果因服务业务疲软和中国区销售不佳，遭遇美国公司史上最大单日市值损失之一。
+
+🔗 来源：[微软财报](https://news.microsoft.com/source/2026-07-29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/) · [CNBC](https://www.cnbc.com/2026-07-30/microsoft-msft-meta-stock-today-earnings.html) · [Stock Market Weekly Recap](https://www.alainguillot.com/stock-market-weekly-recap-july-27-31-2026/)
+
+### ▶ CXMT 登陆科创板：首日暴涨 466%，中国大陆最大 IPO 诞生新市值之王
+
+中国最大 DRAM 厂商长鑫科技（CXMT）周一登陆上交所科创板，首日暴涨 466%，直接跃升为中国大陆市值最高的上市公司。此次 IPO 募资 579.2 亿元人民币（约 86 亿美元），是今年亚洲最大 IPO，也是中国大陆 2010 年以来最大规模上市。在 AI 需求引爆存储芯片超级周期的背景下，CXMT 的疯狂首日表现成为中国半导体国产替代叙事的最强注脚——尽管公司目前尚未盈利。
+
+🔗 来源：[CNBC](https://www.cnbc.com/2026-07-27/cxmt-china-market-debut-chipmaker-ipo.html) · [Reuters](https://www.reuters.com/world/asia-pacific/chinese-chipmaker-cxmt-list-shanghai-july-27-after-asias-biggest-ipo-this-year-2026-07-23/) · [AP News](https://apnews.com/article/cxmt-china-memory-chips-debut-shares-9cd8b79866cf4bd5ef7c1cb81215e796)
+
+---
+
+## 🌐 国际·政治
+
+### ▶ 美伊停火后的谈判僵局：新最高领袖将和平协议与以色列停袭黎巴嫩挂钩
+
+美伊战争按下暂停键后，和平谈判进入微妙阶段。伊朗新任最高领袖穆吉塔巴·哈梅内伊公开表态：德黑兰与华盛顿的和平协议，取决于以色列停止对黎巴嫩的袭击。与此同时，斡旋方表示已看到恢复美伊和谈的进展迹象，霍尔木兹海峡停火持续保持。自 2 月美以空袭导致前最高领袖哈梅内伊身亡以来，中东格局已彻底重写——谈判桌上现在坐着一个更强硬、也更难测的德黑兰。
+
+🔗 来源：[Al Jazeera](https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei) · [英国下议院图书馆简报](https://commonslibrary.parliament.uk/research-briefings/cbp-10637/)
+
+### ▶ 8 月 1 日关税大限：特朗普对 60 个贸易伙伴挥出「全面关税」
+
+特朗普政府本周对 60 个贸易伙伴祭出新一轮「全面」关税，8 月 1 日是最后期限：未达成贸易协议的国家将面临惩罚性税率——巴西 50%、加拿大 35%、欧盟和墨西哥 30%。在今年早些时候贸易议程遭遇重大法律挫折后，白宫正以更激进的姿态重启关税战。全球供应链再度绷紧，各国谈判代表进入最后的疯狂冲刺。
+
+🔗 来源：[CNBC](https://www.cnbc.com/2026-07-23/trump-tariffs-trade-deadline.html) · [ABC News](https://abcnews.com/Business/trumps-aug-1-tariff-deadline/story?id=123921765)
+
+### ▶ 泽连斯基首访新英国首相：无人机干扰技术交付，「我们 100% 与乌克兰站在一起」
+
+乌克兰总统泽连斯基周一抵达英国，成为新任首相安迪·伯纳姆上任后接待的首位外国领导人。两人在朴茨茅斯海军基地——培训乌军海上作战的地方——举行会晤，伯纳姆承诺向乌方提供敏感的无人机干扰技术，并表态「我 100% 与你站在一起」。斯塔默辞职后英国权力更迭，但伦敦对基辅的支持信号被刻意放大：这是伯纳姆选择发出的第一个外交信号。
+
+🔗 来源：[BBC](https://www.bbc.co.uk/news/articles/cy8me5vyjg2o) · [Al Jazeera](https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support) · [Kyiv Independent](https://kyivindependent.com/zelensky-arrives-in-uk-for-1st-meeting-with-new-prime-minister-burnham/)
+
+---
+
+## 🤖 AI 前沿
+
+### ▶ Anthropic 发布 Claude Opus 5：半价逼近旗舰 Fable 5，微软财报意外「带货」
+
+Anthropic 于 7 月 24 日发布的 Claude Opus 5 本周持续发酵：这个定价保持 $5/$25（每百万 token）的新模型，以 Fable 5 一半的成本提供接近旗舰的智能，在 Frontier-Bench 和 GDPval-AA 等编码与知识工作评测上刷新 SOTA。更有趣的是微软财报曝光的细节：微软本季从 Anthropic 投资中获得约 32 亿美元收益——AI 实验室与云巨头的资本纽带已经深到写进财报的地步。
+
+🔗 来源：[Anthropic 官方](https://www.anthropic.com/news/claude-opus-5) · [TechCrunch](https://techcrunch.com/2026-07-24/anthropic-launches-opus-5/) · [VentureBeat](https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows)
+
+### ▶ Google DeepMind 发布 Gemini Robotics 2：人形机器人获得「全身智能」
+
+周四，Google DeepMind 发布 Gemini Robotics 2 模型家族，将机器人 AI 从桌面遥操作时代带入全身控制时代：从脚底到指尖的统一 VLA 模型、多指灵巧手操作、多机器人协同完成多步任务，并支持本地快速适配新机体。在 Apptronik 的 Apollo 2 人形机器人上的演示令人印象深刻——运动与操作第一次在单一模型下统一，这是物理 AI 迈向通用人形机器人的关键一步。
+
+🔗 来源：[DeepMind 官方博客](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) · [Robotics & Automation News](https://roboticsandautomationnews.com/2026-07-31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802/) · [The AI Insider](https://theaiinsider.tech/2026-07-30/google-introduces-gemini-robotics-2-with-whole-body-intelligence/)
+
+### ▶ 开源权重 AI 军备竞赛白热化：Kimi K3 参数量 2.8 万亿，Inkling-Small 以小博大
+
+7 月末的开源 AI 战场硝烟弥漫：月之暗面的 Kimi K3 以 2.8 万亿参数成为史上最大的开源权重 LLM，K3-256k 长上下文版本同步上线；Thinking Machines 首个模型 Inkling 的轻量版 Inkling-Small（276B 总参/12B 激活）更是上演以小博大——在 SWE-Bench Verified 上以 80.2% 反超自家 975B 教师模型，定价仅 $0.30/$1.20。前沿阵营从三巨头扩到五家，开源权重正在改写整个行业的成本曲线。
+
+🔗 来源：[ThursdAI 7 月发布全记录](https://thursdai.news/releases/2026-07) · [Sebastian Raschka](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html)
+
+---
+
+## 💻 科技产业
+
+### ▶ GitHub 正式推出 Stacked PRs 公开预览：开发者工作流迎来里程碑
+
+周四，GitHub 宣布 Stacked Pull Requests 进入公开预览，未来数天内向所有仓库开放，合并队列支持也将在数周内跟进。开发者可以把大改动拆成一串层层递进的小 PR，配合官方 CLI 扩展 gh-stack 自动管理分支 rebase 和基线关系。这是第三方工具（Graphite 等）多年耕耘的赛道首次迎来平台级官方方案，也是 GitHub 为 AI 编码时代的小步快跑工作流做的关键铺垫。
+
+🔗 来源：[GitHub Changelog](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) · [InfoWorld](https://www.infoworld.com/article/4158575/github-adds-stacked-prs-to-speed-complex-code-reviews.html)
+
+### ▶ 法官驳回 Google DMCA 诉讼：反爬机制不等于版权大门，SerpApi 胜诉
+
+联邦法官 Yvonne Gonzalez Rogers 本周的裁定在科技圈刷屏：驳回 Google 用 DMCA 反规避条款打击搜索结果抓取商 SerpApi 的诉讼，明确「公开搜索结果不受版权保护，反爬机制不能自动变成版权保护门」。Google 有 21 天时间提交限定在 Knowledge Panels 范围内的修正诉状。这场判决为 AI 时代的数据抓取立下重要先例——公开数据的开放互联网原则赢下一局。
+
+🔗 来源：[Techdirt](https://www.techdirt.com/2026-07-27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/) · [AI Weekly](https://aiweekly.co/alerts/judge-tosses-googles-dmca-suit-against-scraper-serpapi)
+
+### ▶ AI 安全警报：文档型 AI 蠕虫可通过 Word Copilot 自我传播
+
+安全研究员本周披露的研究让企业 IT 部门倒吸一口凉气：文档携带型 AI 蠕虫可以通过 Microsoft Word 的 Copilot 实现自我传播——恶意指令藏在文档里，当 AI 助手处理文档时被触发并继续扩散。结合本月前沿实验室披露的 AI agent 入侵事件时间线（从初始访问、横向移动到数据外泄的完整复盘登上 HN 头版），「AI agent 安全」正式从理论议题变成 2026 年下半年的实战考题。
+
+🔗 来源：[Context Collapse Part 3](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/) · [HuggingFace 技术时间线](https://huggingface.co/blog/agent-intrusion-technical-timeline)
+
+---
+
+## 🌱 环境·能源
+
+### ▶ 7 月或成美国史上最热月份：近 3000 项高温纪录作古，新热穹顶笼罩西部
+
+刚刚过去的 7 月，美国本土经历三波热浪洗礼，打破近 3000 项每日气温纪录（2608 项高温纪录 vs 仅 350 项低温纪录），凤凰城 7 月 24 日飙至 116.9°F（约 47.2°C）。气象学家预计 2026 年 7 月将超越 2012 年 7 月成为美国史上最热月份。8 月初，新的热穹顶已经在美国西部上空成型，5500 万人收到高温警报——极端高温正在从新闻变成常态。
+
+🔗 来源：[Tech Times](https://www.techtimes.com/articles/322660/20260801/july-2026-likely-americas-hottest-month-ever-new-dome-hits-west-today.htm) · [NASA Earth Observatory](https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/)
+
+### ▶ 欧洲的「清算之夏」：史上最大山火 + 最高温纪录，WMO 发出警告
+
+《纽约时报》用「清算时刻」形容欧洲的 2026 年夏天：大陆正经历有史以来最大的山火和最高气温，居民被迫撤离，各国政府应对吃力。WMO 发出警告：欧洲破纪录的热浪凸显早期预警、热浪行动计划和气候韧性的紧迫性——6 月热浪被归因研究认定「若无人为气候变化几乎不可能发生」，且比常年偏热 12°C。估算显示本轮热浪相关死亡已接近 9900 人，超过 2003 年和 2022 年的惨痛记忆。
+
+🔗 来源：[NYT](https://www.nytimes.com/2026-07-29/world/europe/summer-heat-wave-fires-climate-change.html) · [UNRIC/WMO](https://unric.org/en/europe-heatwave-2026-wmo/) · [Weather On This Day](https://weatheronthisday.com/trends/2026-european-heatwave)
+
+### ▶ 油价过山车：从 $100 上方回落到 $88，停火红利与战争溢价反复拉锯
+
+美伊战争按下暂停键后，上周突破 100 美元的布伦特原油周一单日暴跌超 5%，创一周多新低；周三又因美国拦截伊朗突袭而反弹。随着伊朗与沙特、阿曼就霍尔木兹海峡通航展开讨论，市场对石油流量恢复的期待升温——周五布伦特收于 88 美元、WTI 82 美元。但 8 月 1 日关税大限、伊朗新领导层的附加条件、欧洲热浪推高的用电需求，都让能源市场在「和平红利」与「战争溢价」之间继续横跳。另据 IEA 年中报告：2025 年可再生能源首次成为全球能源需求增长的最大贡献者。
+
+🔗 来源：[Reuters](https://www.reuters.com/business/energy/oil-slips-more-than-5-after-us-pauses-strikes-iran-2026-07-26/) · [CNN](https://www.cnn.com/2026-07-27/economy/oil-prices-fall-iran-war) · [CNBC](https://www.cnbc.com/2026-07-28/oil-price-today-wti-brent-us-iran-hormuz.html)
+
+---
+
+## 🏥 健康·医疗
+
+### ▶ 乌干达宣布埃博拉疫情结束，但刚果（金）疫情已成史上第二大
+
+7 月 28 日，在最后一例患者出院 12 天后，乌干达卫生部正式宣布埃博拉疫情结束——这是本轮非洲埃博拉战场的第一个好消息。但坏消息紧随其后：刚果民主共和国的埃博拉疫情已恶化成史上第二大爆发。WHO 总干事谭德塞周四确认全球卫生紧急状态格局正在重塑：一场结束了，另一场还在扩大。疫苗接种覆盖不均和人口流动仍是最大变数。
+
+🔗 来源：[ECDC](https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda) · [World Health News](https://whn.global/public-health-alerts/)
+
+### ▶ HIV 疫苗重大突破：首次诱导出大量广谱中和抗体，「感觉像巨大的成功」
+
+拉霍亚免疫研究所（LJI）、Scripps Research 与国际艾滋病疫苗倡议组织（IAVI）联合研发的 HIV 疫苗在临床前研究中取得前所未有的成功：这是首个在非人灵长类动物体内诱导产生大量「广谱中和抗体」的 HIV 疫苗——这类抗体极为罕见，却是破解 HIV 防御的关键。研究者直言「这感觉像巨大的成功」。该成果本周冲上 Hacker News 头版，为 40 年 HIV 疫苗长征带来真实的希望。
+
+🔗 来源：[La Jolla Institute](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/) · [Newswise](https://www.newswise.com/articles/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study)
+
+### ▶ WHO 全球卫生紧急状态更新：汉坦病毒疫情正式落幕，委内瑞拉震后重建持续
+
+WHO 总干事谭德塞周四发布全球卫生紧急状态「体温测量」：与邮轮 M/V Hondius 相关的全球汉坦病毒疫情正式宣告结束——最后一名密切接触者完成六周隔离并检测阴性。同时 WHO 确认非洲埃博拉疫情仍在扩大，并正协助委内瑞拉地震灾区的恢复工作。此外美国环孢虫疫情（与生菜相关）已波及 45 个州，仍是夏季食品安全的最大隐患。
+
+🔗 来源：[UN News](https://news.un.org/en/story/2026-07-1167865) · [WHO Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON611) · [TODAY](https://www.today.com/health/news/cyclospora-outbreak-2026-foods-avoid-lettuce-map-parasite-45-states-rcna589833)
+
+---
+
+## 📌 一句话彩蛋
+
+> 本周的最大启示：华尔街依然相信 AI 会重塑全球经济——但投资者变得挑剔多了。拿出营收的得到创纪录估值，只有故事的得到创纪录跌幅。这个区别，很可能定义整个 2026 年下半年。
+
+---
+
+## 📚 本期完整来源索引
+
+### 社交媒体热议
+- CNBC - Microsoft/Meta earnings: https://www.cnbc.com/2026-07-30/microsoft-msft-meta-stock-today-earnings.html
+- Stock Market Weekly Recap July 27-31: https://www.alainguillot.com/stock-market-weekly-recap-july-27-31-2026/
+- Hacker News Daily July 2026: https://www.daemonology.net/hn-daily/2026-07.html
+- Sebastian Raschka - Kimi K3 Architecture Notes: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
+- UEFA 官方声明: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
+- CNN - UEFA boycott: https://edition.cnn.com/2026-07-30/sport/uefa-boycott-fifa-competitions-world-cup
+- Variety - World Cup boycott: https://variety.com/2026/sports/global/world-cup-boycott-opposition-fifa-plan-1236823227/
+
+### 财经·宏观
+- Reuters - Fed live coverage: https://www.reuters.com/world/us/fed-meeting-live-us-central-bank-interest-rate-decision-warsh-press-conference-2026-07-29/
+- CNBC - Fed rate decision: https://www.cnbc.com/2026-07-29/fed-rate-decision-july-2026.html
+- Federal Reserve 声明: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+- Microsoft 财报新闻稿: https://news.microsoft.com/source/2026-07-29/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results-4/
+- CNBC - CXMT IPO debut: https://www.cnbc.com/2026-07-27/cxmt-china-market-debut-chipmaker-ipo.html
+- Reuters - CXMT listing: https://www.reuters.com/world/asia-pacific/chinese-chipmaker-cxmt-list-shanghai-july-27-after-asias-biggest-ipo-this-year-2026-07-23/
+- AP News - CXMT: https://apnews.com/article/cxmt-china-memory-chips-debut-shares-9cd8b79866cf4bd5ef7c1cb81215e796
+
+### 国际·政治
+- Al Jazeera - Khamenei ties peace deal to Lebanon: https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei
+- UK House of Commons Library - US-Iran briefing: https://commonslibrary.parliament.uk/research-briefings/cbp-10637/
+- CNBC - Trump tariffs deadline: https://www.cnbc.com/2026-07-23/trump-tariffs-trade-deadline.html
+- ABC News - Aug 1 tariff deadline: https://abcnews.com/Business/trumps-aug-1-tariff-deadline/story?id=123921765
+- BBC - Zelensky/Burnham: https://www.bbc.co.uk/news/articles/cy8me5vyjg2o
+- Al Jazeera - Burnham assures Zelenskyy: https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support
+- Kyiv Independent: https://kyivindependent.com/zelensky-arrives-in-uk-for-1st-meeting-with-new-prime-minister-burnham/
+
+### AI 前沿
+- Anthropic - Claude Opus 5: https://www.anthropic.com/news/claude-opus-5
+- TechCrunch - Opus 5 launch: https://techcrunch.com/2026-07-24/anthropic-launches-opus-5/
+- VentureBeat - Claude Opus 5: https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows
+- DeepMind - Gemini Robotics 2: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
+- Robotics & Automation News: https://roboticsandautomationnews.com/2026-07-31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802/
+- The AI Insider: https://theaiinsider.tech/2026-07-30/google-introduces-gemini-robotics-2-with-whole-body-intelligence/
+- ThursdAI - July 2026 releases: https://thursdai.news/releases/2026-07
+
+### 科技产业
+- GitHub Changelog - Stacked PRs: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
+- InfoWorld - GitHub stacked PRs: https://www.infoworld.com/article/4158575/github-adds-stacked-prs-to-speed-complex-code-reviews.html
+- Techdirt - Google DMCA ruling: https://www.techdirt.com/2026-07-27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/
+- AI Weekly - SerpApi ruling: https://aiweekly.co/alerts/judge-tosses-googles-dmca-suit-against-scraper-serpapi
+- Context Collapse - AI worming through Word: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
+- HuggingFace - Agent intrusion timeline: https://huggingface.co/blog/agent-intrusion-technical-timeline
+
+### 环境·能源
+- Tech Times - July 2026 hottest month: https://www.techtimes.com/articles/322660/20260801/july-2026-likely-americas-hottest-month-ever-new-dome-hits-west-today.htm
+- NASA Earth Observatory - Heat dome: https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/
+- NYT - Summer of heat, fires and storms: https://www.nytimes.com/2026-07-29/world/europe/summer-heat-wave-fires-climate-change.html
+- UNRIC - WMO heatwave warning: https://unric.org/en/europe-heatwave-2026-wmo/
+- Weather On This Day - European heatwave records: https://weatheronthisday.com/trends/2026-european-heatwave
+- Reuters - Oil slips after US pauses strikes: https://www.reuters.com/business/energy/oil-slips-more-than-5-after-us-pauses-strikes-iran-2026-07-26/
+- CNN - Why oil keeps tumbling: https://www.cnn.com/2026-07-27/economy/oil-prices-fall-iran-war
+- CNBC - Oil price live: https://www.cnbc.com/2026-07-28/oil-price-today-wti-brent-us-iran-hormuz.html
+- IEA - Global Energy Review 2026: https://iea.blob.core.windows.net/assets/df903e1c-49c6-4757-8cbf-6fbcfe7611a0/GlobalEnergyReview2026.pdf
+
+### 健康·医疗
+- ECDC - Ebola outbreak DRC/Uganda: https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda
+- World Health News - Public health alerts: https://whn.global/public-health-alerts/
+- La Jolla Institute - HIV vaccine: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/
+- Newswise - HIV vaccine: https://www.newswise.com/articles/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study
+- UN News - WHO chief updates: https://news.un.org/en/story/2026-07-1167865
+- WHO DON611 - Hantavirus: https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON611
+- TODAY - Cyclospora outbreak: https://www.today.com/health/news/cyclospora-outbreak-2026-foods-avoid-lettuce-map-parasite-45-states-rcna589833
+
+---
+
+*📝 本期由 What's Up! AI 编辑部自动生成 | 下期见！*
