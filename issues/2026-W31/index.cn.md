@@ -142,6 +142,12 @@ Anthropic 于 7 月 24 日发布的 Claude Opus 5 本周持续发酵：这个定
 
 🔗 来源：[Reuters](https://www.reuters.com/business/energy/oil-slips-more-than-5-after-us-pauses-strikes-iran-2026-07-26/) · [CNN](https://www.cnn.com/2026-07-27/economy/oil-prices-fall-iran-war) · [CNBC](https://www.cnbc.com/2026-07-28/oil-price-today-wti-brent-us-iran-hormuz.html)
 
+### ▶ 开源方案应对热穹顶：CityShade 提出「可收展光伏遮阳」城市降温新范式
+
+正当北半球多座城市被热穹顶笼罩之际，一份来自中国团队的技术白皮书给出了一个颇具野心的解题思路：**把加热城市的阳光直接拦截并转化为电能**。CityShade（城市遮阳）项目提出「分布式可收展光伏遮阳系统」概念——在停车场、楼宇阳面和城市休闲空间部署可折叠光伏遮阳装置，实现"阻隔辐射得热 + 主动发电 + 不增加电网负担"三重效果。白皮书测算显示，停车场场景（16.5 kWp）年发电约 27,375 kWh，投资回收期约 3.8 年；楼宇阳面场景年减排 CO₂ 约 63 吨。在全球热浪常态化、空调正反馈加剧城市热岛的背景下，这种"把问题本身变成能源"的思路值得关注。
+
+🔗 来源：[CityShade GitHub](https://github.com/jackson-chu-sys/CityShade)
+
 ---
 
 ## 🏥 健康·医疗
