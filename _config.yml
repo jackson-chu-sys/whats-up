@@ -3,6 +3,9 @@ description: 全球热点信息周刊 · Global Weekly Digest
 baseurl: "/whats-up"
 url: "https://jackson-chu-sys.github.io"
 markdown: kramdown
+exclude:
+  - CityShade/social-linkedin.txt
+  - CityShade/social-xiaohongshu.txt
 defaults:
   - scope:
       path: ""

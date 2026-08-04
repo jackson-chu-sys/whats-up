@@ -11,6 +11,8 @@ title: what's Up!
 - 🇨🇳 [中文版](/whats-up/zh/)
 - 🇺🇸 [English Edition](/whats-up/en/)
 
+> 🏙️ **特别策划**：[CityShade 白皮书——城市热穹顶适应性光伏遮阳技术路线](/whats-up/CityShade/)（中英文全文已上线）
+
 ---
 
 ## 最新一期

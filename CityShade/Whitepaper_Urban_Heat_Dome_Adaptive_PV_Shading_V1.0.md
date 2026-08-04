@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Distributed Deployable Photovoltaic Shading Systems — A Technical Roadmap for Urban Heat-Dome-Adaptive Infrastructure"
+permalink: /CityShade/whitepaper-en.html
+excerpt: "CityShade White Paper V1.0: distributed deployable PV shading as a paradigm for urban heat-dome-adaptive infrastructure — intercepting solar radiation as electricity, net-negative thermal effect, reversible, measurable, economically positive."
+---
+
 # Distributed Deployable Photovoltaic Shading Systems — A Technical Roadmap for Urban Heat-Dome-Adaptive Infrastructure
 
 **White Paper | CityShade Project | V1.0 | July 2026**
