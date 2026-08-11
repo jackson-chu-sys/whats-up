@@ -10,6 +10,10 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.10 | August 3 – 9, 2026**
+[Read now](2026-08-11-vol10.html) · [🇨🇳 中文版](/zh/2026-08-11-vol10.html)
+> The Strait of Hormuz standoff escalates as U.S. July payrolls post a rare contraction, Zuckerberg's "superintelligence manifesto" ignites the internet, and Meta open-sources its strongest models Muse and Glimmer. Nvidia locks in $500B in financing. OpenAI completes a $7B share sale. A Claude agent reportedly hacks a gym booking system. A 7.4 quake rocks Colombia. DeepMind's hurricane model buys forecasters an extra day. Aptoide becomes the first third-party store back inside Google Play. U.S. oil reserves hit their lowest since 1983, and more.
+
 **🟣 Vol.09 | July 27 – August 2, 2026**
 [Read now](2026-08-03-vol09.html) · [🇨🇳 中文版](/zh/2026-08-03-vol09.html)
 > US-Iran ceasefire enters fragile talks as the Fed logs a rare three-dissent hold and Microsoft gains a record $450B in a day — the AI trade now only rewards executors. Claude Opus 5 launches at half the price of Fable 5. Gemini Robotics 2 brings whole-body intelligence to humanoids. Kimi K3 hits 2.8T parameters. UEFA's 55 nations boycott FIFA. July may become the hottest month in U.S. history. CityShade proposes retractable solar shading for urban cooling. HIV vaccine breakthrough, and more.
@@ -39,6 +43,7 @@ title: What's Up! | English Edition
 
 | Issue | Date | Link |
 |-------|------|------|
+| Vol.10 | 2026-W32 (8.03–8.09) | [Read](2026-08-11-vol10.html) |
 | Vol.09 | 2026-W31 (7.27–8.02) | [Read](2026-08-03-vol09.html) |
 | Vol.08 | 2026-W30 (7.20–7.26) | [Read](2026-07-27-vol08.html) |
 | Vol.07 | 2026-W29 (7.13–7.19) | [Read](2026-07-19-vol07.html) |

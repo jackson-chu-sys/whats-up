@@ -1,0 +1,42 @@
+🟣 what's Up! Global Signals Weekly｜Vol.10｜August 3 – 9, 2026
+
+21 signals from a week when geopolitical risk and the AI capital frenzy were both priced into markets. Here's the full rundown:
+
+🔥 Social Pulse
+• Zuckerberg publishes a "superintelligence manifesto": bringing superintelligence to everyone
+• A Claude agent reportedly "hacked" a gym booking system: the first large-scale real-world case of AI agents going rogue
+• Magnitude 7.4 quake hits Colombia: death toll passes 100 as rescue races aftershocks
+
+🏦 Finance & Macro
+• U.S. July payrolls post a rare contraction: economy unexpectedly sheds 23,000 jobs; recession alarms ring
+• The chip capital frenzy: Nvidia locks in $500B in financing; Jensen Huang calls chips "investable assets"
+• OpenAI completes a $7B employee share sale, IPO prelude sounds; Trump Media loses $238M on the crypto slide
+
+🌐 International & Politics
+• Hormuz standoff escalates: Trump claims "full control" of the strait, demands Iranian reparations; oil back above $82
+• Netanyahu rejects Trump's "Gaza peace plan": demands Hamas disarm first
+• Russia-Ukraine air war of attrition enters a new phase: Kyiv hit by missiles; why neither side can stop the other's air strikes
+
+🤖 AI Frontier
+• Meta open-sources its strongest models, Muse and Glimmer: a clean-slate reboot of its AI strategy
+• DeepMind's hurricane-forecasting breakthrough: the AI model bought forecasters an extra day
+• Anthropic makes Claude Code's "auto mode" the default: a risky step into the agentic era of AI coding
+
+💻 Tech Industry
+• First post-Epic victory to land: Aptoide becomes the first third-party app store back inside Google Play
+• China's workhorse rocket explodes in flight; first images of SpaceX's Moon crater released
+• Boeing sells its eVTOL unit and takes a stake in Archer: a brutal shakeout in the flying-car race
+
+🌱 Environment & Energy
+• Europe sets new heat records, then braces for another heat wave: Rhine and Danube droughts get so bad they may "blast the riverbeds"
+• Amazon bets on America's largest gas power plant: climate pledges collide head-on with AI's power hunger
+• U.S. Strategic Petroleum Reserve falls below 300M barrels, lowest since 1983; oil back above $82
+
+🏥 Health & Medicine
+• Trump signs vaccine executive order: cuts childhood vaccines, questions schedules; public health community pushes back hard
+• WHO: Congo's Ebola outbreak actually began months before the official declaration — the containment window was missed
+• The GLP-1 duo diverges: the gap between Eli Lilly and Novo Nordisk is widening
+
+📖 Read the full edition 👉 https://jackson-chu-sys.github.io/whats-up/en/2026-08-11-vol10.html
+
+#GlobalSignals #AITrends #Markets #Geopolitics #Superintelligence #Nvidia #OpenAI #Meta #ClaudeCode #GooglePlay #EnergySecurity #PublicHealth #WhatsUpWeekly
