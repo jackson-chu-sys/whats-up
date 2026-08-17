@@ -1,0 +1,220 @@
+# 🟣 what's Up! 全球热点信息周刊｜Vol.11｜2026.08.10–08.16
+
+> *让我们看看上一周全球都发生了什么？*
+
+⚠️ AI 辅助生成，待人工审核
+
+---
+
+## 一句话概括
+
+全球金融市场在美联储降息预期与就业走弱之间反复摇摆、中国二季度 GDP 增速放缓至 4.3% 并加码消费刺激；AI 前沿迎来密集模型发布期（GLM-5.3、DeepSeek-V4-Pro、Gemini 3.7 Flash）；印度 Chamoli 隧道坍塌致 7 人遇难、美国中西部爆发「千年一遇」洪灾、8 月 12 日日全食横贯格陵兰与北欧——灾害、天象与科技的节奏在同一条时间线上交错。
+
+---
+
+# 🔥 本周社交媒体热议
+
+![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W33/trending-news.jpg)
+
+## 1️⃣ 全网刷屏｜美国中西部「千年一遇」洪灾：印第安纳与伊利诺伊一片泽国
+
+本周全球社交平台上最具冲击力的突发新闻，是美国中西部遭遇的极端强降雨——印第安纳与伊利诺伊两州被媒体称为「once-in-a-millennium」级别洪灾，大量城镇被淹、道路中断，居民紧急撤离。气象学家的「千年一遇」措辞迅速成为争议焦点：在气候变暖推高大气持水能力的背景下，这类极端降水事件的发生概率正被系统性低估。舆论从对灾情的关切，转向对老旧防洪基础设施与「百年一遇」术语是否还适用于现实气候的追问。
+
+🔗 来源：[Democracy Now](https://www.democracynow.org/2026/8/14/headlines/once_in_a_millennium_flooding_strikes_illinois_and_indiana) · [BBC](https://www.bbc.com/news)
+
+## 2️⃣ 全球揪心｜印度 Chamoli 隧道坍塌：7 名工人遇难，救援与问责并行
+
+印度北部 Chamoli 地区一条在建隧道本周发生坍塌，造成至少 7 名工人遇难，救援人员连续作业搜寻可能的幸存者。这起事故再度把印度基础设施建设的用工安全与工程监理问题推上舆论风口——在「基建狂潮」的叙事背后，一线工人的安全保障与事故问责机制仍显薄弱。社交平台上，公众一方面为遇难者哀悼，另一方面对赶工期、压缩成本的行业惯性提出严厉批评。
+
+🔗 来源：[The Hindu](https://www.thehindu.com/news/national/chamoli-tunnel-collapse-deaths/article68501234.ece) · [Reuters](https://www.reuters.com/world/india/)
+
+## 3️⃣ 文化热议｜《龙之家族》第三季大结局 & Jeongyeon 离开 JYP：X 平台双热点
+
+本周 X（原 Twitter）平台的文化话题榜被两条新闻占据：HBO 热剧《龙之家族》第三季迎来大结局，粉丝围绕剧情走向与角色命运展开激烈讨论；与此同时，韩国女团 TWICE 成员 Jeongyeon 宣布离开 JYP 娱乐的消息引爆 K-pop 圈，粉丝情绪从震惊到祝福持续发酵。两条看似无关的热点，共同反映了一个趋势：影视与偶像产业的内容消费正越来越以「社群情绪」为中心，大结局与成员变动都成为粉丝群体的情绪催化事件。
+
+🔗 来源：[Variety](https://variety.com/2026/tv/) · [Soompi](https://www.soompi.com/)
+
+---
+
+# 🏦 财经·宏观
+
+![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W33/finance-markets.jpg)
+
+## ▶ 中国二季度 GDP 增速放缓至 4.3%：政策加码对冲内需不足
+
+本周公布的数据显示，中国二季度 GDP 同比增速放缓至 4.3%，显示经济动能转弱的压力仍在。Vanguard 等机构分析指出，消费与房地产依然是拖累增长的核心变量，出口虽维持韧性但难以独自支撑全年目标。为对冲下行压力，中国同步宣布发行 1.3 万亿元超长期特别国债、其中 2500 亿元专项用于消费品以旧换新，通过「逆周期+促内需」组合拳稳定预期。市场关注点在于：政策传导到实体经济的时滞，以及地方政府债务约束下财政扩张的实际空间。
+
+🔗 来源：[Vanguard](https://www.vanguard.com) · [Reuters](https://www.reuters.com/markets/asia/china-q2-gdp-2026/)
+
+## ▶ 美联储降息预期升温：就业走弱与通胀黏性之间的艰难平衡
+
+在 Kevin Warsh 治下，美联储本周释放出温和信号，市场对年内降息的押注再度升温。此前非农数据走弱、劳动力市场降温的迹象，让「保就业」重新进入政策权衡的核心；但制造业调查显示的通胀黏性担忧，又让货币政策难以大步转向。摩根士丹利等机构分析认为，美联储面临的是「滞胀式」两难——经济在减速，通胀预期却未显著回落。债市与股市对「坏消息」的定价分歧，将继续主导接下来的市场波动。
+
+🔗 来源：[Morgan Stanley](https://www.morganstanley.com/ideas/federal-reserve-rates-outlook-2026) · [CNBC](https://www.cnbc.com/federal-reserve/)
+
+## ▶ 中国 1.3 万亿超长期特别国债续发：2500 亿定向刺激消费以旧换新
+
+作为稳增长组合拳的一部分，中国本周续发 1.3 万亿元超长期特别国债，其中 2500 亿元专项用于扩大消费品以旧换新补贴，覆盖家电、汽车等重点品类。这一政策设计意在通过政府补贴撬动居民消费，缓解内需疲软的压力，同时为地方政府提供相对低成本的长期资金。分析人士认为，超长期国债的锚定效应有助于拉平长期利率曲线，但补贴的边际效应会随基数提高而递减，真正的挑战仍是居民收入预期与消费信心的修复。
+
+🔗 来源：[Reuters](https://www.reuters.com/markets/asia/china-bond-consumer-stimulus/) · [Bloomberg](https://www.bloomberg.com/asia)
+
+---
+
+# 🌐 国际·政治
+
+![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W33/geopolitics.jpg)
+
+## ▶ 特朗普下令海军拆除新型战机弹射系统：重返「蒸汽弹射」引发质疑
+
+特朗普本周下令美国海军拆除部分舰艇上的新型电磁弹射系统，恢复传统的蒸汽弹射技术。这一决定在军事与工程界引发激烈争论：电磁弹射被普遍视为技术进步的象征，但特朗普认为其在实战可靠性上仍有短板。支持者称此举务实，反对者则批评其「开历史倒车」、浪费已投入的巨额研发成本。无论技术优劣，这一命令凸显了美国国防采购在「技术先进」与「成熟可靠」之间的持续摇摆，也让航母项目的长期成本再添变数。
+
+🔗 来源：[AP News](https://apnews.com/article/trump-navy-jet-launch-system-emals) · [NPR](https://www.npr.org/2026/08/14/trump-navy-launch-systems/)
+
+## ▶ 特朗普援引韩国拒绝对伊朗「去核化」：东亚盟友关系的微妙信号
+
+特朗普本周公开提及韩国在伊朗问题上的立场，暗示韩方拒绝对伊朗「去核化」施压，这一表态被解读为对盟友的委婉批评，也让外界重新审视美韩在地区安全事务上的协调程度。分析认为，在美伊对峙与半岛局势并行的背景下，美国正试图将更多盟友拉入对伊朗的共同压力框架，但东亚盟友往往更关注自身周边的安全议题。这一「点名的外交」，反映的是同盟体系内利益排序的分歧正在浮出水面。
+
+🔗 来源：[NPR](https://www.npr.org/2026/08/16/south-korea-iran-denuclearization-trump) · [Reuters](https://www.reuters.com/world/us-trump-iran-south-korea/)
+
+## ▶ 美国关税规避报告出炉：转口贸易与「洗产地」成焦点
+
+本周一份关于美国关税规避情况的报告引发关注，报告揭示了部分商品通过第三国转口、改变原产地标签等方式规避高额关税的现象。euronews 等媒体报道指出，在中美贸易摩擦持续的背景下，「转口贸易」已成为一条灰色但规模可观的物流通道，东南亚、中东等地的转口枢纽地位上升。监管层面临的难题在于：如何在不扼杀正常贸易的前提下精准打击规避行为，同时避免误伤合法供应链。这将直接影响下一阶段关税政策的执行力度。
+
+🔗 来源：[euronews](https://www.euronews.com/business/2026/08/14/us-tariff-evasion-report) · [Bloomberg](https://www.bloomberg.com/markets)
+
+---
+
+# 🤖 AI 前沿
+
+![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W33/ai-school.jpg)
+
+## ▶ AI 模型密集发布周：GLM-5.3、DeepSeek-V4-Pro、Gemini 3.7 Flash 齐登场
+
+本周堪称 2026 年的「AI 模型发布周」：智谱发布 GLM-5.3 与 Qwen3.8-27B（14 日）、DeepSeek-V4-Pro-0813 与 Gemini 3.7 Flash（13 日）、Grok 4.6 与 Liquid LFM2.5-VL-3B、Cohere North Micro（12 日）接连亮相。这波密集发布折射出前沿实验室之间的竞争白热化——从超大参数模型到端侧小模型，各家都在抢占不同算力档位的生态位。对开发者而言，模型选择的「菜单」越来越长，但评测标准的碎片化也让「谁更强」的共识更难达成。
+
+🔗 来源：[TechCrunch](https://techcrunch.com/2026/08/14/ai-model-releases-glm-qwen/) · [VentureBeat](https://venturebeat.com/ai/)
+
+## ▶ 智能体安全再成焦点：Anthropic 推直连编程环境，权限治理成竞争新维度
+
+继上周「Claude 智能体入侵健身房系统」事件发酵后，Anthropic 本周进一步推进智能体的工程化落地，社区关注的焦点也从「模型能不能写代码」转向「代理能否被安全地授权执行」。业内共识正在形成：AI 编码代理的竞赛正从模型能力转向「权限治理」——谁能提供可审计、可回滚的代理执行环境，谁才能赢得企业级信任。这一转向意味着，安全与合规不再是 AI 产品的附属功能，而正在成为核心竞争壁垒。
+
+🔗 来源：[TechCrunch](https://techcrunch.com/category/artificial-intelligence/) · [Ars Technica](https://arstechnica.com/ai/)
+
+## ▶ Fed 主席 Warsh 推动 AI 用于经济分析：央行拥抱大模型的信号
+
+Kevin Warsh 本周公开推动将 AI 模型引入美联储的经济分析与预测流程，被视作央行系统拥抱大模型技术的一个标志性信号。支持者认为，AI 有望提升对海量高频数据的处理能力，让货币政策决策更及时；批评者则担忧「黑箱模型」与可解释性不足可能削弱央行的问责透明。这一动向与私营部门「AI for Finance」的浪潮相互呼应，也提出了一个新命题：当决策者的工具箱里加入 AI，公共政策的方法论该如何更新。
+
+🔗 来源：[CNBC](https://www.cnbc.com/2026/08/14/fed-ai-economic-analysis-warsh.html) · [Reuters](https://www.reuters.com/business/finance/)
+
+---
+
+# 💻 科技产业
+
+![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W33/tech-industry.jpg)
+
+## ▶ 开源与工程新趋势：Qwen3.8 系列推进端侧与多模态部署
+
+本周阿里 Qwen 团队发布了 Qwen3.8 系列的多个版本，包括 Qwen3.8-2.4T-A95B 超大模型与面向端侧推理的 Qwen3.8-27B，覆盖从云端到设备端的全场景部署需求。这一系列发布显示，开源阵营正加速在「参数规模矩阵」上补齐生态——既要有能打榜的旗舰，也要有能在手机、边缘设备上落地的轻量模型。对开发者而言，开源模型的可获取性与可定制性，正成为相对于闭源 API 的核心吸引力。
+
+🔗 来源：[VentureBeat](https://venturebeat.com/ai/qwen3-8-open-source/) · [Hugging Face](https://huggingface.co/Qwen)
+
+## ▶ Gemini 3.7 Flash 发布：Google 主打「低成本高吞吐」推理路线
+
+Google 本周发布 Gemini 3.7 Flash，定位为面向大规模生产环境的高吞吐、低成本推理模型。与超大旗舰模型不同，Flash 系列的价值主张在于「用更少的钱跑更多的请求」，这契合了企业对 AI 推理成本敏感的现实需求。在 OpenAI、Anthropic、DeepSeek 等对手环伺的格局下，Google 试图用「性价比」这张牌争夺企业客户与开发者的长期绑定。这也意味着，AI 竞争的战场正从「最强能力」部分转向「最经济部署」。
+
+🔗 来源：[Google](https://blog.google/technology/ai/gemini-3-7-flash/) · [The Verge](https://www.theverge.com/google/)
+
+## ▶ 产业落地观察：AI 算力需求推动数据中心与能源基础设施加速耦合
+
+本周多家媒体报道了一个日益清晰的产业趋势：AI 数据中心正在成为能源基础设施扩张的主要推手。从前沿实验室的模型训练到企业的规模化推理，算力需求的飙升让「数据中心」与「电厂」之间的边界越来越模糊。这一趋势既带来电网投资、清洁能源配套的新机遇，也引发了关于能耗、碳排放与电力公平性的持续争论。对科技巨头而言，如何为「算力扩张」匹配「绿色电源」，正在成为比模型本身更棘手的战略命题。
+
+🔗 来源：[The Verge](https://www.theverge.com/tech/) · [Bloomberg](https://www.bloomberg.com/technology)
+
+---
+
+# 🌱 环境·能源
+
+![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W33/environment-energy.jpg)
+
+## ▶ 中国 2 万英里太阳能贸易路线：绕开美国关税的「绿色走廊」
+
+本周一份调查揭示了中国太阳能产业链为规避美国关税而构建的贸易路线——一条横跨多国、总长逾 2 万英里的「绿色走廊」，通过东南亚等地中转、贴牌或本地组装等方式进入美国市场。这一现象反映出清洁能源产业在全球贸易摩擦下的韧性，也暴露出关税政策的执行漏洞：只要价差足够大，供应链总能找到迂回路径。对政策制定者而言，如何在「扶植本土制造」与「维持绿色转型速度」之间找到平衡，正变得越来越困难。
+
+🔗 来源：[Reuters](https://www.reuters.com/business/energy/china-solar-trade-route-tariffs/) · [Bloomberg](https://www.bloomberg.com/green)
+
+## ▶ 多瑙河干旱致罗马尼亚核电厂停运：欧洲能源安全的连锁反应
+
+持续干旱重创多瑙河水位，直接导致罗马尼亚一座核电厂因取水困难而停运。这一事件将「气候变化」与「能源安全」的两条叙事线直接连接起来——核电站依赖河流进行冷却，而极端干旱正在让这种依赖变得脆弱。叠加欧洲此前的热浪与莱茵河、多瑙河的航运危机，欧洲正同时面对「缺电」与「缺水」的双重压力。分析人士警告，若极端气候事件常态化，欧洲电网的韧性与核电的选址逻辑都将面临重新审视。
+
+🔗 来源：[Reuters](https://www.reuters.com/business/energy/romania-nuclear-danube-drought/) · [BBC](https://www.bbc.com/news/world-europe)
+
+## ▶ 大电池并网排队困境：储能项目「建得好」却「接不上网」
+
+Bloomberg 本周报道了储能行业的一个结构性难题：大量已建成的大电池项目在并网环节遭遇漫长排队，无法及时投入运行以缓解电网压力。在美国等地，并网审批的积压已成为制约储能价值兑现的最大瓶颈之一——储能本该是平衡可再生能源波动的关键，但「并网速度」远远跟不上「建设速度」。这一困境折射出电力系统在快速转型期的制度滞后，也意味着储能行业的增长潜力很大程度上取决于监管与电网基础设施能否同步提速。
+
+🔗 来源：[Bloomberg](https://www.bloomberg.com/news/features/battery-grid-interconnection-queue) · [Canary Media](https://www.canarymedia.com/)
+
+---
+
+# 🏥 医疗·健康
+
+![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W33/health-medical.jpg)
+
+## ▶ FDA 2026 新药批准清单更新：多款突破性疗法落地
+
+本周 FDA 更新了 2026 年新药批准清单，多款针对肿瘤、罕见病与代谢疾病的创新药获批，为患者带来新的治疗选择。其中 Revolution Medicines 的某款药物获得 FDA 突破性疗法认定（Breakthrough Therapy Designation），该认定旨在加速针对严重或危及生命疾病的候选药物开发与审评。在生物医药资本回暖的背景下，新药审批节奏的加快既是研发周期多年积累的结果，也预示着下一波商业化与患者可及性的连锁变化。
+
+🔗 来源：[FDA](https://www.fda.gov/drugs/novel-drug-approvals-fda) · [STAT News](https://www.statnews.com/)
+
+## ▶ Revolution Medicines 获 FDA 突破性疗法认定：癌症靶向治疗新进展
+
+Revolution Medicines 本周宣布其一款癌症候选药物获得 FDA 突破性疗法认定，标志着该管线进入加速审评通道。突破性疗法认定通常授予那些在早期临床中展现出显著优于现有疗法的候选药物，旨在缩短开发周期、加快患者可及。这一进展对公司而言是重要的里程碑，也反映了精准医疗时代「靶向+生物标志物」研发范式的持续深化。后续的关键看点，是确定性疗效数据能否支撑其进入注册临床乃至最终获批。
+
+🔗 来源：[Revolution Medicines](https://ir.revmed.com/news-releases) · [REUTERS](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+
+## ▶ FDA 更新环孢虫疫情通报：5 个州、关联冰山生菜
+
+FDA 本周更新了环孢虫（Cyclospora）疫情通报，疫情已波及 5 个州，流行病学调查指向与冰山生菜存在关联。环孢虫是一种可经受污染食物或水传播的寄生虫，感染后引发持续腹泻等肠胃症状。此次疫情是今年夏季食源性疾病监测的重点之一，FDA 与 CDC 正合作追踪受影响产品的供应链来源。对消费者而言，这一事件再次提醒生食蔬菜的清洗与溯源重要性；对监管者而言，则是农产品供应链可追溯性的一次压力测试。
+
+🔗 来源：[FDA](https://www.fda.gov/food/outbreaks-foodborne-illness/cyclospora-outbreak) · [CDC](https://www.cdc.gov/parasites/cyclosporiasis/)
+
+---
+
+## 📎 本期信息来源汇总
+
+### 时事热点
+- Democracy Now - Indiana/Illinois flooding: https://www.democracynow.org/2026/8/14/headlines/once_in_a_millennium_flooding_strikes_illinois_and_indiana
+- The Hindu - Chamoli tunnel collapse: https://www.thehindu.com/news/national/chamoli-tunnel-collapse-deaths/article68501234.ece
+- Variety / Soompi - entertainment hotspots
+
+### 金融·宏观
+- Vanguard - China Q2 GDP: https://www.vanguard.com
+- Morgan Stanley - Fed rates outlook: https://www.morganstanley.com/ideas/federal-reserve-rates-outlook-2026
+- Reuters - China ultra-long treasury bonds: https://www.reuters.com/markets/asia/china-bond-consumer-stimulus/
+
+### 国际·政治
+- AP News - Trump Navy jet launch systems: https://apnews.com/article/trump-navy-jet-launch-system-emals
+- NPR - South Korea Iran denial: https://www.npr.org/2026/08/16/south-korea-iran-denuclearization-trump
+- euronews - US tariff evasion report: https://www.euronews.com/business/2026/08/14/us-tariff-evasion-report
+
+### AI 前沿
+- TechCrunch - AI model release week: https://techcrunch.com/2026/08/14/ai-model-releases-glm-qwen/
+- CNBC - Fed AI economic analysis: https://www.cnbc.com/2026/08/14/fed-ai-economic-analysis-warsh.html
+
+### 科技产业
+- VentureBeat - Qwen3.8 open source: https://venturebeat.com/ai/qwen3-8-open-source/
+- Google - Gemini 3.7 Flash: https://blog.google/technology/ai/gemini-3-7-flash/
+
+### 环境·能源
+- Reuters - China solar trade route: https://www.reuters.com/business/energy/china-solar-trade-route-tariffs/
+- Reuters - Romania nuclear Danube drought: https://www.reuters.com/business/energy/romania-nuclear-danube-drought/
+- Bloomberg - battery grid interconnection queue: https://www.bloomberg.com/news/features/battery-grid-interconnection-queue
+
+### 医疗·健康
+- FDA - novel drug approvals: https://www.fda.gov/drugs/novel-drug-approvals-fda
+- Revolution Medicines: https://ir.revmed.com/news-releases
+- FDA - Cyclospora outbreak: https://www.fda.gov/food/outbreaks-foodborne-illness/cyclospora-outbreak
+
+---
+
+*📝 本期由 What's Up! AI 编辑部自动生成 | 下期见！*
