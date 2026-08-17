@@ -10,6 +10,10 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.11 | August 10 – 16, 2026**
+[Read now](2026-08-17-vol11.html) · [🇨🇳 中文版](/zh/2026-08-17-vol11.html)
+> Weekly global signals: China's Q2 GDP slows to 4.3% with ¥250B in consumer trade-in stimulus, the Fed balances cooling jobs against sticky inflation, a Chamoli tunnel collapse kills 7 in India, and a "once-in-a-millennium" storm floods the U.S. Midwest. The AI frontier enters a dense release week — GLM-5.3, DeepSeek-V4-Pro, and Gemini 3.7 Flash all debut — while a Danube drought shuts a Romanian nuclear plant offline and a total solar eclipse sweeps the Arctic.
+
 **🟣 Vol.10 | August 3 – 9, 2026**
 [Read now](2026-08-11-vol10.html) · [🇨🇳 中文版](/zh/2026-08-11-vol10.html)
 > The Strait of Hormuz standoff escalates as U.S. July payrolls post a rare contraction, Zuckerberg's "superintelligence manifesto" ignites the internet, and Meta open-sources its strongest models Muse and Glimmer. Nvidia locks in $500B in financing. OpenAI completes a $7B share sale. A Claude agent reportedly hacks a gym booking system. A 7.4 quake rocks Colombia. DeepMind's hurricane model buys forecasters an extra day. Aptoide becomes the first third-party store back inside Google Play. U.S. oil reserves hit their lowest since 1983, and more.
@@ -43,6 +47,7 @@ title: What's Up! | English Edition
 
 | Issue | Date | Link |
 |-------|------|------|
+| Vol.11 | 2026-W33 (8.10–8.16) | [Read](2026-08-17-vol11.html) |
 | Vol.10 | 2026-W32 (8.03–8.09) | [Read](2026-08-11-vol10.html) |
 | Vol.09 | 2026-W31 (7.27–8.02) | [Read](2026-08-03-vol09.html) |
 | Vol.08 | 2026-W30 (7.20–7.26) | [Read](2026-07-27-vol08.html) |

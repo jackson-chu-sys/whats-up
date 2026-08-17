@@ -1,0 +1,42 @@
+🟣 what's Up! Global Signals Weekly｜Vol.11｜August 10 – 16, 2026
+
+21 signals from a week when disaster, celestial spectacle, and the AI frontier collided on one timeline. Here's the full rundown:
+
+🔥 Social Pulse
+• "Once-in-a-millennium" flooding hits the U.S. Midwest: Indiana and Illinois under water
+• India's Chamoli tunnel collapse: 7 workers dead, rescue and accountability run in parallel
+• "House of the Dragon" season 3 finale & Jeongyeon leaves JYP: two hotspots on X
+
+🏦 Finance & Macro
+• China's Q2 GDP slows to 4.3%: policy easing counters weak domestic demand
+• Fed rate-cut bets heat up: the tough balance between cooling jobs and sticky inflation
+• China reissues ¥1.3T in ultra-long treasury bonds: ¥250B targeted at consumer trade-ins
+
+🌐 International & Politics
+• Trump orders the Navy to strip new jet-launch systems: a return to steam catapults sparks backlash
+• Trump cites South Korea's refusal on Iran "denuclearization": a subtle signal in the East Asian alliance
+• U.S. tariff-evasion report released: transshipment and "origin-laundering" in focus
+
+🤖 AI Frontier
+• A dense week of AI releases: GLM-5.3, DeepSeek-V4-Pro, and Gemini 3.7 Flash all debut
+• Agent safety back in focus: Anthropic pushes direct-coding environments; permission governance becomes a new front
+• Fed Chair Warsh pushes AI for economic analysis: a signal of central banks embracing LLMs
+
+💻 Tech Industry
+• Open source & engineering trends: Qwen3.8 series advances edge-side and multimodal deployment
+• Gemini 3.7 Flash released: Google bets on low-cost, high-throughput inference
+• AI compute demand accelerates the coupling of data centers and energy infrastructure
+
+🌱 Environment & Energy
+• China's 20,000-mile solar trade route: a "green corridor" around U.S. tariffs
+• Danube drought shuts down a Romanian nuclear plant: ripple effects for Europe's energy security
+• Big batteries stuck in grid-interconnection queues: storage "built well" but "not connected"
+
+🏥 Health & Medicine
+• FDA's 2026 novel drug approvals list updated: multiple breakthrough therapies land
+• Revolution Medicines receives FDA Breakthrough Therapy Designation: new progress in targeted cancer therapy
+• FDA updates Cyclospora outbreak notice: 5 states, linked to iceberg lettuce
+
+📖 Read the full edition 👉 https://jackson-chu-sys.github.io/whats-up/en/2026-08-17-vol11.html
+
+#GlobalSignals #AITrends #Markets #Geopolitics #ChinaGDP #GLM #DeepSeek #Gemini #SolarEnergy #EnergyStorage #FDA #PublicHealth #WhatsUpWeekly
