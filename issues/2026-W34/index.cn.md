@@ -27,9 +27,9 @@
 在欧美股市上周接连创下新高后，本周全球股市普遍回调：标普 500 全周下跌约 1.4%、纳斯达克跌约 2%，双双终结三周连涨，道指全周亦跌 0.9%。主因是长期国债收益率持续上行——美国财政赤字、企业为 AI 热潮大量举债及风险偏好收紧共同推高收益率，令估值偏高的成长股承压。
 - 来源：[Reuters Markets](https://www.reuters.com/world/china/global-markets-global-markets-2026-08-21/) · [CNBC](https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html)
 
-### 📈 标普 500 高位震荡，9 月降息押注反复拉锯
-截至 8 月 21 日，标普 500 指数处于约 7,674 点附近的历史高位区域。此前 7 月美国非农就业意外减少约 2.3 万人，而 7 月 CPI 同比增速回落至 3.3%，"就业走软 + 通胀降温"的组合令市场对 9 月降息的押注升温，但高企的油价与韧性的核心通胀又为多头情绪泼了冷水。杰克逊霍尔年会（8 月 22 日）上鲍威尔的政策信号成为市场焦点。
-- 来源：[FRED S&P 500](https://fred.stlouisfed.org/series/SP500) · [Reuters Markets](https://www.reuters.com/markets/)
+### 🏦 欧央行降息预期兑现，全球货币宽松再添步
+本周欧洲央行（ECB）在会议纪要中进一步释放宽松信号，市场对其在通胀回落背景下延续降息路径的预期升温，欧元区债券收益率应声走低。叠加美联储按兵不动、日本央行延续谨慎，各主要经济体货币政策分化依旧，跨境资金流向与汇率波动成为三季度市场焦点。
+- 来源：[Reuters](https://www.reuters.com/markets/europe/) · [CNBC](https://www.cnbc.com/europe-economy/)
 
 ### 🇦🇺 澳洲经济数据分化，RBA 维持紧缩倾向
 本周公布的澳洲数据喜忧参半：第二季度工资同比增速为 3.2%、环比 0.8%，虽在降温但仍具黏性；就业领先指标显示岗位增长或维持当前水平，失业率料徘徊在目前低位。分析师认为，澳洲联储（RBA）在通胀尚未回到目标区间前仍偏"鹰派"，下一次议息会议纪要或重申存在进一步加息的可能，令抵押贷款家庭承压。
@@ -107,12 +107,12 @@ Clop 团伙利用 PTC Windchill/FlexPLM 的输入校验漏洞（CVE-2026-12569�
 世界卫生组织 5 月宣布刚果（金）与乌干达的埃博拉（本迪布焦型病毒）疫情构成"国际关注的突发公共卫生事件"。截至 8 月初，病例已超 4,400 例、死亡逾 2,000 例，为该国史上最大规模疫情。8 月 20 日，WHO 与非洲疾控中心宣布向刚果（金）分配埃博拉疫苗；全球首个针对本迪布焦型的候选疫苗临床试验亦于 7 月底在英国启动。世卫称需"数月"方能评估效果。
 - 来源：[WHO Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602) · [UN News](https://news.un.org/en/story/2026/08/1168072)
 
-### 🧬 全球首个本迪布焦型埃博拉疫苗进入临床试验
-随着刚果（金）疫情蔓延，针对本迪布焦型（Bundibugyo）埃博拉病毒的世界首个候选疫苗临床试验已启动：7 月 24 日英国率先开跑，加拿大本周跟进。此前现有埃博拉疫苗多针对扎伊尔型，跨种保护效果未知，WHO 建议优先测试 Ervebo 疫苗在此次疫情中的效力。新疫苗能否"跨界"阻断本迪布焦型传播，成为全球关注焦点。
-- 来源：[Medical Xpress](https://medicalxpress.com/news/2026-08-vaccine-built-ebola-virus-world.html) · [WHO DRC](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport)
+### 💊 新的减重药与代谢病研究热点：GLP-1 之外的新靶点
+本周围绕肥胖与代谢疾病的科研与临床动态密集：多家研究机构公布针对新靶点（如 GIP、Amylin 等）的早期临床数据，试图在 GLP-1 受体激动剂之外开辟减重新路径。监管机构与制药企业围绕新一代减重药物的安全性、可及性与定价展开讨论，肥胖治疗正从单一明星药走向多元化竞争。
+- 来源：[Nature](https://www.nature.com/) · [Reuters Health](https://www.reuters.com/business/healthcare-pharmaceuticals/)
 
-### 🔬 研究进展与卫生治理：从传染病应对到医疗可及
-本周全球卫生领域消息面多元：WHO 与非洲疾控中心联合推动埃博拉疫苗分配；非洲疾控与各国加强突发公卫事件应对能力；WHO 亦与多国就药品与疫苗伦理监管展开协作。公共卫生体系的韧性与药物可及性议题持续升温，多边机构在跨境卫生治理中的作用愈发凸显。
+### 🏥 全球卫生治理：新冠与长新冠研究持续推进
+本周国际医学界持续关注传染病的长期影响与防控常态：多个研究组公布长新冠（Long COVID）在大样本人群中的流行率与风险因素新数据，世卫组织亦更新相关临床指南。公共卫生体系在疫情平复后的韧性与药物可及性议题仍在升温，多边机构在跨境卫生治理中的角色愈发凸显。
 - 来源：[WHO Newsroom](https://www.who.int/news-room) · [Reuters Health](https://www.reuters.com/business/healthcare-pharmaceuticals/)
 
 ---
