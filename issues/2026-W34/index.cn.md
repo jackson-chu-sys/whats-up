@@ -11,56 +11,57 @@
 面对下半年经济增速放缓，中国财政部副部长廖岷 8 月 21 日（周五）在发布会上表示，将"根据下半年宏观经济发展形势，及时出台、切实有效的一揽子新政策举措"，以进一步扩大内需、增强经济增长动能。他强调财政政策将继续聚焦加速资金使用、扩大国内需求、加强财政改革与管理。此番表态被市场解读为三季度末至四季度或再推出增量刺激的信号。
 - 来源：[Reuters](https://www.reuters.com/world/asia-pacific/china-pledges-timely-fiscal-support-bolster-growth-2026-08-21/) · [新华社英文版 gov.cn](https://english.www.gov.cn/news/202608/21/content_WS6a8828ccc6d00ca5f9a0cbbd.html)
 
-### 2️⃣ 中国与瑞士完成自贸协定升级谈判
-8 月 20 日，瑞士联邦主席帕姆兰与中国商务部部长王文涛共同宣布，两国已完成对 2014 年签署的自由贸易协定的升级谈判。瑞士作为最早对华签自贸协定的欧洲大陆国家之一，此次升级被视为其在欧陆对华经贸合作中的一次押注。升级内容预计覆盖服务贸易、投资、电子商务与可持续发展等新议题，为两国经贸关系注入制度化红利。
-- 来源：[Trivium China](https://triviumchina.com/2026/08/21/china-and-switzerland-complete-fta-upgrade-negotiations/) · [gov.cn](https://english.www.gov.cn/)
+### 2️⃣ 欧洲防御支出创冷战以来新高，"重新武装欧洲"进入加速期
+在欧洲安全形势持续紧张的背景下，多个欧洲国家本周相继上调国防预算，推动区域总体防务支出达到冷战结束以来的最高水平。分析人士指出，长期低国防开支的时代已经过去，军工产能与联合作战能力成为各国竞相投入的重点，跨大西洋军费分担议题也随之升温。
+- 来源：[Reuters World](https://www.reuters.com/world/europe/) · [BBC News](https://www.bbc.com/news/world/europe)
 
-### 3️⃣ 中方称欧盟对京东反补贴调查为"不当域外管辖"
-8 月 19 日，中国司法部（MoJ）就欧盟对京东（JD.com）发起的外国补贴调查作出回应，指其为"不当的域外管辖"。事件背景是欧盟依据《外国补贴条例》对在欧经营的中国电商平台展开调查，中方援引《反制不当域外管辖条例》予以驳斥。此举叠加近期中欧在电动车关税、5G 等领域的摩擦，令中欧经贸关系再现张力。
-- 来源：[Trivium China](https://triviumchina.com/2026/08/20/moj-declares-eu-probe-into-jd-com-improper-2/) · [Reuters](https://www.reuters.com/)
+### 3️⃣ 中东局势持续紧张，美伊围绕霍尔木兹海峡博弈未决
+本周伊朗与美国围绕霍尔木兹海峡的对峙未见缓和：伊朗否认与美达成任何协议，称正与阿曼就海峡临时通航安排磋商，而美方则威胁对支持伊朗的国家采取"前所未有的经济与孤立"。海域通航风险与油价波动相互交织，成为全球市场密切关注的不确定源。恰逢对美总统支持率降至历史低点（仅约三分之一美国人认可），博弈前景更显复杂。
+- 来源：[Al Mayadeen](https://english.almayadeen.net/news/politics/tehran-says-no-talks-with-us-underway--confirms-oman-negotia) · [New York Times](https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html)
 
 ---
 
 ## 🏦金融与宏观经济
 
-### 💰 美联储按兵不动，油价逼近 91 美元加剧通胀悬念
-美联储联邦基金利率维持 3.50%–3.75% 区间不变，但通胀仍顽固高于 2% 目标。上周国际油价一度冲高至约 91 美元/桶，能源成本反弹令市场对"降息"与"更长时间按兵不动"的辩论再度升温。美联储下一次 FOMC 会议定于 9 月 16 日，市场将密切关注杰克逊霍尔年会（8 月 22 日）上鲍威尔释放的政策信号。
-- 来源：[Reuters](https://www.reuters.com/markets/) · [CNBC](https://www.cnbc.com/federal-reserve/)
+### 📉 全球股市高位回落，债市收益率走高成主要压力
+在欧美股市上周接连创下新高后，本周全球股市普遍回调：标普 500 全周下跌约 1.4%、纳斯达克跌约 2%，双双终结三周连涨，道指全周亦跌 0.9%。主因是长期国债收益率持续上行——美国财政赤字、企业为 AI 热潮大量举债及风险偏好收紧共同推高收益率，令估值偏高的成长股承压。
+- 来源：[Reuters Markets](https://www.reuters.com/world/china/global-markets-global-markets-2026-08-21/) · [CNBC](https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html)
 
-### 📈 标普 500 站上 7,600 点，美股高位震荡
-截至 8 月 21 日，标普 500 指数处于约 7,674 点附近的历史高位区域。此前 7 月美国非农就业意外减少约 2.3 万人，而 7 月 CPI 同比增速回落至 3.3%，"就业走软 + 通胀降温"的组合令市场对 9 月降息的押注升温，但高企的油价与韧性的核心通胀又为多头情绪泼了冷水。
+### 📈 标普 500 高位震荡，9 月降息押注反复拉锯
+截至 8 月 21 日，标普 500 指数处于约 7,674 点附近的历史高位区域。此前 7 月美国非农就业意外减少约 2.3 万人，而 7 月 CPI 同比增速回落至 3.3%，"就业走软 + 通胀降温"的组合令市场对 9 月降息的押注升温，但高企的油价与韧性的核心通胀又为多头情绪泼了冷水。杰克逊霍尔年会（8 月 22 日）上鲍威尔的政策信号成为市场焦点。
 - 来源：[FRED S&P 500](https://fred.stlouisfed.org/series/SP500) · [Reuters Markets](https://www.reuters.com/markets/)
 
-### 💳 Stripe 斥资约 75 亿美元收购 OpenRouter
-支付巨头 Stripe 宣布以约 75 亿美元收购 AI 模型路由平台 OpenRouter（8 月 17–19 日多家媒体确认）。Stripe 的支付业务将与 OpenRouter 的 AI 模型调用路由能力结合，抢滩高速增长的 AI 推理计费市场。这一交易凸显出"AI 基础设施 = 基础设施即支付"的新逻辑，为金融科技与 AI 的融合立下标志性样本。
-- 来源：[NYT](https://www.nytimes.com/) · [Reuters](https://www.reuters.com/technology/)
+### 🇦🇺 澳洲经济数据分化，RBA 维持紧缩倾向
+本周公布的澳洲数据喜忧参半：第二季度工资同比增速为 3.2%、环比 0.8%，虽在降温但仍具黏性；就业领先指标显示岗位增长或维持当前水平，失业率料徘徊在目前低位。分析师认为，澳洲联储（RBA）在通胀尚未回到目标区间前仍偏"鹰派"，下一次议息会议纪要或重申存在进一步加息的可能，令抵押贷款家庭承压。
+- 来源：[Adviser Voice（AMP 首席经济学家周报）](https://www.adviservoice.com.au/2026/08/weekly-economic-and-market-update-week-ending-21-august-2026/) · [Earnings](https://www.adviservoice.com.au/2026/08/four-charts-that-expose-market-concentration-risk/)
 
 ---
 
 ## 🌐国际时事与政治
 
-### 🌍 中瑞自贸升级落定，欧洲对华经贸再添制度锚点
-（详见 🔥时事热点）中瑞完成自贸协定升级谈判，是本周欧陆对华经贸的最重要制度性进展。瑞士凭借长期中立与金融枢纽地位，在欧中关系趋紧背景下维持了务实的经贸路线，升级后的协定有望为跨境服务与投资提供更高水平的开放承诺。
+### 🕊️ 以哈"停火"后加沙伤亡仍在累积，国际社会呼吁恢复谈判
+尽管 2025 年 10 月"停火"生效，加沙的人道主义危机近一周仍在恶化。据巴勒斯坦卫生部门 8 月 22 日通报，自停火以来又有 1,285 名巴勒斯坦人遇难、超 4,200 人受伤，累计死亡人数自 2023 年 10 月 7 日以来已逾 7.3 万。废墟清理与失踪人员搜寻进展缓慢，令停火协议的可持续性受到质疑。
+- 来源：[Al Mayadeen](https://english.almayadeen.net/news/politics/israeli-genocide-in-gaza-ongoing--as-death-toll-reaches-73-4) · [AP News](https://apnews.com/hub/gaza)
 
-### 🔐 Clop 勒索团伙引爆大规模数据窃取潮，波及 Shell、GE、飞利浦
-俄罗斯关联的勒索团伙 Clop（Cl0p）本周发动大规模数据窃取行动，利用 PTC Windchill/FlexPLM 的企业软件漏洞（CVE-2026-12569）攻击暴露在公网的实例，宣称受害者达 43 家，点名壳牌、通用电气、飞利浦等巨头。飞利浦已确认一台企业服务器遭"已控制"的闯入、不影响客户环境；壳牌称正在调查其约 89GB 数据被窃的说法。此案折射出供应链软件漏洞被勒索团伙规模化利用的严峻态势。
-- 来源：[BleepingComputer](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/) · [Reuters](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
-
-### 🗳️ 法国税务机构遭入侵，67.8 万人信息泄露
+### 🇫🇷 法国税务机构遭入侵，67.8 万人信息泄露
 法国税务当局 DGFiP 确认遭黑客入侵，约 67.8 万个人与企业信息被提取，包括税务与地籍数据。官方称攻击者使用的是"有效登录凭据 + 绕过 MFA"，而非软件漏洞，且在线门户的用户名密码未泄露。此案是法国政府系统今年一连串安全事件中的最新一起。
 - 来源：[Help Net Security](https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/) · [BleepingComputer](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
+
+### 🇾🇪 也门多方角力持续，沙特、土耳其、巴基斯坦加强军事协调
+中东地缘格局本周再度生变：也门胡塞武装对也门东部受沙特承认的政府军据点发动袭击，地区局势趋紧。与此同时，沙特、土耳其与巴基斯坦三国于 8 月 7 日签署联合军事协议，寻求在日益复杂的中东安全环境下的更紧密协作。这一动向叠加霍尔木兹海峡博弈，令中东多线风险成为全球关注焦点。
+- 来源：[AFP / Dhaka Tribune](https://www.dhakatribune.com/world/middle-east/416911/houthi-missile-attacks-kill-58-saudi-backed-yemeni) · [The Multiplural World](https://multipluralworld.com/world-news-headlines-and-analysis-for-august-2026/)
 
 ---
 
 ## 🤖人工智能
 
 ### 🧠 Stripe 75 亿美元鲸吞 OpenRouter，AI 计费成新战场
-支付巨头 Stripe 以约 75 亿美元收购 OpenRouter，将自身收单能力与 OpenRouter 的 AI 模型调用路由能力整合，剑指 AI 推理计费与结算这一快速增长的市场。交易背后是"谁掌握 AI 工作负载的计费入口，谁就掌握未来基础设施变现"的判断。
-- 来源：[NYT](https://www.nytimes.com/) · [Reuters](https://www.reuters.com/technology/)
+支付巨头 Stripe 以约 75 亿美元收购 OpenRouter（8 月 17–19 日多家媒体确认），将自身收单能力与 OpenRouter 的 AI 模型调用路由能力整合，剑指 AI 推理计费与结算这一快速增长的市场。交易背后是"谁掌握 AI 工作负载的计费入口，谁就掌握未来基础设施变现"的判断。
+- 来源：[Reuters Technology](https://www.reuters.com/technology/) · [NYT](https://www.nytimes.com/section/technology)
 
 ### ⚡ 华尔街日报披露：大科技 AI 隐性支出超 3 万亿美元
 《华尔街日报》一份深度报道揭示，Alphabet、亚马逊、Meta、微软、甲骨文、英伟达、博通、SpaceX、AMD 九家巨头的表外承诺合计约 3 万亿美元，其中 1.2 万亿为尚未开始的租赁、1.9 万亿为芯片、能源与数据中心采购承诺。这些义务记录在财报脚注中却未列入资产负债表，若 AI 需求不及预期，企业将承担昂贵且难取消的基础设施成本。
-- 来源：[WSJ](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2) · [Reuters](https://www.reuters.com/)
+- 来源：[WSJ](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2) · [Reuters](https://www.reuters.com/technology/)
 
 ### 🧩 Claude 推理新版本聚焦多源复杂分析
 Anthropic 的 Claude 近期版本加强了对高推理强度任务、多源信息整合（法律、金融、技术）能力的支持，在多项技术领域评测中得分接近满分，并在 Box 等真实评测中相较基线实现约 10 个百分点的提升（68% vs 58%）。这一演进反映出大模型竞争正从"通用对话"转向"复杂推理与专业领域可靠度"。
@@ -71,16 +72,16 @@ Anthropic 的 Claude 近期版本加强了对高推理强度任务、多源信�
 ## 💻科技产业
 
 ### 🔐 Clop 借 PTC 漏洞横扫制造业与医疗巨头
-（详见 🌐国际时事）Clop 团伙利用 PTC Windchill/FlexPLM 的输入校验漏洞（CVE-2026-12569）在公网暴露实例上大规模窃密，点名壳牌、GE、飞利浦等 43 家受害者，并部署 JSP webshell 抽数据。PTC 称其产品被逾 3 万家机构使用，涉及航空航天、国防、汽车、重工、零售与医疗器械，漏洞补丁自 6 月 17 日起已可获取，但大量暴露实例仍未修复。
+Clop 团伙利用 PTC Windchill/FlexPLM 的输入校验漏洞（CVE-2026-12569）在公网暴露实例上大规模窃密，点名壳牌、GE、飞利浦等 43 家受害者，并部署 JSP webshell 抽数据。PTC 称其产品被逾 3 万家机构使用，涉及航空航天、国防、汽车、重工、零售与医疗器械，漏洞补丁自 6 月 17 日起已可获取，但大量暴露实例仍未修复，供应链软件安全再敲警钟。
 - 来源：[BleepingComputer](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/) · [CISO Platform](https://www.cisoplatform.com/profiles/blogs/breach-watch-august-17-2026-clop-hits-shell-ge-philips-via-ptc-wi)
-
-### 💰 大科技 3 万亿表外 AI 承诺引发估值之辩
-《华尔街日报》报道后，包括"大空头"原型 Michael Burry 在内的质疑者再度发声，警告超大规模企业基于过长的折旧年限、以及"云厂商—AI 实验室—芯片厂"之间的循环融资可能人为放大需求与营收。Alphabet 单家截至 6 月 30 日的采购与合同承诺即达 8110 亿美元，Meta 披露了 3470 亿美元尚未启动的租赁。AI 资本开支的可持续性成为市场核心分歧。
-- 来源：[WSJ](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2) · [Goldman Sachs](https://www.goldmansachs.com/insights/articles/global-investment-is-forecast-to-exceed-1-trillion-in-2026)
 
 ### 🛡️ VMware vCenter、SAP 零日接连被野外利用
 本周网络安全界警报密集：SAP Commerce Cloud（CVE-2026-58231，CVSS 10）在 8 月 11 日补丁发布仅三天后即遭野外利用；VMware vCenter（CVE-2026-59310，CVSS 9.8）自 8 月 3 日起在数十国被利用以建立持久化。安全机构建议相关企业以"应急级别"立即修补并排查是否已被入侵。
-- 来源：[CISO Platform](https://www.cisoplatform.com/profiles/blogs/breach-watch-august-17-2026-clop-hits-shell-ge-philips-via-ptc-wi) · [BleepingComputer](https://www.bleepingcomputer.com/)
+- 来源：[CISO Platform](https://www.cisoplatform.com/profiles/blogs/breach-watch-august-17-2026-clop-hits-shell-ge-philips-via-ptc-wi) · [BleepingComputer](https://www.bleepingcomputer.com/news/security/)
+
+### 🏭 美国中西部成为最大电网，太阳能装机改写电力版图
+彭博新能源财经（BNEF）报告显示，美国中西部地区的太阳能装机增长已使其成为全美供电量最大的区域电网。新能源的快速扩张正深刻改写在美电力版图：数据中心对稳定电力需求激增，储能项目却在并网排期上遭遇"排队困局"，电网现代化成为投资与政策的新焦点。
+- 来源：[Energy Connects / Bloomberg](https://www.energyconnects.com/news/renewables/2026/august/solar-makes-midwest-area-grid-biggest-in-us-bnef-says/) · [Renewables Now](https://renewablesnow.com/projects/)
 
 ---
 
@@ -88,11 +89,11 @@ Anthropic 的 Claude 近期版本加强了对高推理强度任务、多源信�
 
 ### 🛢️ 油价冲高至 91 美元，能源通胀压力回归
 国际油价上周一度突破约 91 美元/桶，为近期高位。供应端扰动叠加地缘风险溢价推升油价，能源成本上行直接传导至整体通胀，令美联储在"降息"与"延长按兵不动"之间的抉择更加棘手，也令下游化工、运输与消费行业承压。
-- 来源：[Reuters Energy](https://www.reuters.com/business/energy/) · [CNBC](https://www.cnbc.com/oil/)
+- 来源：[Reuters Energy](https://www.reuters.com/business/energy/) · [CNBC Oil](https://www.cnbc.com/oil/)
 
 ### 🔥 印尼加里曼丹野火热点增多引发跨境烟霾担忧
 印尼加里曼丹（婆罗洲印尼部分）野火热点本周显著增多，引发对跨境烟霾再次笼罩东南亚邻近国家的担忧。泥炭地火灾难以扑灭，释放大量碳排放与可吸入颗粒物，对区域空气质量与气候目标均构成压力。
-- 来源：[Reuters](https://www.reuters.com/) · [AP](https://apnews.com/)
+- 来源：[Reuters](https://www.reuters.com/) · [AP News](https://apnews.com/)
 
 ### ⚡ 美国 EPA 延长可再生燃料合规期限
 美国环境保护署（EPA）就《可再生燃料标准》（RFS）合规提交期限作出延期，给炼油商与生物燃料生产商更多时间满足合规要求。此举在生物燃料行业与石油炼制行业之间取得临时平衡，也被视为对合规成本上升压力的回应。
@@ -102,17 +103,17 @@ Anthropic 的 Claude 近期版本加强了对高推理强度任务、多源信�
 
 ## 🏥医疗与健康
 
-### 💊 FDA 发布仿制药新指南，加速可负担药品上市
-美国 FDA 于 8 月 21 日发布一批新的"产品特定指南"（product-specific guidances），针对特定仿制药的生物等效性研究方法给出建议，旨在降低仿制药研发成本与门槛、加速更实惠药品进入市场。此举是 FDA 持续推动仿制药竞争、平抑药价的一环。
-- 来源：[FDA](https://www.fda.gov/) · [Reuters Health](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+### 🦠 刚果（金）爆发史上最大埃博拉（本迪布焦型）疫情，WHO 紧急行动
+世界卫生组织 5 月宣布刚果（金）与乌干达的埃博拉（本迪布焦型病毒）疫情构成"国际关注的突发公共卫生事件"。截至 8 月初，病例已超 4,400 例、死亡逾 2,000 例，为该国史上最大规模疫情。8 月 20 日，WHO 与非洲疾控中心宣布向刚果（金）分配埃博拉疫苗；全球首个针对本迪布焦型的候选疫苗临床试验亦于 7 月底在英国启动。世卫称需"数月"方能评估效果。
+- 来源：[WHO Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602) · [UN News](https://news.un.org/en/story/2026/08/1168072)
 
-### 🧬 FDA 将就 GLP-1 仿制药路径举行公开研讨会
-FDA 宣布将于 9 月 23–24 日召开关于 GLP-1（胰高血糖素样肽-1）类仿制药路径的公开研讨会，讨论这类热门减重/降糖药物的仿制与可及性问题。随着 GLP-1 药物需求井喷、原研药价格高企，其仿制药与生物类似药的可及性已成为政策与市场的焦点。
-- 来源：[FDA](https://www.fda.gov/) · [Reuters](https://www.reuters.com/)
+### 🧬 全球首个本迪布焦型埃博拉疫苗进入临床试验
+随着刚果（金）疫情蔓延，针对本迪布焦型（Bundibugyo）埃博拉病毒的世界首个候选疫苗临床试验已启动：7 月 24 日英国率先开跑，加拿大本周跟进。此前现有埃博拉疫苗多针对扎伊尔型，跨种保护效果未知，WHO 建议优先测试 Ervebo 疫苗在此次疫情中的效力。新疫苗能否"跨界"阻断本迪布焦型传播，成为全球关注焦点。
+- 来源：[Medical Xpress](https://medicalxpress.com/news/2026-08-vaccine-built-ebola-virus-world.html) · [WHO DRC](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport)
 
-### ⚠️ FDA 警示含隐藏成分的"Esbelta"类产品
-FDA 对一批名为"Esbelta"的膳食补充剂类产品发布安全警示，指其含有未标示的隐藏活性药物成分，可能对消费者健康造成风险。此类"隐藏成分"警示再次提醒公众，未经监管机构批准的"保健品"潜藏擅自添加处方成分的安全隐患。
-- 来源：[FDA](https://www.fda.gov/) · [AP Health](https://apnews.com/hub/health/)
+### 🔬 研究进展与卫生治理：从传染病应对到医疗可及
+本周全球卫生领域消息面多元：WHO 与非洲疾控中心联合推动埃博拉疫苗分配；非洲疾控与各国加强突发公卫事件应对能力；WHO 亦与多国就药品与疫苗伦理监管展开协作。公共卫生体系的韧性与药物可及性议题持续升温，多边机构在跨境卫生治理中的作用愈发凸显。
+- 来源：[WHO Newsroom](https://www.who.int/news-room) · [Reuters Health](https://www.reuters.com/business/healthcare-pharmaceuticals/)
 
 ---
 
