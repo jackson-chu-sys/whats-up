@@ -10,6 +10,10 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.12 | August 17 – 23, 2026**
+[Read now](2026-08-24-vol12.html) · [🇨🇳 中文版](/zh/2026-08-24-vol12.html)
+> China unveils a fresh round of fiscal policy to shore up demand, Europe's defense spending hits a post-Cold-War high, and the U.S.–Iran standoff over Hormuz persists. Global equities pull back from highs as bond yields climb, the ECB signals further easing, and Gaza's toll keeps rising. Stripe swallows OpenRouter for ~$7.5B, hidden big-tech AI spending tops $3 trillion, Clop exploits a PTC flaw, and VMware vCenter and SAP zero-days are exploited in the wild. Oil spikes toward $91, Kalimantan fires fan haze, and the DRC faces its largest-ever Ebola outbreak.
+
 **🟣 Vol.11 | August 10 – 16, 2026**
 [Read now](2026-08-17-vol11.html) · [🇨🇳 中文版](/zh/2026-08-17-vol11.html)
 > Weekly global signals: China's Q2 GDP slows to 4.3% with ¥250B in consumer trade-in stimulus, the Fed balances cooling jobs against sticky inflation, a Chamoli tunnel collapse kills 7 in India, and a "once-in-a-millennium" storm floods the U.S. Midwest. The AI frontier enters a dense release week — GLM-5.3, DeepSeek-V4-Pro, and Gemini 3.7 Flash all debut — while a Danube drought shuts a Romanian nuclear plant offline and a total solar eclipse sweeps the Arctic.
@@ -47,6 +51,7 @@ title: What's Up! | English Edition
 
 | Issue | Date | Link |
 |-------|------|------|
+| Vol.12 | 2026-W34 (8.17–8.23) | [Read](2026-08-24-vol12.html) |
 | Vol.11 | 2026-W33 (8.10–8.16) | [Read](2026-08-17-vol11.html) |
 | Vol.10 | 2026-W32 (8.03–8.09) | [Read](2026-08-11-vol10.html) |
 | Vol.09 | 2026-W31 (7.27–8.02) | [Read](2026-08-03-vol09.html) |

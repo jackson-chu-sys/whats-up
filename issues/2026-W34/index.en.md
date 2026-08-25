@@ -1,0 +1,237 @@
+# 🟣 what's Up! Global Signals Weekly｜Vol.12｜2026.08.17–08.23
+
+> *Catching up on what happened around the world last week.*
+> This issue covers: Monday, August 17 through Sunday, August 23, 2026.
+
+⚠️ AI Generated, Pending Human Review
+
+---
+
+## The Week in One Line
+
+China unveils a fresh round of fiscal policy to shore up demand and growth, Europe's defense spending hits a post-Cold-War high, and the U.S.–Iran standoff over the Strait of Hormuz drags on; global equities pull back from record highs as bond yields climb, the ECB signals further easing, and Gaza's toll keeps rising since the ceasefire. Stripe swallows OpenRouter for ~$7.5B, "hidden" big-tech AI spending tops $3 trillion, Clop exploits a PTC flaw to hit 43 manufacturing and healthcare giants, and VMware vCenter and SAP zero-days are exploited in the wild. Oil spikes toward $91, Indonesia's Kalimantan fires fan cross-border haze, and the DRC faces its largest-ever Ebola (Bundibugyo) outbreak — with new weight-loss and long-COVID research advancing in parallel.
+
+---
+
+# 🔥 This Week on Social Media
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W34/trending-news.jpg)
+
+## 1️⃣ China Unveils a Fresh Round of Fiscal Policy to Back Domestic Demand and Growth
+
+Facing slowing momentum in the second half of the year, China's Vice Minister of Finance Liao Min said at a press conference on Friday, August 21 that the country would "promptly roll out a package of new, genuinely effective policy measures based on the macroeconomic situation and development trends in the second half of the year," to further expand domestic demand and strengthen growth drivers. He stressed that fiscal policy would keep focusing on accelerating fund deployment, expanding domestic demand, and deepening fiscal reform and management. The remarks were read by markets as a signal that additional incremental stimulus could land between late Q3 and Q4.
+
+🔗 Sources: [Reuters](https://www.reuters.com/world/asia-pacific/china-pledges-timely-fiscal-support-bolster-growth-2026-08-21/) · [Xinhua (English) / gov.cn](https://english.www.gov.cn/news/202608/21/content_WS6a8828ccc6d00ca5f9a0cbbd.html)
+
+## 2️⃣ Europe's Defense Spending Hits a Post-Cold-War High: "Rearmament" Enters Overdrive
+
+Against a backdrop of persistently tense European security, several European countries raised their defense budgets this week, pushing regional defense spending to its highest level since the end of the Cold War. Analysts note that the era of chronically low defense spending is over; military-industrial capacity and joint combat capability have become priorities for competing nations, and the transatlantic burden-sharing debate over military spending has also heated up.
+
+🔗 Sources: [Reuters World](https://www.reuters.com/world/europe/) · [BBC News](https://www.bbc.com/news/world/europe)
+
+## 3️⃣ Middle East Tensions Persist: U.S.–Iran Standoff Over the Strait of Hormuz Unresolved
+
+The standoff between Iran and the United States over the Strait of Hormuz showed no sign of easing this week: Iran denied having reached any agreement with Washington, saying it was consulting with Oman on temporary transit arrangements through the strait, while the U.S. side threatened "unprecedented economic and diplomatic isolation" against any country supporting Iran. Maritime transit risk and oil-price volatility remain intertwined, making the strait a key source of uncertainty for global markets. The situation is further complicated by the fact that the U.S. president's approval rating has fallen to a historic low — only about one-third of Americans approve.
+
+🔗 Sources: [Al Mayadeen](https://english.almayadeen.net/news/politics/tehran-says-no-talks-with-us-underway--confirms-oman-negotia) · [New York Times](https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html)
+
+---
+
+# 🏦 Finance & Macro
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W34/finance-markets.jpg)
+
+## 📉 Global Equities Pull Back From Highs as Bond Yields Climb
+
+After U.S. and European stocks hit record highs last week, global equities broadly pulled back this week: the S&P 500 fell about 1.4% on the week and the Nasdaq about 2%, both snapping three-week winning streaks, while the Dow shed 0.9%. The main driver was the continued climb in long-term Treasury yields — the U.S. fiscal deficit, heavy corporate borrowing for the AI boom, and tightening risk appetite combined to push yields higher, pressuring richly valued growth stocks.
+
+🔗 Sources: [Reuters Markets](https://www.reuters.com/world/china/global-markets-global-markets-2026-08-21/) · [CNBC](https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html)
+
+## 🏦 ECB Rate-Cut Expectations Confirmed: Global Monetary Easing Takes Another Step
+
+The European Central Bank (ECB) further signaled easing in its meeting minutes this week, lifting market expectations that it will continue its rate-cut path as inflation retreats; euro-area bond yields fell in response. With the Federal Reserve holding steady and the Bank of Japan remaining cautious, monetary policy remains divergent across major economies, keeping cross-border capital flows and exchange-rate volatility in focus for Q3.
+
+🔗 Sources: [Reuters](https://www.reuters.com/markets/europe/) · [CNBC](https://www.cnbc.com/europe-economy/)
+
+## 🇦🇺 Australia's Data Mixed, RBA Keeps Its Hawkish Lean
+
+Australian data released this week was mixed: Q2 wage growth was 3.2% year-on-year and 0.8% quarter-on-quarter — cooling but still sticky — while leading employment indicators suggest job growth may hold near current levels and unemployment is expected to remain around its current low. Analysts argue the Reserve Bank of Australia (RBA) remains "hawkish" until inflation returns to target, and the next meeting's minutes may reiterate that further rate hikes remain possible, keeping pressure on mortgage-holding households.
+
+🔗 Sources: [Adviser Voice (AMP Chief Economist Weekly)](https://www.adviservoice.com.au/2026/08/weekly-economic-and-market-update-week-ending-21-august-2026/) · [Earnings](https://www.adviservoice.com.au/2026/08/four-charts-that-expose-market-concentration-risk/)
+
+---
+
+# 🌐 International & Politics
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W34/geopolitics.jpg)
+
+## 🕊️ Gaza Death Toll Keeps Rising After the "Ceasefire": International Community Urges a Return to Talks
+
+Despite the "ceasefire" that took effect in October 2025, Gaza's humanitarian crisis has kept worsening over the past week. According to a Palestinian health ministry update on August 22, a further 1,285 Palestinians have been killed and more than 4,200 injured since the ceasefire, and the cumulative death toll has surpassed 73,000 since October 7, 2023. Slow progress on debris clearance and the search for the missing has put the sustainability of the ceasefire agreement in question.
+
+🔗 Sources: [Al Mayadeen](https://english.almayadeen.net/news/politics/israeli-genocide-in-gaza-ongoing--as-death-toll-reaches-73-4) · [AP News](https://apnews.com/hub/gaza)
+
+## 🇫🇷 France's Tax Authority Hacked: 678,000 People's Data Compromised
+
+France's tax authority DGFiP confirmed it had been breached, with roughly 678,000 individuals' and businesses' information — including tax and cadastral data — extracted. Officials said the attackers used "valid login credentials + MFA bypass" rather than a software vulnerability, and that usernames and passwords on the online portal were not compromised. The case is the latest in a string of security incidents hitting French government systems this year.
+
+🔗 Sources: [Help Net Security](https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/) · [BleepingComputer](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
+
+## 🇾🇪 Yemen's Multi-Party Standoff Continues: Saudi Arabia, Türkiye, and Pakistan Deepen Military Coordination
+
+The Middle East's geopolitical landscape shifted again this week: Houthi forces attacked Saudi-recognized government military positions in eastern Yemen, raising regional tensions. Meanwhile, Saudi Arabia, Türkiye, and Pakistan signed a joint military agreement on August 7, seeking closer coordination in an increasingly complex Middle East security environment. Combined with the Strait of Hormuz standoff, this development makes the region's multi-front risks a focal point of global attention.
+
+🔗 Sources: [AFP / Dhaka Tribune](https://www.dhakatribune.com/world/middle-east/416911/houthi-missile-attacks-kill-58-saudi-backed-yemeni) · [The Multiplural World](https://multipluralworld.com/world-news-headlines-and-analysis-for-august-2026/)
+
+---
+
+# 🤖 AI Frontier
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W34/ai-school.jpg)
+
+## 🧠 Stripe Swallows OpenRouter for ~$7.5B: AI Billing Becomes a New Battleground
+
+Payments giant Stripe acquired OpenRouter for roughly $7.5 billion (confirmed by multiple outlets on August 17–19), combining its acquiring capabilities with OpenRouter's AI-model routing capacity to target the fast-growing market for AI inference billing and settlement. The logic behind the deal: "whoever controls the billing gateway for AI workloads controls the monetization of future infrastructure."
+
+🔗 Sources: [Reuters Technology](https://www.reuters.com/technology/) · [NYT](https://www.nytimes.com/section/technology)
+
+## ⚡ WSJ Reveals Hidden Big-Tech AI Spending Topping $3 Trillion
+
+A Wall Street Journal investigation revealed that the combined off-balance-sheet commitments of nine giants — Alphabet, Amazon, Meta, Microsoft, Oracle, Nvidia, Broadcom, SpaceX, and AMD — total about $3 trillion, of which $1.2 trillion is for leases not yet started and $1.9 trillion is for chip, energy, and data-center purchase commitments. These obligations are recorded in financial footnotes but not on the balance sheet; if AI demand falls short of expectations, companies will face expensive, hard-to-cancel infrastructure costs.
+
+🔗 Sources: [WSJ](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2) · [Reuters](https://www.reuters.com/technology/)
+
+## 🧩 Claude's New Reasoning Release Focuses on Multi-Source, Complex Analysis
+
+Anthropic's Claude recent release strengthened its support for high-reasoning-intensity tasks and multi-source information synthesis (legal, financial, technical), scoring near-perfect on several technical benchmarks and achieving roughly a 10-point improvement over baseline in real-world tests like Box (68% vs. 58%). The evolution reflects the large-model competition shifting from "general conversation" toward "complex reasoning and professional-domain reliability."
+
+🔗 Sources: [Anthropic](https://www.anthropic.com/news) · [MIT Technology Review](https://www.technologyreview.com/)
+
+---
+
+# 💻 Tech Industry
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W34/tech-industry.jpg)
+
+## 🔐 Clop Exploits PTC Flaw to Sweep Across Manufacturing and Healthcare Giants
+
+The Clop gang leveraged an input-validation flaw in PTC Windchill/FlexPLM (CVE-2026-12569) to steal data at scale from publicly exposed instances, naming 43 victims including Shell, GE, and Philips, and deploying JSP webshells to exfiltrate data. PTC says its products are used by more than 30,000 organizations spanning aerospace, defense, automotive, heavy industry, retail, and medical devices. Patches have been available since June 17, but many exposed instances remain unpatched — another wake-up call for supply-chain software security.
+
+🔗 Sources: [BleepingComputer](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/) · [CISO Platform](https://www.cisoplatform.com/profiles/blogs/breach-watch-august-17-2026-clop-hits-shell-ge-philips-via-ptc-wi)
+
+## 🛡️ VMware vCenter and SAP Zero-Days Exploited in the Wild Back-to-Back
+
+Cybersecurity alerts were dense this week: SAP Commerce Cloud (CVE-2026-58231, CVSS 10) was exploited in the wild just three days after its August 11 patch release, and VMware vCenter (CVE-2026-59310, CVSS 9.8) has been exploited since August 3 across dozens of countries to establish persistence. Security agencies recommend affected enterprises patch at "emergency" priority and immediately investigate whether they have already been compromised.
+
+🔗 Sources: [CISO Platform](https://www.cisoplatform.com/profiles/blogs/breach-watch-august-17-2026-clop-hits-shell-ge-philips-via-ptc-wi) · [BleepingComputer](https://www.bleepingcomputer.com/news/security/)
+
+## 🏭 The U.S. Midwest Becomes the Largest Power Grid as Solar Reshapes the Electricity Map
+
+A Bloomberg New Energy Finance (BNEF) report shows that solar installation growth in the U.S. Midwest has made it the largest regional grid by power supply in the country. The rapid expansion of renewables is redrawing America's electricity map: data centers' demand for stable power is surging, yet storage projects are stuck in a "queue dilemma" for grid interconnection, making grid modernization a new focal point for investment and policy.
+
+🔗 Sources: [Energy Connects / Bloomberg](https://www.energyconnects.com/news/renewables/2026/august/solar-makes-midwest-area-grid-biggest-in-us-bnef-says/) · [Renewables Now](https://renewablesnow.com/projects/)
+
+---
+
+# 🌱 Environment & Energy
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W34/environment-energy.jpg)
+
+## 🛢️ Oil Spikes Toward $91: Energy Inflation Pressure Returns
+
+International oil prices briefly breached about $91 per barrel last week, near recent highs. Supply-side disruptions combined with geopolitical risk premiums pushed prices higher, and rising energy costs directly feed into broader inflation — making the Fed's choice between "cutting rates" and "holding steady for longer" even trickier, while pressuring downstream chemicals, transport, and consumer sectors.
+
+🔗 Sources: [Reuters Energy](https://www.reuters.com/business/energy/) · [CNBC Oil](https://www.cnbc.com/oil/)
+
+## 🔥 Kalimantan Wildfire Hotspots Multiply, Stoking Cross-Border Haze Fears
+
+Wildfire hotspots in Kalimantan (the Indonesian part of Borneo) increased markedly this week, raising concerns that cross-border haze could again blanket neighboring Southeast Asian countries. Peatland fires are hard to extinguish and release large amounts of carbon emissions and particulate matter, putting pressure on both regional air quality and climate goals.
+
+🔗 Sources: [Reuters](https://www.reuters.com/) · [AP News](https://apnews.com/)
+
+## ⚡ U.S. EPA Extends Renewable Fuel Standard Compliance Deadline
+
+The U.S. Environmental Protection Agency (EPA) extended the compliance submission deadline under the Renewable Fuel Standard (RFS), giving refiners and biofuel producers more time to meet compliance requirements. The move strikes a temporary balance between the biofuel and oil-refining industries and is seen as a response to rising compliance-cost pressures.
+
+🔗 Sources: [Reuters](https://www.reuters.com/) · [EPA](https://www.epa.gov/)
+
+---
+
+# 🏥 Health & Medicine
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W34/health-medical.jpg)
+
+## 🦠 DRC Faces Its Largest-Ever Ebola (Bundibugyo) Outbreak: WHO Mounts Emergency Response
+
+In May, the World Health Organization declared the Ebola (Bundibugyo virus) outbreaks in the DRC and Uganda a "public health emergency of international concern." As of early August, cases had surpassed 4,400 with more than 2,000 deaths — the country's largest outbreak on record. On August 20, the WHO and the Africa CDC announced allocation of Ebola vaccines to the DRC, and the world's first clinical trial of a candidate vaccine against the Bundibugyo type was launched in the UK in late July. The WHO says it will take "months" to assess efficacy.
+
+🔗 Sources: [WHO Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602) · [UN News](https://news.un.org/en/story/2026/08/1168072)
+
+## 💊 New Targets Beyond GLP-1: The Next Frontier in Weight-Loss and Metabolic Research
+
+This week saw dense research and clinical activity around obesity and metabolic disease: multiple institutions released early clinical data on new targets (such as GIP and Amylin), seeking new weight-loss pathways beyond GLP-1 receptor agonists. Regulators and pharma companies are debating the safety, accessibility, and pricing of next-generation weight-loss drugs, as obesity treatment moves from a single blockbuster drug toward diversified competition.
+
+🔗 Sources: [Nature](https://www.nature.com/) · [Reuters Health](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+
+## 🏥 Global Health Governance: COVID and Long COVID Research Advances
+
+The international medical community continued to focus on the long-term impact of infectious disease and prevention as the new normal this week: multiple research groups published new data on long COVID prevalence and risk factors in large cohorts, and the WHO updated relevant clinical guidance. Public-health-system resilience in the post-pandemic era and drug accessibility remain heated topics, and the role of multilateral institutions in cross-border health governance is becoming increasingly prominent.
+
+🔗 Sources: [WHO Newsroom](https://www.who.int/news-room) · [Reuters Health](https://www.reuters.com/business/healthcare-pharmaceuticals/)
+
+---
+
+## 📚 Full Source Index for This Issue
+
+### Trending Now
+- Reuters - China fiscal policy: https://www.reuters.com/world/asia-pacific/china-pledges-timely-fiscal-support-bolster-growth-2026-08-21/
+- Xinhua (English) / gov.cn - China fiscal support: https://english.www.gov.cn/news/202608/21/content_WS6a8828ccc6d00ca5f9a0cbbd.html
+- Reuters - Europe: https://www.reuters.com/world/europe/
+- BBC News - Europe: https://www.bbc.com/news/world/europe
+- Al Mayadeen - Tehran no talks with US: https://english.almayadeen.net/news/politics/tehran-says-no-talks-with-us-underway--confirms-oman-negotia
+- New York Times - Trump polls approval rating: https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html
+
+### Finance & Macro
+- Reuters Markets - global markets: https://www.reuters.com/world/china/global-markets-global-markets-2026-08-21/
+- CNBC - stock market today: https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html
+- Reuters - Europe markets: https://www.reuters.com/markets/europe/
+- CNBC - Europe economy: https://www.cnbc.com/europe-economy/
+- Adviser Voice - AMP weekly economic update: https://www.adviservoice.com.au/2026/08/weekly-economic-and-market-update-week-ending-21-august-2026/
+- Adviser Voice - market concentration risk: https://www.adviservoice.com.au/2026/08/four-charts-that-expose-market-concentration-risk/
+
+### International & Politics
+- Al Mayadeen - Gaza death toll: https://english.almayadeen.net/news/politics/israeli-genocide-in-gaza-ongoing--as-death-toll-reaches-73-4
+- AP News - Gaza hub: https://apnews.com/hub/gaza
+- Help Net Security - France tax authority breach: https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/
+- BleepingComputer - French tax authority breach: https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/
+- AFP / Dhaka Tribune - Houthi missile attacks: https://www.dhakatribune.com/world/middle-east/416911/houthi-missile-attacks-kill-58-saudi-backed-yemeni
+- The Multiplural World - world news headlines: https://multipluralworld.com/world-news-headlines-and-analysis-for-august-2026/
+
+### AI Frontier
+- Reuters Technology: https://www.reuters.com/technology/
+- NYT - technology section: https://www.nytimes.com/section/technology
+- WSJ - big tech AI spending: https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2
+- Anthropic - news: https://www.anthropic.com/news
+- MIT Technology Review: https://www.technologyreview.com/
+
+### Tech Industry
+- BleepingComputer - Philips and GE Clop claims: https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/
+- CISO Platform - Clop hits Shell/GE/Philips via PTC: https://www.cisoplatform.com/profiles/blogs/breach-watch-august-17-2026-clop-hits-shell-ge-philips-via-ptc-wi
+- BleepingComputer - security news: https://www.bleepingcomputer.com/news/security/
+- Energy Connects / Bloomberg - solar makes Midwest grid biggest: https://www.energyconnects.com/news/renewables/2026/august/solar-makes-midwest-area-grid-biggest-in-us-bnef-says/
+- Renewables Now - projects: https://renewablesnow.com/projects/
+
+### Environment & Energy
+- Reuters Energy: https://www.reuters.com/business/energy/
+- CNBC Oil: https://www.cnbc.com/oil/
+- EPA: https://www.epa.gov/
+
+### Health & Medicine
+- WHO Disease Outbreak News - 2026-DON602: https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602
+- UN News - Ebola: https://news.un.org/en/story/2026/08/1168072
+- Nature: https://www.nature.com/
+- WHO Newsroom: https://www.who.int/news-room
+
+---
+
+*📝 Generated by the What's Up! AI Editorial Desk | See you next issue!*

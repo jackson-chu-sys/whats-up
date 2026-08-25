@@ -1,0 +1,42 @@
+🟣 what's Up! Global Signals Weekly｜Vol.12｜August 17 – 23, 2026
+
+21 signals from a week when China moved to shore up demand, Europe's rearmament hit a post-Cold-War high, and the U.S.–Iran standoff over Hormuz dragged on. Here's the full rundown:
+
+🔥 Social Pulse
+• China unveils a fresh round of fiscal policy to back domestic demand and growth
+• Europe's defense spending hits a post-Cold-War high: "rearmament" enters overdrive
+• Middle East tensions persist: U.S.–Iran standoff over the Strait of Hormuz unresolved
+
+🏦 Finance & Macro
+• Global equities pull back from highs as bond yields climb
+• ECB rate-cut expectations confirmed: global monetary easing takes another step
+• Australia's data mixed, RBA keeps its hawkish lean
+
+🌐 International & Politics
+• Gaza death toll keeps rising after the "ceasefire": international community urges a return to talks
+• France's tax authority hacked: 678,000 people's data compromised
+• Yemen's multi-party standoff continues: Saudi Arabia, Türkiye, and Pakistan deepen military coordination
+
+🤖 AI Frontier
+• Stripe swallows OpenRouter for ~$7.5B: AI billing becomes a new battleground
+• WSJ reveals hidden big-tech AI spending topping $3 trillion
+• Claude's new reasoning release focuses on multi-source, complex analysis
+
+💻 Tech Industry
+• Clop exploits PTC flaw to sweep across manufacturing and healthcare giants
+• VMware vCenter and SAP zero-days exploited in the wild back-to-back
+• The U.S. Midwest becomes the largest power grid as solar reshapes the electricity map
+
+🌱 Environment & Energy
+• Oil spikes toward $91: energy inflation pressure returns
+• Kalimantan wildfire hotspots multiply, stoking cross-border haze fears
+• U.S. EPA extends Renewable Fuel Standard compliance deadline
+
+🏥 Health & Medicine
+• DRC faces its largest-ever Ebola (Bundibugyo) outbreak: WHO mounts emergency response
+• New targets beyond GLP-1: the next frontier in weight-loss and metabolic research
+• Global health governance: COVID and long COVID research advances
+
+📖 Read the full edition 👉 https://jackson-chu-sys.github.io/whats-up/en/2026-08-24-vol12.html
+
+#GlobalSignals #AITrends #Markets #Geopolitics #ChinaFiscalPolicy #EuropeDefense #Hormuz #ECB #Gaza #FranceBreach #Stripe #OpenRouter #Claude #Clop #VMware #ZeroDay #SolarEnergy #Oil #Kalimantan #EPA #Ebola #WeightLoss #LongCOVID #WhatsUpWeekly
