@@ -10,6 +10,10 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.13 | August 24 – 30, 2026**
+[Read now](2026-08-31-vol13.html) · [🇨🇳 中文版](/zh/2026-08-31-vol13.html)
+> New Zealand moves to ban under-16s from social media and a Himalayan glacial-lake flood kills over 100; US stocks end mixed as Nvidia's blowout earnings square off against a hawkish new Fed chair, and Bitcoin steadies near $78,000. The UN Security Council urges a full Russia–Ukraine ceasefire while Moscow rejects a "freeze the front line" plan, and Norway crowns Haakon VIII. GLM-5.3-Flash collides with GPT-5 Turbo as 38 new models land in August, an FDA-cleared pTau217 blood test advances Alzheimer's screening, and Nvidia posts a record $96.2B quarter while reportedly eyeing a $12.9B Hugging Face deal. EU renewables hit 26.2%, and the FDA clears Mimrylo, Bixlenvo, and a breakthrough pancreatic-cancer therapy.
+
 **🟣 Vol.12 | August 17 – 23, 2026**
 [Read now](2026-08-24-vol12.html) · [🇨🇳 中文版](/zh/2026-08-24-vol12.html)
 > China unveils a fresh round of fiscal policy to shore up demand, Europe's defense spending hits a post-Cold-War high, and the U.S.–Iran standoff over Hormuz persists. Global equities pull back from highs as bond yields climb, the ECB signals further easing, and Gaza's toll keeps rising. Stripe swallows OpenRouter for ~$7.5B, hidden big-tech AI spending tops $3 trillion, Clop exploits a PTC flaw, and VMware vCenter and SAP zero-days are exploited in the wild. Oil spikes toward $91, Kalimantan fires fan haze, and the DRC faces its largest-ever Ebola outbreak.
@@ -51,6 +55,7 @@ title: What's Up! | English Edition
 
 | Issue | Date | Link |
 |-------|------|------|
+| Vol.13 | 2026-W35 (8.24–8.30) | [Read](2026-08-31-vol13.html) |
 | Vol.12 | 2026-W34 (8.17–8.23) | [Read](2026-08-24-vol12.html) |
 | Vol.11 | 2026-W33 (8.10–8.16) | [Read](2026-08-17-vol11.html) |
 | Vol.10 | 2026-W32 (8.03–8.09) | [Read](2026-08-11-vol10.html) |

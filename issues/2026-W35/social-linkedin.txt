@@ -1,0 +1,42 @@
+🟣 what's Up! Global Signals Weekly｜Vol.13｜August 24 – 30, 2026
+
+21 signals from a week when New Zealand moved to ban under-16s from social media, a Himalayan glacial-lake flood killed over 100, and Nvidia's record quarter squared off against a hawkish new Fed chair. Here's the full rundown:
+
+🔥 Social Pulse
+• New Zealand moves to ban social media for under-16s
+• Iran denounces fresh U.S. sanctions; Gaza ceasefire talks still stalled
+• Glacial-lake outburst flood in the Nepal–Tibet Himalayas kills over 100
+
+🏦 Finance & Macro
+• U.S. stocks mixed as Nvidia earnings battle Treasury and Fed policy
+• New Fed Chair Kevin Warsh turns hawkish, cooling easing bets
+• Bitcoin steadies near $78,000 as institutions split on the long-range range
+
+🌐 International & Politics
+• UN Security Council calls for a full Russia–Ukraine ceasefire
+• Russia rejects the "freeze the front line" plan; stalemate persists
+• Norway crowns Haakon VIII on August 28
+
+🤖 AI Frontier
+• Frontier model racing heats up: GLM-5.3-Flash vs GPT-5 Turbo
+• August model launches accelerate: 38 new models, 17 providers
+• Blood-test screening breakthrough: pTau217 advances early Alzheimer's diagnosis
+
+💻 Tech Industry
+• Nvidia posts a record $96.2B quarter, guides ~70% growth next year
+• Nvidia reportedly in talks to acquire Hugging Face for ~$12.9B
+• Nvidia unveils Jetson Orin Nano 2, advancing edge AI and custom memory in tandem
+
+🌱 Environment & Energy
+• EU renewable share rises to 26.2%, coal generation hits a record low
+• U.S. natural-gas output set for a record, DOE policy and market signals diverge
+• U.S. power sector cuts emissions 38%; carbon-free share at 43%
+
+🏥 Health & Medicine
+• FDA approves Mimrylo, the first hepcidin-mimetic, for polycythemia vera
+• FDA clears Gilead's Bixlenvo for HIV-1, easing regimen switching
+• Breakthrough therapy improves survival in metastatic pancreatic cancer, wins FDA approval
+
+📖 Read the full edition 👉 https://jackson-chu-sys.github.io/whats-up/en/2026-08-31-vol13.html
+
+#GlobalSignals #AITrends #Markets #Geopolitics #NewZealand #SocialMediaBan #GLOF #Nvidia #HuggingFace #Fed #KevinWarsh #Bitcoin #RussiaUkraine #HaakonVIII #GLM #GPT5 #Roche #pTau217 #Alzheimers #Jetson #EUElectricity #NaturalGas #PowerDecarbonization #Mimrylo #Bixlenvo #PancreaticCancer #WhatsUpWeekly
