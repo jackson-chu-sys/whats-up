@@ -1,0 +1,42 @@
+🟣 what's Up! Global Signals Weekly｜Vol.14｜August 31 – September 6, 2026
+
+21 signals from a week when AI "devoured" Fermat's Last Theorem in 11 days, a blowout jobs report put a Fed rate hike back on the table, and the US–Iran ceasefire facade collapsed around the Strait of Hormuz. Here's the full rundown:
+
+🔥 Social Pulse
+• Claude formalized Fermat's Last Theorem in Lean in 11 days — AI math goes viral
+• "AI is eating your data": Anthropic terms update and Meta photo-gate ignite privacy anxiety
+• The global under-16 social-media ban enters legislative season: EU, US, Pakistan, Australia
+
+🏦 Finance & Macro
+• August payrolls land at 162,000 — the Fed is debating whether to hike
+• Super September opens: ECB, Fed, BoE and BoJ all on stage within four weeks
+• Gold and Bitcoin get the same payrolls squeeze; the BTC/gold ratio snaps back
+
+🌐 International & Politics
+• The US–Iran "ceasefire" facade crumbles; Hormuz turns powder keg again
+• US envoys shuttle Moscow→Kyiv; both sides pause strikes on each other's capitals
+• Venezuela grants 100-year oil concessions to a US firm — Chinese and Russian operators out
+
+🤖 AI Frontier
+• GPT-6 Astra launches as the first "Critical"-tier cybersecurity model
+• Four frontier labs ship within 72 hours — the densest release window on record
+• EU pulls ChatGPT into the DSA's top regulatory tier for the first time
+
+💻 Tech Industry
+• John Ternus takes the Apple CEO chair — foldable iPhone is the test, eight days in
+• Cloudflare blocks AI crawlers by default from September 15
+• Tesla's "missing" crash data rescued by a hacker; a $243M verdict follows
+
+🌱 Environment & Energy
+• China's installed solar capacity overtakes coal — while new additions plunge 66%
+• Europe's summer: at least 35,000 heatwave deaths as a flash-flood season opens
+• EU carbon-market reform hits a hard fight: 17 member states challenge "investment-for-allowances"
+
+🏥 Health & Medicine
+• CDC deletes two measles deaths from the national tally — public-health trust on trial
+• Lancet urges "reconsidering" an old Ebola vaccine for the rare Bundibugyo outbreak
+• Clinical AI's reimbursement year one: a sepsis monitor wins a Medicare payment lane
+
+📖 Read the full edition 👉 https://jackson-chu-sys.github.io/whats-up/en/2026-09-07-vol14.html
+
+#GlobalSignals #AITrends #Markets #Geopolitics #Fermat #Claude #Anthropic #SocialMediaBan #Payrolls #Fed #Bitcoin #Gold #USIran #Hormuz #RussiaUkraine #Venezuela #GPT6 #Apple #Ternus #Cloudflare #Tesla #Solar #Heatwave #EUCarbon #Measles #Ebola #MedicareAI #WhatsUpWeekly

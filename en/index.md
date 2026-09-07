@@ -10,6 +10,10 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.14 | August 31 – September 6, 2026**
+[Read now](2026-09-07-vol14.html) · [🇨🇳 中文版](/zh/2026-09-07-vol14.html)
+> Claude formalizes Fermat's Last Theorem in 11 days as "AI eating your data" sweeps Hacker News and a cross-continental wave of under-16 social-media bans advances. A 162,000 payrolls report puts a Fed hike back on the table before a super September of central banks, and gold and Bitcoin both fall on the print. The US–Iran ceasefire facade collapses around Hormuz, US envoys shuttle Moscow–Kyiv, and Venezuela hands 100-year oil concessions to a US firm, freezing out Chinese and Russian operators. OpenAI ships GPT-6 Astra — the first "Critical"-tier cyber model — as four labs launch within 72 hours and the EU pulls ChatGPT into the DSA's top tier. John Ternus takes the Apple CEO chair ahead of the foldable iPhone, Cloudflare blocks AI crawlers by default, Tesla's "missing" crash data resurfaces via a hacker, China's solar capacity overtakes coal while new additions plunge 66%, Europe logs 35,000 heatwave deaths, and clinical AI wins its first Medicare payment lane.
+
 **🟣 Vol.13 | August 24 – 30, 2026**
 [Read now](2026-08-31-vol13.html) · [🇨🇳 中文版](/zh/2026-08-31-vol13.html)
 > New Zealand moves to ban under-16s from social media and a Himalayan glacial-lake flood kills over 100; US stocks end mixed as Nvidia's blowout earnings square off against a hawkish new Fed chair, and Bitcoin steadies near $78,000. The UN Security Council urges a full Russia–Ukraine ceasefire while Moscow rejects a "freeze the front line" plan, and Norway crowns Haakon VIII. GLM-5.3-Flash collides with GPT-5 Turbo as 38 new models land in August, an FDA-cleared pTau217 blood test advances Alzheimer's screening, and Nvidia posts a record $96.2B quarter while reportedly eyeing a $12.9B Hugging Face deal. EU renewables hit 26.2%, and the FDA clears Mimrylo, Bixlenvo, and a breakthrough pancreatic-cancer therapy.
