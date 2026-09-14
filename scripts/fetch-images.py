@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# NOTE(2026-09-14): Unsplash napi search now returns "Authorization required" — fetch-images.py is deprecated.
 """Download the 7 section images for an issue from Unsplash.
 
 Usage: fetch-images.py YYYY-WNN
