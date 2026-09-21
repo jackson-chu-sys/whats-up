@@ -10,6 +10,10 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.16 | September 14 – 20, 2026**
+[Read now](2026-09-21-vol16.html) · [🇨🇳 中文版](/zh/2026-09-21-vol16.html)
+> {summary}
+
 **🟣 Vol.15 | September 7 – 13, 2026**
 [Read now](2026-09-14-vol15.html) · [🇨🇳 中文版](/zh/2026-09-14-vol15.html)
 > Anthropic's age-gating of Claude turned "prove you're an adult" into Hacker News's hottest privacy argument, as Apple joined the "data-for-intelligence" fight and the Internet Archive begged for donations on the same front page. A hawkish August CPI put a September rate *hike* at ~87% odds, the ECB hiked to 2.50% anyway, and gold and Bitcoin diverged hard — Bitcoin ETFs bled $462.7M in four days. Iran declared a "no-go zone" countdown in Hormuz as Brent flirted with $100, the UN General Assembly opened with a Palestine-recognition offensive, and Kyiv floated an October restart of trilateral talks while the Kremlin said no. Sam Altman hinted at an industry safety pact as two researchers quit over risk culture and Trump replied "whoever wins AI wins everything"; the Senate drafted a duty-of-care bill, California demanded criminal liability for "rogue AI," and Google, Anthropic and OpenAI shipped gated cyber models the same week. Apple launched its first foldable — the $1,999 iPhone Duo — while Brussels opened a DSA case over Grok deepfakes. A Nepal glacial flood killed nearly 1,400, US batteries logged a record 20.2GWh quarter, and a collapsing heat dome flooded Italy. The CDC counted 3,134 US measles cases for the year, Nature linked shortened brain "antennae" to stress and depression, and drug-free nanoparticles cleared Alzheimer's plaques in mice.
