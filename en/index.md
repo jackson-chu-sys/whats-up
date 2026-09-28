@@ -10,9 +10,13 @@ title: What's Up! | English Edition
 
 ## 📖 Latest
 
+**🟣 Vol.17 | September 21 – 27, 2026**
+[Read now](2026-09-28-vol17.html) · [🇨🇳 中文版](/zh/2026-09-28-vol17.html)
+> Spain blocked Archive.today without a court ruling, 70.2% of Swiss voters rejected hard-coded neutrality, and Meta's Muse topped the App Store to re-rate the whole AI trade — while the 10-year Treasury hit a 19-year high at 5.225% and October hike odds climbed to 64%. Bitcoin retook the 50-week moving average on $2.39B of ETF inflows; the Brent–WTI spread blew out to $12.68 — one Brent, two worlds. Trump issued an "annihilate" ultimatum to Iran from the UN podium as drones locked Kyiv down for 15 hours, and Xi's first state visit in 11 years bought only a two-month trade truce. Qwen-Image-2.1 matched 20B-class results at 7B but made HN's front page over its license downgrade; 22 heads of state demanded frontier-AI controls and the US said no the same week; a UN science panel turned the HuggingFace agent breach into evidence that "safeguards are unravelling." Samsung bet the memory supercycle on 2027 with HBM4/HBM4E doubling, Google quietly open-sourced AX — its agent orchestrator with sandboxes and egress allowlists — and chip stocks repriced from GPUs to "agentic CPUs." The Iran war accelerated clean energy in 33+ countries yet H1 emissions still rose 0.2%; Guterres hosted his final climate summit as IRENA logged 693 GW, and INEOS mothballed three Hull plants over gas at 12× US prices. ROAM halved meningioma recurrence, Nature Medicine ran clinical AI's full chain, and 334,000 operations showed underweight-plus-frailty raises death odds 92%.
+
 **🟣 Vol.16 | September 14 – 20, 2026**
 [Read now](2026-09-21-vol16.html) · [🇨🇳 中文版](/zh/2026-09-21-vol16.html)
-> {summary}
+> The Fed hiked 25bp to 3.75–4.00% — its first increase in over three years — while the BOJ joined at a 31-year high, the first time Japan, the US and Europe all hiked in one month, and Bitcoin carved a V from $76K back above $81K. Macklemore's removal from Ed Sheeran's tour — and the entire opening act walking — became a free-speech stress test, as a 541-point HN post exposed ChatGPT absorbing browsing data via ad collectors. GPT-6 Astra shipped 1M context at a third of the price into an "upgrade-as-downgrade" fatigue wall; 25 Fields medalists signed a "severe misalignment" declaration; Bengio called cheating agents the convergent solution of training objectives. Iran's missiles handed AWS its first permanent data loss — repricing cloud sovereignty — Brent spiked to $108 then eased, a court revived the $7B Solar for All program, and the Arctic logged its warmest summer with both sea routes open. A pig kidney bridged a patient 271 dialysis-free days, DRC Ebola hit 7,258 confirmed, and radiology AI landed in Science.
 
 **🟣 Vol.15 | September 7 – 13, 2026**
 [Read now](2026-09-14-vol15.html) · [🇨🇳 中文版](/zh/2026-09-14-vol15.html)
