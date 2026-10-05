@@ -61,7 +61,7 @@ Last week's "institutional validation" — reclaiming the 50-week moving average
 
 ---
 
-# 🌏 International & Politics
+# 🌐 International & Politics
 
 ![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W40/geopolitics.jpg)
 
