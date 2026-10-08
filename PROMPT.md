@@ -20,7 +20,7 @@
 
 | # | 板块 | 内容要求 |
 |---|------|----------|
-| 🔥 | 时事热点 · 社交舆情精选 | 3条：来自 X(Twitter)/Reddit/HN 的热议话题 |
+| 🔥 | 时事热点 · 社交舆情精选 | 5条：来自 X(Twitter)/Reddit/小红书/微博(+Google Trends) 的热榜话题；须覆盖 ≥4 个不同平台，每条标注平台 |
 | 🏦 | 金融与宏观经济 | 3条：全球市场、利率/央行、另类资产（加密/大宗等） |
 | 🌐 | 国际时事与政治 | 3条：地缘、监管/政策、选举/治理 |
 | 🤖 | 人工智能（AI） | 3条：技术前沿、产业落地、AI治理/伦理 |
@@ -46,22 +46,28 @@
 
 # 🔥 头版｜时事热点 · 社交舆情精选
 > *What the Internet Is Talking About*
-> 本版块来自 X (Twitter)、Reddit 等社交平台，反映全球正在被讨论的热点与情绪信号。
+> 本版块来自 X (Twitter)、Reddit、小红书、微博、Google Trends 的热榜，反映全球正在被讨论的热点与情绪信号。**5 条须覆盖 ≥4 个不同平台，每条标注平台与榜单位置/热度。**
 
 ![配图](https://jackson-chu-sys.github.io/whats-up/assets/images/YYYY-WNN/trending-news.jpg)
 
-## 1️⃣ X 热点｜[标题]
-**为什么值得关注？**
-🔗 来源：[name](url)
+## 1️⃣ [平台] 热点｜[标题]
+**为什么值得关注？**（含榜单热度/点赞等平台侧信号）
+🔗 来源：[platform](platform_url) · [新闻佐证](news_url)
 
-## 2️⃣ Reddit 热帖｜[标题]
+## 2️⃣ [平台] 热帖｜[标题]
 **讨论要点摘要：**
 - 
 - 
 - 
+🔗 来源：[platform](platform_url) · [news](news_url)
+
+## 3️⃣ [平台] 热搜｜[标题]
 🔗 来源：[name](url)
 
-## 3️⃣ 社交平台热议｜[标题]
+## 4️⃣ [平台] 热点｜[标题]
+🔗 来源：[name](url)
+
+## 5️⃣ [平台] 趋势｜[标题]
 🔗 来源：[name](url)
 
 ---
@@ -157,7 +163,7 @@
 ### 🟢 一阶段（每周一 10:00 CST cron 自动执行）
 
 1. 确定期数（Week 编号 + Vol 编号）
-2. 搜索真实新闻源，生成中文初稿（7板块 × 3条）
+2. **先拉平台热榜**（X/Reddit/小红书/微博/Google Trends，见「平台热榜来源」）凑齐时事热点 5 条；再搜索真实新闻源，生成中文初稿（时事热点 5 条 + 其余 6 板块 × 3 条 = 23条）
 3. **下载全部 7 张配图**到 `assets/images/YYYY-WNN/`（Unsplash，统一 `?w=800`）
 4. 保存 → `issues/YYYY-WNN/index.cn.md`
 5. **更新索引页** → `index.md` + `zh/index.md`（最新期+往期表）
@@ -171,8 +177,8 @@
 1. 基于定稿中文版翻译英文版 → `issues/YYYY-WNN/index.en.md`
 2. 生成 Jekyll 发布页 → `_posts/zh/YYYY-MM-DD-volXX.md` + `_posts/en/YYYY-MM-DD-volXX.md`（含 frontmatter + permalink）
 3. 生成社交文案 → `issues/YYYY-WNN/social.md`（含以下三部分）：
-   - **小红书文案**：中文，仅取7个板块共21条标题（不含正文摘要），emoji分段，文末附中文版完整URL链接（非短链/相对路径）+ #标签，适应小红书正文上限1000字
-   - **LinkedIn文案**：英文，仅取21条标题（不含正文摘要），professional分段，文末附英文版完整URL链接（非短链/相对路径）+ #标签，适应LinkedIn上限3000字符
+   - **小红书文案**：中文，仅取7个板块共23条标题（不含正文摘要），emoji分段，文末附中文版完整URL链接（非短链/相对路径）+ #标签，适应小红书正文上限1000字
+   - **LinkedIn文案**：英文，仅取23条标题（不含正文摘要），professional分段，文末附英文版完整URL链接（非短链/相对路径）+ #标签，适应LinkedIn上限3000字符
    - **朋友圈文案**：中文，精选6-7条标题+一句话卖点，附首页完整URL链接
 4. 更新英文索引 → `en/index.md`
 5. Git 提交并推送
@@ -222,6 +228,20 @@
 - X/Twitter (记者、研究者的第一手信息)
 - GitHub Trending, Papers with Code
 
+### 平台热榜来源（时事热点版块专用）
+
+> 平台裸 API 在容器内多被封锁（微博 Forbidden、Reddit 网络封锁、小红书登录墙），**统一走 web_search 检索下列镜像/聚合站**获取榜单；顺序必须是「先拉榜、后搜新闻佐证」。
+
+| 平台 | 首选来源（web_search 检索站名，或直接引用） | 备注 |
+|------|--------------------------------------------|------|
+| X (Twitter) | trends24.in / twitter-trending.com / twitr.sh | 全球榜多为娱乐/体育/本地话题，须筛选可延展成新闻的 |
+| Reddit | redlib 镜像 lr.burggit.moe/r/worldnews（含赞数） | r/popular、r/technology 可备用 |
+| 微博 | tgmeng.com/media/weibo（含热度） | 备：tophub.today/n/KqndgxeLl9、weibotop.cn |
+| 小红书 | 聚合站 rebang.today，或 web_search「小红书 热榜 今日」 | 最弱环，拿不到则换平台补位 |
+| Google Trends | trends.google.com，或搜索「Google Trends <地区> today」 | 全球检索热度 |
+
+每条须标注平台名；平台侧链接用榜单/搜索 permalink（如 `x.com/search?q=…`），新闻侧照「链接保真规则」原样复制。5 条须覆盖 ≥4 个不同平台。
+
 ## 链接保真规则（硬约束，最高优先级）
 
 > ⚠️ 这是本周刊最严重的翻车点，违反以下任一条 = 本期返工。
@@ -237,7 +257,7 @@
 ## 质量标准
 
 - ✅ 每条信息都有 ≥2 个可点击的源链接
-- ✅ 21 篇文章（7板块 × 3），每篇 100-250 字（Vol.18 起）
+- ✅ 23 篇文章（时事热点 5 条 + 其余 6 板块 × 3），每篇 100-250 字（Vol.18 起）
 - ✅ 至少 5 张配图
 - ✅ 标题吸睛但不标题党
 - ✅ 数据有来源，观点有标注
