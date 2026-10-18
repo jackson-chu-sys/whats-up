@@ -17,9 +17,9 @@ title: what's Up!
 
 ## 最新一期
 
-**🟣 Vol.19**｜2026.10.05–10.11
+**🟣 Vol.20**｜2026.10.12–10.18
 
-[🇨🇳 中文阅读](/whats-up/zh/2026-10-12-vol19.html) · [🇺🇸 English](/whats-up/en/2026-10-12-vol19.html)
+[🇨🇳 中文阅读](/whats-up/zh/2026-10-19-vol20.html) · [🇺🇸 English](/whats-up/en/2026-10-19-vol20.html)
 
 ---
 
@@ -27,6 +27,7 @@ title: what's Up!
 
 | 期数 | 日期 | 中文 | English |
 |------|------|------|---------|
+| Vol.20 | 2026-W42 (10.12–10.18) | [中文](/whats-up/zh/2026-10-19-vol20.html) | [English](/whats-up/en/2026-10-19-vol20.html) |
 | Vol.19 | 2026-W41 (10.05–10.11) | [中文](/whats-up/zh/2026-10-12-vol19.html) | [English](/whats-up/en/2026-10-12-vol19.html) |
 | Vol.18 | 2026-W40 (9.28–10.04) | [中文](/whats-up/zh/2026-10-05-vol18.html) | [English](/whats-up/en/2026-10-05-vol18.html) |
 | Vol.17 | 2026-W39 (9.21–9.27) | [中文](/whats-up/zh/2026-09-28-vol17.html) | [English](/whats-up/en/2026-09-28-vol17.html) |
