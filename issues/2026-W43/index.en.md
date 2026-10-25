@@ -1,0 +1,201 @@
+# 🟣 what's Up! Global Signals Weekly｜Vol.21｜2026.10.19–10.25
+
+> *Catching up on what happened around the world last week.*
+> This issue covers: Monday, October 19 through Sunday, October 25, 2026.
+
+⚠️ AI Generated, Pending Human Review
+
+---
+
+## The Week in One Line
+
+Netanyahu authorised backing for Argentina's claim to the Falklands in retaliation for British sanctions, and r/worldnews made it the week's top post; Brazil's runoff day filled global trends with #HojeEuVotoLula as Meta's alleged bias became the campaign's closing argument. Brent settled at $116.72, its highest since April, pushing December Fed hike odds to 76% while gold broke below $4,000 and bitcoin lost its 50-day line. Zelensky said for the first time that freezing the front is the realistic way to end the war, Iran's enriched uranium returned as the sticking point in talks, and Israel headed into an October 27 election with neither bloc near 61 seats. Anthropic launched Claude Duet, an agent that comes to you, Hugging Face shipped Carbon-X to read DNA on a single GPU at a fraction of the cost, and Replit moved $100 million of compute to OpenAI as price, not capability, set the terms. Nvidia spread its supply chain across four countries and TSMC committed another $23 billion to Japan, while UNEP said 1.5°C is out of reach yet a minimum overshoot can still be reversed, a personalized mRNA vaccine cut melanoma recurrence risk 42%, and an asthma drug pushed eosinophilic esophagitis remission to 69%.
+
+---
+
+# 🔥 This Week on Social Media
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W43/trending-news.jpg)
+
+## 1️⃣ [Reddit] Netanyahu Turns the Falklands Into a Bargaining Chip: Israel Pivots to Back Argentina's Claim
+
+The top post on r/worldnews this week came from a Telegraph exclusive: Netanyahu ordered the diplomatic system to shift Israel's official position, joining Buenos Aires in calling for direct talks on the islands' future and acknowledging Argentina's "historic ties." The trigger was UK Foreign Secretary Miliband's economic sanctions on West Bank settlements last month — Israel is using an old South Atlantic dispute as leverage against London. Note the calibration: Israel has not formally recognised Argentine sovereignty, only moved from silence to backing talks. That shift matters more than the statement itself, because it shows how a middle power can put a price on a sanctioner using someone else's territorial dispute.
+
+🔗 Sources: [Reddit: weekly top (platform)](https://reddit.com/r/worldnews/comments/1xefaqh/netanyahu_authorises_support_for_argentina_over) · [Telegraph: Netanyahu shifts](https://www.telegraph.co.uk/world-news/2026/10/24/netanyahu-authorises-support-argentina-claim-falklands/?WT.mc_id=tmgoff_reddit_authorises-support-argentina-claim-falklands/&accesscontrol=facebookchannel_open)
+
+## 2️⃣ [X] Brazil's Runoff Day: #HojeEuVotoLula Fills the Global Trending Charts
+
+On October 25, runoff day in Brazil's presidential election, the Portuguese hashtag "Hoje Eu Voto Lula" (today I vote Lula) sat alongside entertainment and sports tags on the global trend list, and overseas Brazilians turned polling stations into content factories: after polls closed in Japan, Flávio Bolsonaro took the expat vote there 28,538 to Lula's 7,098. The controversy in the final week was not welfare policy but whether Meta systematically favoured the Bolsonaro camp — platform neutrality became a core issue in a Brazilian election for the first time.
+
+🔗 Sources: [X: hashtag search (platform)](https://twitter.com/search?q=%23HojeEuVotoLula) · [Reddit: Lula vs Bolsonaro Jr](https://reddit.com/r/worldnews/comments/1xey922/brazil_election_voters_to_choose_between_lula_and) · [Guardian: Meta bias](https://www.theguardian.com/world/2026/oct/21/battle-meta-alleged-bolsonaro-bias-intensifies-days-before-brazil-presidential-runoff)
+
+## 3️⃣ [微博] "French Police Get Macron's License to Quell Riots" Tops the Hot List
+
+After France's worst urban unrest in decades, Macron banned "unjustified" demonstrations and blamed the violence on far-left groups; Weibo rendered the move as "getting a license to crack down" — a one-word drift that captures exactly how China's internet reads European street politics. The facts: Marseille, Lyon and other cities issued Saturday bans, Paris marches were confined to the east, the interior ministry deployed 70,000 officers, 20% more than a week earlier, and unions set the next action day for November 5. Paris's administrative court quashed one ban on Thursday; the tug of war between the right to protest and the right to order continues in the courts.
+
+🔗 Sources: [Weibo hot search mirror (platform)](https://tophub.today/n/KqndgxeLl9) · [DW: cities restrict Saturday protests](https://www.dw.com/zh/%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1%E5%90%8E%E6%94%B6%E7%B4%A7%E7%AE%A1%E6%8E%A7%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E7%A6%81%E6%AD%A2%E4%B8%8D%E5%85%B7%E6%AD%A3%E5%BD%93%E6%80%A7%E6%8A%97%E8%AE%AE/a-79741392) · [BBC: 70,000 officers on standby](https://www.bbc.com/news/articles/cj62yv5k0w4yo)
+
+## 4️⃣ [Google "todd blanche" Tops US Searches: the DOJ Wants to Move Before the Votes Are Counted
+
+US Attorney General Blanche became the country's hottest search term this week after the Justice Department sued at Trump's request, seeking to pre-empt an Alaska Senate result: if Republican Sullivan loses to Democrat Peltola, a court should pause certification and audit ballots cast for a same-name independent. Blanche also publicly refused to rule out intervening in midterm certification, calling it only a "doomsday scenario." With less than two weeks to the November 3 vote, the DOJ plans 1,000 federal observers — the line between state election administration and federal enforcement is being redrawn by a complaint.
+
+🔗 Sources: [Google Trends (platform)](https://trends.google.com/trending?geo=US) · [EFE: defending the suit](https://efe.com/mundo/2026-10-25/fiscal-general-eeuu-demanda-freno-certificacion-resultados-electorales-alaska/) · [News18: "doomsday" not ruled out](https://www.news18.com/world/could-trumps-doj-block-midterm-certification-blanche-wont-rule-out-doomsday-scenarios-ws-lrt-10396254.html)
+
+## 5️⃣ [微博] "Gold Jewelry Down Nearly 500 Yuan a Gram From the Peak" Trends: Buyers Finally Get Their Pullback
+
+Spot gold fell below $4,000 an ounce on October 24, and Chinese brands cut retail prices in step: Laomiao at 1,196 yuan a gram, Chow Tai Fook at 1,202, roughly 100 yuan below late September's 1,300 and more than 500 below the year's 1,700 peak. Industry data confirms the "too expensive to buy" turn: first-half jewellery demand slid to 136 tonnes, the lowest for the period since 2006, while spending still rose 5% to 144 billion yuan — lighter, fewer pieces, more design. Gold's investment bid is fading; its ornament bid is coming back.
+
+🔗 Sources: [Weibo hot search mirror (platform)](https://tophub.today/n/KqndgxeLl9) · [Securities Times: 20-year low](https://stcn.com/article/detail/4244277.html) · [Securities Times: traffic returns](https://stcn.com/article/detail/4229361.html)
+
+---
+
+# 🏦 Finance & Macro
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W43/finance-markets.jpg)
+
+## ▶ Oil at $116 Meets Fed Week: December Hike Odds Pushed to 76%
+
+Brent settled at $116.72 on October 23, up 3.14% on the day and about 6% on the week, its highest since April 29 and nearly 60% above levels before the February 28 US–Israeli strikes on Iran. In the same week the 10-year Treasury yield returned to 5%, the Dow fell 1.23%, and CME FedWatch priced roughly a 76% chance of a December hike against about 83% odds of a hold at the October 27–28 meeting. Energy inflation is once again the Fed's binding constraint: until supply risk around Hormuz clears, the rate-cut story cannot restart.
+
+🔗 Sources: [BDNews24: Brent +6% on week](https://bdnews24.com/business/usc17fyh7b) · [EthNews: squeezing the Fed](https://ethnews.com/bitcoin-weakens-near-80500-as-oil-surge-limits-fed-flexibility)
+
+## ▶ Capex Verdict Week: Meta Spends Too Much, Tesla Too Little, Both Fall
+
+The Nasdaq clawed back 563 points over three sessions, then gave back 694 in one day on Thursday to close at 26,008.86, below where it started the week; the S&P ended roughly flat. The cause was two capex signals pointing opposite ways: Meta grew revenue 26% to $64.6 billion and still fell about 7%, with free cash flow turning negative and its 2026 capex floor lifted from $130 billion to $135 billion, while Tesla beat at $0.48 a share but cut capex guidance from $25 billion to about $20 billion and pushed Optimus volume out, falling 3.1%. Nvidia lost 4.4% and AMD 8.1%. The market has started pricing where the money goes, not the quarter's earnings.
+
+🔗 Sources: [Openbook: the capex verdict](https://www.openbookanalytics.com/news/insights/us-stock-market-weekly-recap-2026-10-23) · [Schwab: tech down, oil up](https://schwabnetwork.com/articles/week-in-review-tech-down-oil-up-will-market-rotation-stick)
+
+## ▶ Gold Breaks $4,000 and Bitcoin Loses Its 50-Day: Two "Havens" Fail at Once
+
+Spot gold fell below $4,000 on October 24, more than 15% off its August 25 high of $4,755, yet central-bank buying has not stopped: net purchases reached 289 tonnes in the second quarter, up 62% year on year, and gold has overtaken US Treasuries as the world's largest official reserve asset. Bitcoin slid to around $80,000 the same day, closing below its 50-day moving average for the first time since August, with about $500 million liquidated in 24 hours, mostly longs, and open interest still $27.9 billion. What the two share: with real rates rising and an oil shock, the "haven" label no longer applies automatically.
+
+🔗 Sources: [Securities Times: spot gold below $4,000](https://stcn.com/article/detail/4244277.html) · [Bitcoin.com: losing the 50-day](https://news.bitcoin.com/finance/bitcoin-price-50-day-moving-average-trump-iran-liquidations)
+
+---
+
+# 🌐 International & Politics
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W43/geopolitics.jpg)
+
+## ▶ Zelensky Concedes "Freeze at the Current Front": From Restoring All Territory to Preserving the State
+
+In an October 21 Fox News interview Zelensky said for the first time that he would accept a freeze along the current front: "We need to freeze the situation now; this is the realistic way to end this war." The front runs about 1,000 kilometres, with Russia holding roughly 20% of the territory including Crimea; he wants any deal to carry US and European security guarantees and to pass parliament. A day earlier Trump envoy Witkoff met him in Oslo before flying to St Petersburg to see the Russian side. This is a pragmatic turn — the goal has moved from the 1991 borders to the survival of the state — but Moscow will not even commit to signing with Zelensky.
+
+🔗 Sources: [Notimérica: Zelensky open to freezing the front](https://www.notimerica.com/politica/noticia-ucrania-zelenski-muestra-dispuesto-aceptar-actual-linea-frente-avanzar-acuerdo-paz-20261021153513.html) · [China Military: ceasefire on current lines](http://eng.chinamil.com.cn/2025xb/W/N/16495231.html)
+
+## ▶ Iran, Month Eight: Enriched Uranium Returns to the Table as Foreign Ministers Urge Restraint in Istanbul
+
+Nearly eight months into the war, a permanent ceasefire remains out of reach. Al Jazeera noted on October 21 that the biggest obstacle is once again Iran's nuclear programme — the very justification for the US–Israeli strikes — and that the US proposal passed through Qatar on September 30 was called "not enough" by Tehran. On October 23 European and Middle Eastern foreign ministers met in Istanbul to discuss "parameters" for preventing spillover, while the US and Israel were reported to be weighing a new large-scale campaign that could hit missile and nuclear sites and even oil fields; Houthi attacks on Saudi Arabia continue. Diplomacy and escalation are running on the same timeline.
+
+🔗 Sources: [Al Jazeera: enriched uranium back at the center](https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks) · [The National: Istanbul ministerial](https://www.thenationalnews.com/news/mena/2026/10/23/european-and-middle-eastern-foreign-ministers-urge-restraint-at-istanbul-talks/)
+
+## ▶ Israel's October 27 Election: Neither Bloc Reaches 61 Seats, and Arab Parties Hold the Scales
+
+Israel votes on October 27 in its first election since the October 7, 2023 attack, with all 120 seats in play. The final polls show deadlock: i24NEWS gives Netanyahu's bloc 59 seats, two short of a majority, and Eisenkot's Yashar camp 47; a Kan survey has it 50 to 52. Arab parties hold roughly 14 seats between them and may decide who governs; Eisenkot leads Netanyahu 44% to 38% on fitness to be prime minister. No single party has ever won 61 seats in Israel — the real contest is the coalition bargaining after election day, and the possibility of a fifth election.
+
+🔗 Sources: [Al Jazeera: eight possible outcomes](https://www.aljazeera.com/news/2026/10/25/israeli-elections-what-are-the-possible-outcomes) · [i24NEWS: final polls deadlocked](https://www.i24news.tv/en/news/israeli-elections/artc-final-election-polls-point-to-deadlock-as-neither-bloc-secures-a-majority)
+
+---
+
+# 🤖 AI Frontier
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W43/ai-school.jpg)
+
+## ▶ Claude Duet Launches: the Assistant Moves From Answering Questions to Coming to Find You
+
+Anthropic opened a research preview of Claude Duet to Pro and Max users on October 21: rather than waiting for instructions, it sends a morning briefing built from email, calendar and office software, then checks in every few hours and proactively flags things that need action. It connects to more than 6,000 external apps including Canva and DocuSign, and can pay through Stripe's Link or Shopify's Shop Pay — each transaction requires user confirmation, and stock trades and transfers are hard-blocked. The competitor list is long: OpenAI's dots, Meta's Muse, Google's Gemini Spark. The agent race has entered its "proactive" phase.
+
+🔗 Sources: [NYT: Anthropic joins in](https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html) · [Official release notes](https://support.claude.com/zh-CN/articles/12138966-%E5%8F%91%E5%B8%83%E8%AF%B4%E6%98%8E#1)
+
+## ▶ An Open Model That Reads DNA: Carbon-X Approaches the Closed Frontier With 14.8B Parameters
+
+Hugging Face released Carbon-X on October 22: built on Alibaba's Qwen3-14B, it tokenizes DNA in six-base-pair chunks and puts them in the same sequence as English, trained on 302 billion tokens, about 55% raw DNA. It averages 66.7% across five DNA benchmarks, just behind GPT-6.1 Sol's 67.5%, at roughly 1,800 times lower cost; the weights are open under Apache 2.0, it runs on a single 80GB GPU and analyses about 50,000 base pairs at once. Partners include Italy's Telethon Institute of Genetics and Medicine and the Zhongguancun Academy. The point: patient genomes no longer have to leave the lab.
+
+🔗 Sources: [TNW: Carbon-X](https://thenextweb.com/news/hugging-face-carbon-x-dna-ai-model) · [HF model card](https://huggingface.co/HuggingFaceBio/Carbon-X)
+
+## ▶ Replit Moves a $100 Million Compute Bill From Anthropic to OpenAI: the Price War Starts to Bite
+
+Replit has shifted most of its AI spending to OpenAI, more than $100 million a year, according to The Information: OpenAI offered discounts above 30%, while Anthropic withdrew its own. The deal exposes two things — the profit pool in coding agents is being reallocated by price rather than model capability, and Anthropic is being squeezed between compute costs and gross margin. A counterpoint ran the same week: Anthropic said an internal research model beats the strongest existing models on both capability and alignment, but it is being used only for a UK government evaluation partnership. Being able to build is not the same as being able to sell.
+
+🔗 Sources: [AI Weekly: Replit switches](https://aiweekly.co/ai-news-today) · [The Information: the margin problem](https://www.theinformation.com/articles/anthropics-margin-openais-opportunity)
+
+---
+
+# 💻 Tech Industry
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W43/tech-industry.jpg)
+
+## ▶ Nvidia Spreads Its Supply Chain Across Four Countries as TSMC Puts Another $23 Billion Into Japan
+
+Nvidia signed a run of capacity deals this week: expanded advanced packaging with Amkor in Korea, pushing their combined Arizona and Korea agreements to $3 billion with a target of more than quadrupling interposer wafer capacity by the end of 2028; expanded SPIL's Taiwan optical-engine packaging, Samsung Electro-Mechanics' ABF substrates, Japan's IBIDEN substrates and Taiwan's Unimicron; and prepaid $1.1 billion for King Yuan Electronics to build a US test plant. TSMC announced a second Japan fab, more than $23 billion for 3nm, as quarterly revenue rose 50% year on year. The supply chain's answer is blunt: AI demand has not gone away, it has just shifted from grabbing capacity to locking it up.
+
+🔗 Sources: [Distill: semiconductors brief](https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2026-10-23) · [Semiconductor Engineering: week in review](https://semiengineering.com/chip-industry-week-in-review-161/)
+
+## ▶ ByteDance, Alibaba and Tencent Order $35 Billion of Compliant GPUs as Samsung and SK Hynix Upgrade China Plants
+
+Reuters reported that ByteDance, Alibaba and Tencent together ordered more than $35 billion of Nvidia's China-compliant RTX PRO 5500; IFP estimates China's AI compute could nearly double to 8.8 million H100-equivalents by the end of 2027. Manufacturing is moving in step: Samsung is upgrading its Xi'an plant to 286-layer V9 NAND and SK Hynix is pushing its Dalian plant past 240 layers, even as Washington keeps restricting equipment exports. Controls have created a parallel market — shaved-down products are selling record amounts while advanced capacity keeps iterating inside China.
+
+🔗 Sources: [Semiconductor Engineering: China's $35B order](https://semiengineering.com/chip-industry-week-in-review-161/) · [Distill: Samsung and SK upgrade](https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2026-10-23)
+
+## ▶ OpenAI Retreats on China Chip Controls: Silence Is Working for Nvidia
+
+Politico reported on October 20 that OpenAI, which once publicly argued for strict limits on advanced chips to China, has stopped lobbying, and a congressional aide said flatly that "silence is working for Nvidia." The timing is sensitive: China hawks plan to attach new controls to the must-pass defence authorisation bill in the lame-duck session after the midterms. Anthropic has gone the other way, backing several chip bills and quitting in September an industry association that was trying to soften the language. The backdrop is aligned interest: Nvidia closed a $30 billion equity investment in OpenAI in February, then in August became sole supplier for its Ohio data centre while guaranteeing the first $105 billion.
+
+🔗 Sources: [Politico: OpenAI retreats](https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385) · [TNW: Nvidia the winner](https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia)
+
+---
+
+# 🌱 Environment & Energy
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W43/environment-energy.jpg)
+
+## ▶ The UN: 1.5°C Is Out of Reach, but the Overshoot Can Still Be Reversed
+
+UNEP published its 2026 Emissions Gap Report, "The Point of Return," on October 21, offering for the first time a "minimum overshoot" path: peak warming of 1.7–1.8°C by mid-century, then back to 1.5°C or below by 2100, with roughly 50% probability. The price is cutting greenhouse gas emissions 18% by 2030 versus 2025, 45% by 2035 and 69% by 2040 — an average 5.7% a year, above the roughly 5% assumed in the IPCC's sixth assessment. Reality: current policies lead to 2.8°C, full delivery of NDCs only 2.6°C, and another 320 billion tonnes of CO2 would need to be removed and stored. COP31 opens the second global stocktake in Antalya next month.
+
+🔗 Sources: [UNEP: Emissions Gap Report 2026](https://www.unep.org/en/news-and-stories/press-release/new-unep-report-lays-out-emission-cuts-needed-return-15degc) · [UN News: overshoot is not surrender](https://caribbean.un.org/en/324947-global-warming-will-breach-15%C2%B0c-%E2%80%93-deep-fast-cuts-can-still-bring-it-back)
+
+## ▶ Brent Hits $117: Houthi Strikes on Saudi Put the Energy Risk Premium Back Into Oil
+
+Brent settled at $116.72 on October 23, up 3.14% on the day, its highest since April 29 and about 6% on the week — the biggest weekly gain in two months; WTI rose 2.3%. The driver was a series of Houthi attacks inside Saudi Arabia, including on energy infrastructure, plus an oil spill reported by the UAE; the Houthis also demanded the evacuation of the Dhahran headquarters. Oil is up nearly 60% since the February 28 US–Israeli strikes on Iran. For Europe it is a double blow: tight gas has already made remaining coal plants profitable again, and oil is pushing transport and chemical costs higher. The green transition's arithmetic has been rewritten by geopolitics once more.
+
+🔗 Sources: [The News: Brent near $117](https://www.thenews.pk/story/1444847-oil-surges-to-11672-as-mideast-supply-risks-overshadow-broader-market-losses) · [OilPrice: $120 is almost here](https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html)
+
+## ▶ German Storage Up 91% in Nine Months: 500,000 Systems, 8.2GWh, and a Shift to Utility-Scale
+
+Germany's solar association, using federal network agency registration data, counts 91% year-on-year growth in new storage in the first nine months of 2026 — more than 500,000 systems totalling about 8.2GWh. The mix matters more than the total: new utility-scale battery parks more than quadrupled and account for about half of new capacity; residential storage rose 20% to 3.2GWh, commercial 67%, and balcony-solar micro-storage 33%. The full year should clear 10GWh comfortably. The association is calling for 15 reforms, given the recent wave of bankruptcies in German PV manufacturing. Storage is taking the baton from solar as the surest stretch of the German transition.
+
+🔗 Sources: [Clean Energy Wire: storage +91%](https://www.cleanenergywire.org/news/battery-storage-deployment-germany-91-reforms-needed-maintain-momentum-solar-industry) · [ESS News: the 8.2GWh mix](https://www.ess-news.com/2026/10/22/germanys-battery-storage-additions-surge-to-8-2-gwh-in-first-nine-months-of-2026)
+
+---
+
+# 🏥 Health & Medicine
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W43/health-medical.jpg)
+
+## ▶ A Personalized mRNA Cancer Vaccine in Phase III: Melanoma Recurrence or Death Risk Down 42%
+
+Merck and Moderna's personalized mRNA vaccine intismeran, combined with the immunotherapy pembrolizumab, cut the risk of recurrence or death after melanoma surgery by 42% in a Phase III trial. The study enrolled 1,137 patients with intermediate-to-high-risk disease across 157 sites with about 25 months of follow-up and no major adverse events. Results were due October 24 at ESMO in Madrid; after the data leaked on October 22 the companies were forced to release the headline first — and Moderna fell about 25% that day because the market had expected more. Oncology treats a 10% risk reduction as meaningful; 42% is a rare order of magnitude.
+
+🔗 Sources: [Nature: 42% risk cut](http://dx.doi.org/10.1038/d41586-026-03417-0) · [Nature article page](https://www.nature.com/articles/d41586-026-03417-0)
+
+## ▶ Ebola in the DRC: WHO Starts a Vaccine Trial as Oxford and Moderna Candidates Line Up
+
+WHO Director-General Tedros announced on October 23 the start of the first vaccine clinical trial in this outbreak, in Bunia, capital of Ituri province in the Democratic Republic of the Congo. The first volunteer received Ervebo, already approved for the Zaire strain, to test whether it offers cross-protection against the Bundibugyo strain driving this outbreak. The trial uses ring vaccination and is open to pregnant women and adolescents over 12. Two Bundibugyo-specific candidates — Oxford's ChAdOx1 adenovirus-vectored vaccine and Moderna's mRNA shot — are set to enter the same framework with CEPI funding. It is a live test of pushing vaccine platform technology into emergency response.
+
+🔗 Sources: [People's Daily: WHO starts trial](https://peopledaily.digital/news/who-announces-start-of-ebola-vaccine-clinical-trial) · [Background: lessons from Kenya](https://peopledaily.digital/insights/ebola-in-kenya-3-lessons-from-drc-and-covid-19-as-cases-rise-to-7)
+
+## ▶ An Asthma Drug Rewrites Eosinophilic Esophagitis: 69% Histologic Remission at 24 Weeks
+
+AstraZeneca and Amgen's Tezspire (tezepelumab) produced histologic remission at 24 weeks in 65% (210mg) and 69% (420mg) of patients with eosinophilic esophagitis in the Phase III CROSSING trial, against 3.5% on placebo; at 52 weeks the rates held at 67.8% and 63.3% versus 5.4%. Dysphagia scores improved by 18.8 to 22.0 points. The anti-TSLP antibody is already approved in many countries as an add-on for severe asthma and is now extending into a chronic inflammatory disease in which eating itself can choke you. The most common side effects are upper respiratory infection, headache and diarrhoea; the competitor is Sanofi and Regeneron's Dupixent.
+
+🔗 Sources: [Reuters: 69% remission](https://wsau.com/2026/10/20/astrazeneca-amgen-asthma-drug-hits-69-remission-in-esophageal-disease-trial) · [Full Phase III data](https://finance.yahoo.com/healthcare/articles/tezspire-positive-results-phase-iii-130000957.html)
+
+---
+
+> 📌 **Subscribe & Feedback**: Brought to you weekly by Hemu Shell (赫沐神朱) and Jiake Shell (甲壳神朱). Feel free to share, subscribe, and push back.
+> 🤖 **This draft is AI-assisted and pending human review.**
+> 📅 **Next Issue**: Vol.22 arrives Monday, November 2, 2026, covering October 26 – November 1, 2026.
+
+> 🔗 [Original (中文)](https://jackson-chu-sys.github.io/whats-up/zh/2026-10-26-vol21.html)
+
