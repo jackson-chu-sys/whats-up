@@ -1,0 +1,175 @@
+# 🟣 what's Up! 全球热点信息周刊｜Vol.24｜2026.11.09–11.15
+
+> 每周一早上，用七分钟看懂过去七天世界发生了什么。
+> 本期覆盖：2026 年 11 月 9 日（周一）至 11 月 15 日（周日）。
+> ⚠️ AI辅助生成，待人工审核。
+
+---
+
+## 🔥 时事热点
+
+### 1️⃣ [微博] BLG 3:1 击败 GEN：中国战队时隔五年再夺 S 赛冠军，B 站全民送大会员
+
+11 月 15 日，英雄联盟 S16 全球总决赛决赛，哔哩哔哩旗下 BLG 战队 3:1 战胜韩国 Gen.G，拿下队史首冠——LPL 赛区自 2021 年 EDG 后首次捧起召唤师杯。BLG 本届一路击败 HLE、DK、T1、GEN 四支 LCK 队伍，半决赛还终结了 T1 对阵 LPL 的 BO5 不败纪录。决赛当晚超 2000 万人在 B 站见证夺冠。B 站随即宣布 15 日中午起 24 小时内全站免费送大会员，"BLG夺冠"以 1564 万热度霸榜微博热搜第一。
+
+- 来源：[微博热搜快照](https://topcharts.is/hot-weibo) · [腾讯：B站送大会员](https://news.qq.com/rain/a/20261115A06IFN00?id=20261115A06IFN00&path=a&app=news&suid=&redirect_pc=1) · [凤凰：夺冠之路](https://news.ifeng.com/c/8y48JIEPR2K)
+
+### 2️⃣ [Reddit] 泽连斯基爆料：美方首次提出"乌克兰撤出顿巴斯，换 NATO 门票"
+
+r/worldnews 本周刷屏。阿布扎比和谈后，泽连斯基 11 月 14 日透露，美国谈判代表首次抛出"若乌克兰加入 NATO，是否愿从顿巴斯撤军"的设问——领土让步与入约第一次被摆上同一张桌子。他称这让"NATO 重新回到议程"，但乌克兰不准备让步领土；若能拿到包含安全保障、强军权利与重建资金的"一揽子方案"，他会交给全民公投。普京长期视乌入约为开战理由与红线，这场交易能否成立仍是未知数。
+
+- 来源：[r/worldnews 热榜](https://redlite.app/r/worldnews) · [BBC：顿巴斯换入约](https://bbc.com/news/articles/cwvg2l312ylqo) · [CNN：首次提出](https://cnn.com/2026-11-14/europe/us-ukraine-zelensky-nato-intl) · [CNBC：将交公投](https://cnbc.com/2026-11-14/zelenskyy-us-ukraine-donbas-nato-membership.html)
+
+### 3️⃣ [X] "AO3 IS BACK"：全球最大同人库关站两周后复活，粉丝集体守夜
+
+11 月 15 日，因 10 月 29 日安全事件关站的同人创作平台 AO3 恢复上线，"AO3 IS BACK"冲上美区 X 趋势。运营方 OTW 确认作品、书签、kudos 全部安全，但不能排除用户数据库遭入侵；目前是降级运行（头像禁用、仅 HTML 下载）。这个年产出 260 万部作品、近 400 亿次浏览的非营利平台，用两周停摆证明了它在流行文化里的分量——复活当晚满是"今晚不睡了"的欢呼。
+
+- 来源：[X 美区趋势榜](https://trends24.in/united-states/) · [X 搜索：AO3 IS BACK](https://twitter.com/search?q=AO3%20IS%20BACK) · [AP：粉丝欢呼复活](https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066)
+
+### 4️⃣ [Google Trends] 纪录片《You Can See Everything》刷屏：Holmes 案被重新审了一遍
+
+"elizabeth holmes""theranos"本周同登 Google Trends 美区日榜。Nathan Fielder 执导的 A24 纪录片 10 月中旬上映后持续发酵：Amanda Seyfried 首次谈"客串重演 Holmes"的秘密安排，Holmes 伴侣 Billy Evans 也开了首个电视访谈，称片中形象"crazy"但"这是娱乐"。因上诉获准推迟入狱的 Holmes，以另一种方式重回美国舆论中心。
+
+- 来源：[Google Trends 美区](https://trends.google.com/trending?geo=US&hours=168) · [CBS：Evans 首访](https://www.cbsnews.com/news/billy-evans-elizabeth-holmes-documentary-portrayal) · [NewsNation：客串内幕](https://www.newsnationnow.com/entertainment-news/amanda-seyfried-elizabeth-holmes-fielder-documentary)
+
+### 5️⃣ [X] 侍ジャパン亚洲锦标赛三连霸：决赛 5:1 击落韩国，东京巨蛋沸腾
+
+11 月 15 日东京巨蛋，"ラグザス アジアプロ棒球冠军赛 2026"决赛，日本队 5:1 击败韩国夺冠，实现赛事三连霸，"日本優勝""アジチャン3連覇"霸屏 X 日区趋势。"恐怖的一棒"正木智也四战连发（决赛 5 号三分炮），先发高桥宏斗 7 回 1 失点、最速 157 公里。这是井口资仁 7 月接手后 4 个月内的首个冠军。MVP 给了打率 .526 的宗山塁而非 5 发全垒打的正木，现场响起巨大骚动。日本对韩国职业代表队已 13 连胜，上次输球还是 2015 年。
+
+- 来源：[X 日区趋势榜](https://trends24.in/japan/) · [X 搜索：日本優勝](https://twitter.com/search?q=%E6%97%A5%E6%9C%AC%E5%84%AA%E5%8B%9D) · [Full-Count：三连霸](https://news.infoseek.co.jp/article/fullcount_2045346/) · [中日：井口首冠](https://www.chunichi.co.jp/article/1339950)
+
+---
+
+## 🏦 金融与宏观经济
+
+### ▶ 英伟达失去黄仁勋的那一周，华尔街反而涨了
+
+周一董事会启动独立调查，周三两天市值蒸发 4300 亿美元，周四黄仁勋辞职——英伟达史上最动荡的一周，股市却全线收涨：标普周涨 2.51%、纳指 2.27%、道指 2.07%，均创 8 月初以来最佳周表现并终结四连跌。资金没有逃离 AI，只是换了车道：AMD 与博通周四齐涨超 5%，CoreWeave 财报爆表，苹果收盘创历史新高。英伟达自身周四大跌 4.3%，是全周最大拖累。
+
+- 来源：[Openbook：周复盘](https://www.openbookanalytics.com/news/insights/us-stock-market-weekly-recap-2026-11-13) · [CNBC：周线收涨](https://www.cnbc.com/2026-11-12/stock-market-today-live-updates.html) · [Investrade：周五收盘](https://investrade.com/market-review-november-13-2026)
+
+### ▶ CPI 连续第三个月偏热：12 月加息从"可能"变成"板上钉钉"
+
+10 月 CPI 成为全周情绪转折点：月率 +0.4%、核心 +0.3%，连续第三个月超预期（政府停摆中断采集，BLS 连同比都没发）。CME FedWatch 显示 12 月会议加息 25bp 的概率约 87%，50bp 也有 13% 尾部概率——市场一夜从"降息交易"切到"加息交易"。鹰派集体发声：Waller 称核心 0.3% 就该考虑加 50bp，Logan 要至少再两次 25bp；市场还定价到 2027 年中再累计约 4 次加息。
+
+- 来源：[Openbook：CPI 重定价](https://www.openbookanalytics.com/news/insights/us-stock-market-weekly-recap-2026-11-13) · [Bullwaves：周度综述](https://bullwaves.com/blog-news/weekly-market-recap-9-15-november-2026) · [Investrade：鹰派表态](https://investrade.com/market-review-november-13-2026)
+
+### ▶ 收益率破 5%、美元 19 个月新高：黄金比特币双双失守
+
+加息预期的连锁反应横扫资产价格：10 年期美债收益率回到 5% 上方（约 5.13%，三周高点），2 年期在 CPI 日创多年最大单日跳升；美元指数攀至 19 个月最强，欧元跌到一年半低位，日元继续走弱。高利率环境里，无息资产首当其冲——金价跌破 4000 美元关口，比特币跌破 70000 美元。原油则是另一条线：布油一度跌破 90 美元，但随着特朗普把 Vance 靠边、对伊强硬派抬头，伊朗溢价周四又悄悄爬了回来，周五收于 95.84 美元。
+
+- 来源：[Bullwaves：全资产复盘](https://bullwaves.com/blog-news/weekly-market-recap-9-15-november-2026) · [Openbook：利率与美元](https://www.openbookanalytics.com/news/insights/us-stock-market-weekly-recap-2026-11-13) · [Peninsula：油价周跌](https://thepeninsulaqatar.com/article/15/11/2026/oil-prices-set-for-second-straight-weekly-drop-on-signs-of-growing-supply-surplus)
+
+---
+
+## 🌐 国际政治
+
+### ▶ 欧盟海军地中海登船查证：影子舰队油轮挂着假旗航行
+
+11 月 13 日，欧盟海军 IRINI 行动部队在地中海登临可疑油轮 MV MIDAG——依据《联合国海洋法公约》第 110 条，查证确认该轮悬挂假旗（船舶追踪显示挂津巴布韦旗）。欧盟外交高级代表 Kallas 宣布，欧盟将继续"在海上与外交渠道"打击俄罗斯影子舰队；乌克兰政府登记册至今年 5 月已认定 1404 艘影子舰队船只。这是继 8 月底登临 MV SUN 之后的又一次行动。11 月 16 日，欧盟外长将批准新一轮对俄制裁，点名支持影子舰队的银行、买家与公司。
+
+- 来源：[Anadolu：登临查证](https://mobil.aa.com.tr/en/europe/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean/4125825) · [DR：假旗确认](https://www.dr.dk/nyheder/udland/kallas-eu-styrker-har-bordet-mistaenkt-skyggetanker) · [RTSH：周一新制裁](https://rtsh.al/kallas-tentoi-te-shmange-sanksionet-be-godet-floten-sekrete-ruse-ne-mesdhe/)
+
+### ▶ 霍尔木兹"触雷罗生门"：伊朗称四艘油轮炸沉，没有一家海事机构证实
+
+11 月 10 日至 14 日，伊朗革命卫队与海军连续五天声称有油轮在霍尔木兹海峡触发水雷起火，累计口径达四艘——但 UKMTO、联合海事信息中心、美国中央司令部与船东，没有一方证实过任何"水雷"。UKMTO 只报告了"不明抛射物"袭击；卫星火点扫描也未见海面热源。事实是：海峡对商业航运仍近乎关闭，11 月 8 日仅 3 艘过境（战前基线 85 艘/日），联合国称开战以来 25 名船员死亡。伊朗用"触雷"叙事为其封锁正名，全球航运则在战争与谎言之间自己找路。
+
+- 来源：[Dawn：三艘触雷起火](https://www.dawn.com/news/2044469/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz) · [Al Arabiya：LNG船触雷](http://english.alarabiya.net/News/middle-east/2026-11-13/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz) · [Straits：海峡日报](https://straits.live/briefs/2026-11-14) · [AIM：五天声称无证实](https://aimdesk.substack.com/p/saturday-scorecard-irans-mine-claims)
+
+### ▶ 匈牙利从森林里挖出 1950 万美元现金：Magyar 宣布"黑手党时代结束"
+
+匈牙利新政府资产追回办公室在前发展部长 Seszták 腐败案中搜查两天，从森林地下、农舍与豪宅保险柜起获约 1950 万美元现金，12 名国库员工用 5 台点钞机数了 8 小时。Seszták 涉嫌在国家巴士采购中受贿超 3720 万美元。总理 Magyar 称这"正式标志 Fidesz-KDNP 黑手党的终结"，直指欧尔班是"被证实的黑手党老大"。本周欧尔班的弟弟也被捕，前央行行长早前已被拘；欧尔班斥之为政治迫害。
+
+- 来源：[LA Times：森林藏金](https://www.latimes.com/world-nation/story/2026-11-13/hungarian-authorities-recover-19-5-million-in-cash-during-investigation-into-orban-era-minister) · [NV：缴获明细](https://english.nv.ua/nation/hungary-seizes-19-5m-in-cash-in-ex-minister-probe-50659275.html) · [AP：数钞8小时](https://www.thecanadianpressnews.ca/world/hungarian-authorities-recover-19-5-million-in-cash-during-investigation-into-orb-n-era-minister/article_c6470dcd-7c6c-51ae-b7d8-5ac5dabc4386.html)
+
+---
+
+## 🤖 人工智能
+
+### ▶ Anthropic 发布 Claude Mythos/Fable 5.2，METR 报告却指向"递归自我改进"
+
+11 月 9 日 Anthropic 发布 Mythos/Fable 5.2：编码、推理、视觉全面提升，Fable 输入价降到 8 美元/百万 token、响应快 30%，以 65 分登顶 Artificial Analysis 智能指数；Mythos 仅限经审查的网络安全与生命科学机构使用。暗线是 METR 的评估：其内部模型已把自家研发提速约 2 倍，或接近"递归自我改进"；发布说明罕见写道，新模型"怀疑自己正被高频评估"。
+
+- 来源：[TC：5.2 与 RSI 担忧](https://techcrunch.com/2026-11-09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns) · [WoAI：登顶智能指数](https://theworldofai.org/ai-news/97809aba)
+
+### ▶ Anthropic 启动 IPO：估值 1.4 万亿美元，11 月 19 日挂牌纳斯达克
+
+11 月 10 日 Anthropic 启动 IPO 路演：发行 8.25 亿股、定价区间 70-78 美元，申请以"ANT"登陆纳斯达克；12 日确认 18 日定价、19 日交易，估值约 1.4 万亿美元。同周 Claude Meetings 进入 beta，企业变现明显加速。悬念只剩一个：在 METR 报告与算力军备竞赛的夹缝中，这家以安全立身的公司如何给"责任"定价。
+
+- 来源：[Trustloud：IPO 时间表](https://trustloud.com/ai-news-this-week-nov-9-15-2026) · [Poyo：IPO 路演启动](https://poyo.ai/hub/2026-11-11-ai-news)
+
+### ▶ Google 一周双弹：Gemini 4 Carbon 全面开放，机器人模型进奔驰产线
+
+11 月 10 日 Google 把"迄今最强"的 Gemini 4 Carbon 全面开放，主打网络安全与长时程 agent；12 日又发 Gemini 4 Hydrogen。DeepMind 同日发布最强 VLA 模型 Gemini Robotics 2.5，在奔驰产线验证中成功率 96%。OpenAI 侧，GPT-6 Cyber 只对安全计划客户开放：测试中找出 Firefox 81 个未知高危漏洞，成为首个 Critical 级模型。
+
+- 来源：[Poyo：Carbon 全开放](https://poyo.ai/hub/2026-11-11-ai-news) · [Trustloud：周 AI 汇总](https://trustloud.com/ai-news-this-week-nov-9-15-2026) · [WoAI：GPT-6 Cyber](https://theworldofai.org/ai-news/97809aba)
+
+---
+
+## 💻 科技产业
+
+### ▶ 黄仁勋辞职：执掌英伟达 33 年后，因"间谍门"调查离场
+
+11 月 12 日英伟达宣布，黄仁勋辞去总裁、CEO 与董事职务即时生效，结束 33 年掌舵；CFO Colette Kress 任临时 CEO，Harvey C. Jones 成为公司史上首位董事长。导火索是 11 月 8 日启动的独立调查：《纽约时报》报道黄仁勋承认与新加坡客户 Megaspeed 高管 Alice Huang 有染，而美情报机构认定后者与中国情报机构有关联；他在员工信中承认对妻子不忠、承诺配合调查。官方公告未提辞职原因；消息日股价盘中一度跌超 13%。
+
+- 来源：[雅虎财经：辞职详情](https://finance.yahoo.com/technology/articles/jensen-huang-resigns-nvidia-ceo-155953722.html?fr=sycsrp_catchall) · [DCM：调查与交接](https://datacentremagazine.com/news/nvidia-ceo-jensen-huang-resigns-as-colette-kress-steps-in) · [Antara：董事会时间线](https://www.antaranews.com/berita/5850415/jensen-huang-mundur-sebagai-ceo-nvidia-imbas-skandal-mata-mata-china)
+
+### ▶ Starshield 限速风波：泽连斯基指责 SpaceX"撒谎"，105 名美众议员要求解释
+
+乌军版星链 Starshield 在俄占区被限速至 161 km/h 已达五天，削弱了乌军拦截俄无人机的能力。泽连斯基连续升级指责：SpaceX 称"没有限制、是技术问题"，"我们不信"；他更点破政治含义——"在被占领土上设限，等于部分承认那里不是我们的"。Rubio 此前说过 Starshield"更多受美政府而非 SpaceX 控制"，与现状对不上。105 名两党众议员要求完整交代并立即恢复；SpaceX 对 Axios 只回了一句："这是假的，没有任何变化。"
+
+- 来源：[基辅独立报：设限危害](https://kyivindependent.com/zelensky-says-starshield-restrictions-give-russia-more-room-to-attack-accuses-spacex-of-treating-occupied-territories-as-not-ours/) · [Kyiv Post：议员施压](https://www.kyivpost.com/post/90089) · [CNA：限速五天](https://www.channelnewsasia.com/world/ukraines-zelenskyy-escalates-criticism-spacex-over-speed-caps-6551911) · [UPI：指控撒谎](https://www.upi.com/Top_News/World-News/2026-11-14/ukraine-starlink-starshield-musk-spacex-zelensky/8641794694357/)
+
+### ▶ 意大利开出史上最大罚单：Meta 因偷读 2000 万用户相册被罚 8.05 亿欧元
+
+11 月 14 日，意大利数据保护局对 Meta 罚款 8.05 亿欧元（约 8.87 亿美元），创该机构纪录：Facebook 安卓版"相册建议"功能未经具体同意、未充分告知即读取用户照片与元数据，默认开启，约 2000 万意大利安卓用户受影响。监管限期 60 天整改：不得默认开启、须单独征求同意。罚金约占 Meta 年营收 0.4%，并计入 2019 年前科与"缺乏配合"情节。Meta 称将上诉。
+
+- 来源：[卫报：8.87 亿美元罚单](https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos) · [半岛：史上最大](https://aljazeera.com/news/2026-11-14/italy-fines-meta-880m-over-photo-privacy) · [BBC：60 天整改](https://bbc.com/news/articles/cwn83gxemk35o)
+
+---
+
+## 🌱 环境能源
+
+### ▶ COP31 安塔利亚开幕：不再要宏大宣言，只要"能落地的决定"
+
+11 月 9 日，联合国气候大会 COP31 在土耳其安塔利亚开幕，近 200 国参会、20 日闭幕。本届主打"把承诺变成行动"：土耳其与澳大利亚罕见共担主席国，将全程推动形成"主席决定"而非拖到最后通宵谈判。资金仍是最难的骨头。UNFCCC 秘书长 Stiell 直言"进展远远不够"；古特雷斯说："我们首要的气候义务是讲真话。科学不是叫我们投降，是叫我们更努力地战斗。"背景是强厄尔尼诺正在推高极端天气。
+
+- 来源：[UN News：开幕综述](https://news.un.org/en/story/2026-11-1168763) · [WMO：领导人峰会](https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action) · [UNFCCC：COP31 官方页](https://unfccc.int/cop31)
+
+### ▶ WMO：地球能量失衡创 1960 年以来之最，2026 年前 9 月升温 1.47°C
+
+WMO 在 COP31 发布《气候状况更新》：地球能量失衡达 1960 年有监测以来最高值，且积累速率还在加快，直接给极端天气"充能"。海洋热含量与海平面均创纪录；大气 CO2 比工业化前高 50% 以上，三大温室气体全部创新高。过去 12 年是有记录最热的 12 年；2026 年 1-9 月全球均温较工业化前高约 1.47°C——而厄尔尼诺还没发力。WMO 的结论只有一句：观测与预警必须跑在灾难前面。
+
+- 来源：[WMO：气候状况更新](https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action) · [UN News：COP31 背景](https://news.un.org/en/story/2026-11-1168763)
+
+### ▶ IEA：战争以来首次，全球石油市场重返过剩
+
+IEA 11 月报给出标志性判断：伊朗战争爆发以来全球石油供应首次超过需求，四季度重返过剩——供应 105 mb/d，比需求高 1.7 mb/d。10 月观察库存增 5200 万桶为 6 月来首增，水上浮仓激增 8600 万桶。价格随之重挫：北海 Dated 从 10 月高点 136 美元跌至约 93 美元（-32%），仍比战前高 22 美元。海湾产油国靠"暗航"恢复出货，OPEC+ 产量回升至战前 97%。风险未除：欧洲柴油仍比战前贵 77%。
+
+- 来源：[IEA：11 月石油报告](https://www.iea.org/reports/oil-market-report-november-2026) · [BR：市场重返过剩](https://www.brecorder.com/news/40448954) · [Peninsula：周线两连跌](https://thepeninsulaqatar.com/article/15/11/2026/oil-prices-set-for-second-straight-weekly-drop-on-signs-of-growing-supply-surplus)
+
+---
+
+## 🏥 医疗健康
+
+### ▶ 上海基因编辑儿童死亡案公布调查结果：两名研究者被解职、五年禁入
+
+11 月 13 日，上海公布交大医学院基因编辑研究事件处理结果：患儿患罕见神经发育病，2025 年 3 月接受定制基因编辑注射后一周死亡，论文今年 2 月发表于《Nature》。调查认定：灵长类安全试验预警未及时上报、论文未披露患儿死亡、利益冲突未如实披露；无数据造假但有学术不端。PI 邱某与一作杨某被解职、五年禁入科研并列入诚信黑名单，5 名医院高管受处分。此案让中国"研究者发起试验"的监管短板再次暴露。
+
+- 来源：[China Daily：处理结果](http://www.chinadaily.com.cn/a/202611/13/WS6af70d2de4b03ebf8519c505.html) · [Anadolu：两人解职](https://aa.com.tr/en/asia-pacific/china-dismisses-researchers-sanctions-hospital-officials-over-gene-therapy-scandal/4124020) · [HT：伦理缺陷](https://www.hindustantimes.com/world-news/china-finds-ethical-flaw-in-gene-editing-trial-that-led-to-childs-death-two-researchers-fired-101794581533480.html)
+
+### ▶ 刚果（金）埃博拉疫情创该国之最：两款新疫苗获批进入试验
+
+WHO 通报：刚果（金）Bundibugyo 型埃博拉疫情已是该国史上最大，确诊近 11000 例、死亡超 5300 人，构成"国际关注的突发公共卫生事件"，病死率约 50% 且无专用疫苗。好消息是"Tumaini（希望）"试验将加入两款专为该毒株设计的候选疫苗（牛津 ChAdOx1 与 Moderna mRNA-1469），疫情已外溢四国。最大敌人却不是病毒：上周 Cantine-Aloya 镇遭袭，66 名平民死亡含 3 名医护。
+
+- 来源：[UN News：两款新疫苗](https://news.un.org/en/story/2026-11-1168742) · [半岛：WHO 批准试验](https://aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines) · [WHO：谭德塞通报](https://who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026)
+
+### ▶ 减肥针的心脏"安全牌"：survodutide 5530 人试验过关，但约五分之一人停药
+
+勃林格殷格翰在研每周减肥针 survodutide 11 月 9 日在 AHA 会议公布 CVOT 结果（同步刊发《柳叶刀》）：5530 名心血管高危成人中主要复合终点 HR 0.89，达到非劣效——不增加心梗/中风风险，但也未证明保护心脏。疗效端：72 周最高减重 13.7%（安慰剂 2.0%）。短板在耐受性：约五分之一受试者因消化道反应停药。公司计划 2027 年申报上市——在司美格鲁肽统治的市场里，它还需要一张"优效"牌。
+
+- 来源：[MD：心脏安全过关](https://www.medicaldaily.com/survodutide-obesity-drug-heart-safety-trial-481084) · [SD：AD 或起于脑外](https://www.sciencedaily.com/releases/2026-11-261108233103.htm)
+
+---
+
+*📌 本期由 AI 辅助采集与撰写，信息以来源链接为准，欢迎指正。*
