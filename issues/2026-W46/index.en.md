@@ -1,0 +1,200 @@
+# 🟣 what's Up! Global Signals Weekly｜Vol.24｜2026.11.09–11.15
+
+> *Catching up on what happened around the world last week.*
+> This issue covers: Monday, November 9 through Sunday, November 15, 2026.
+
+⚠️ AI Generated, Pending Human Review
+
+---
+
+## The Week in One Line
+
+BLG beat Gen.G 3:1 in the League of Legends Worlds final — the LPL's first Summoner's Cup since 2021 — as 20 million watched on Bilibili and the platform handed out 24 hours of free premium memberships. Zelensky said US negotiators had for the first time floated a Donbas withdrawal in exchange for NATO membership, AO3 came back after two weeks offline, a Nathan Fielder documentary put Theranos back on US search charts, and Samurai Japan took a third straight Asian title at Tokyo Dome. Nvidia's worst week — an independent inquiry, $430 billion of market value gone in two days and Jensen Huang's resignation on Thursday — still ended with the S&P 500 up 2.51% and the Dow up 2.07%, as money rotated into AMD, Broadcom, CoreWeave and Apple rather than out of AI. October CPI ran hot for a third month and put an 87% probability on a December hike, lifting the 10-year above 5% and the dollar to a 19-month high while gold broke $4,000 and bitcoin broke $70,000. EU naval forces boarded a shadow-fleet tanker sailing under a false flag in the Mediterranean, Iran claimed four tankers mined in Hormuz with no maritime body confirming any of it, and Hungary dug $19.5 million in cash out from beneath a forest in the Seszták case. Anthropic shipped Mythos and Fable 5.2 as METR warned of something like recursive self-improvement, then filed for an IPO at a $1.4 trillion valuation; Google opened Gemini 4 Carbon and put a robot model on a Mercedes line. Italy fined Meta €805 million over photo access, Starshield speed caps drew 105 US lawmakers, COP31 opened in Antalya, WMO logged the worst energy imbalance since 1960, the IEA called the first oil surplus since the war began, Shanghai dismissed two researchers over a gene-editing death, Congo's Ebola became its largest ever as two new vaccines entered trials, and survodutide cleared 5,530 patients on heart safety with one in five stopping.
+
+---
+
+# 🔥 This Week on Social Media
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W46/trending-news.jpg)
+
+## 1️⃣ [Weibo] BLG Beat Gen.G 3:1: a Chinese Team Takes Worlds for the First Time in Five Years, and Bilibili Gives Everyone Free Membership
+
+On November 15, in the League of Legends S16 World Championship final, Bilibili's BLG beat Korea's Gen.G 3:1 for the organisation's first title — the LPL's first Summoner's Cup since EDG in 2021. BLG's run took out four LCK teams in HLE, DK, T1 and GEN, and the semifinal ended T1's unbeaten BO5 record against the LPL. More than 20 million people watched the final on Bilibili, which announced 24 hours of free premium memberships from noon on the 15th. "BLG夺冠" topped Weibo's hot-search chart with 15.64 million in heat.
+
+🔗 Sources: [Weibo: hot-search snapshot](https://topcharts.is/hot-weibo) · [Tencent: Bilibili's giveaway](https://news.qq.com/rain/a/20261115A06IFN00?id=20261115A06IFN00&path=a&app=news&suid=&redirect_pc=1) · [Phoenix: the road to the title](https://news.ifeng.com/c/8y48JIEPR2K)
+
+## 2️⃣ [Reddit] Zelensky Says Washington Floated a Donbas Withdrawal in Exchange for a NATO Ticket
+
+r/worldnews lit up this week. After the Abu Dhabi talks, Zelensky said on November 14 that US negotiators had for the first time raised whether Ukraine would withdraw from the Donbas in exchange for NATO membership — territorial concession and alliance entry on the same table for the first time. He said it put "NATO back on the agenda," but that Ukraine is not prepared to give up territory; if a package arrives with security guarantees, the right to a strong military and reconstruction money, he would put it to a national referendum. Putin has long treated Ukrainian membership as a casus belli and a red line; whether the trade can be struck is still open.
+
+🔗 Sources: [r/worldnews: the week's top posts](https://redlite.app/r/worldnews) · [BBC: Donbas for membership](https://bbc.com/news/articles/cwvg2l312ylqo) · [CNN: the first proposal](https://cnn.com/2026-11-14/europe/us-ukraine-zelensky-nato-intl) · [CNBC: headed for a referendum](https://cnbc.com/2026-11-14/zelenskyy-us-ukraine-donbas-nato-membership.html)
+
+## 3️⃣ [X] "AO3 IS BACK": the World's Largest Fan-Fiction Archive Returns After Two Weeks Dark, and the Fandom Keeps Vigil
+
+On November 15 AO3, the fan-fiction platform taken offline after an October 29 security incident, came back online, and "AO3 IS BACK" climbed X's US trends. Operator OTW confirmed that works, bookmarks and kudos are all intact but could not rule out an intrusion into the user database; the site is running degraded, with avatars disabled and HTML-only downloads. A non-profit that publishes 2.6 million works a year and draws close to 40 billion views just proved its weight in popular culture with a two-week outage — the night it returned, the timeline was full of people announcing they were not sleeping.
+
+🔗 Sources: [X: US trends](https://trends24.in/united-states/) · [X search: AO3 IS BACK](https://twitter.com/search?q=AO3%20IS%20BACK) · [AP: fans celebrate the return](https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066)
+
+## 4️⃣ [Google Trends] A Documentary Floods the Zone: the Holmes Case Gets Retried in Public
+
+"elizabeth holmes" and "theranos" both hit Google Trends' US daily chart this week. Nathan Fielder's A24 documentary, released in mid-October, keeps building: Amanda Seyfried spoke for the first time about the secret arrangement under which she re-enacted Holmes, and Holmes' partner Billy Evans gave his first television interview, calling his on-screen portrait "crazy" but "entertainment." Holmes, whose reporting date was pushed back on appeal, is back at the centre of American attention by another route entirely.
+
+🔗 Sources: [Google Trends: US](https://trends.google.com/trending?geo=US&hours=168) · [CBS: Evans' first interview](https://www.cbsnews.com/news/billy-evans-elizabeth-holmes-documentary-portrayal) · [NewsNation: inside the cameo](https://www.newsnationnow.com/entertainment-news/amanda-seyfried-elizabeth-holmes-fielder-documentary)
+
+## 5️⃣ [X] Samurai Japan Three-Peats in Asia: a 5:1 Final Over Korea Sets Tokyo Dome Roaring
+
+At Tokyo Dome on November 15, Japan beat Korea 5:1 in the final of the 2026 Asia Professional Baseball Championship for a third consecutive title, and "日本優勝" and "アジチャン3連覇" took over X's Japan trends. Masaki Tomoya, the "terrifying bat," homered in all four games including a three-run shot in the final, while starter Takahashi Hiroto went seven innings for one run at a top speed of 157 km/h. It was Iguchi Tadahito's first title four months after taking over in July. The MVP went to Muneyama Rui, who hit .526, rather than Masaki and his five home runs — and the stadium loudly disagreed. Japan has now beaten Korean professional sides 13 straight times, last losing in 2015.
+
+🔗 Sources: [X: Japan trends](https://trends24.in/japan/) · [X search: 日本優勝](https://twitter.com/search?q=%E6%97%A5%E6%9C%AC%E5%84%AA%E5%8B%9D) · [Full-Count: the three-peat](https://news.infoseek.co.jp/article/fullcount_2045346/) · [Chunichi: Iguchi's first crown](https://www.chunichi.co.jp/article/1339950)
+
+---
+
+# 🏦 Finance & Macro
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W46/finance-markets.jpg)
+
+## ▶ The Week Nvidia Lost Jensen Huang, and Wall Street Rose Anyway
+
+The board opened an independent investigation on Monday, $430 billion of market value evaporated over Wednesday and Thursday, and Huang resigned on Thursday — Nvidia's most turbulent week on record. The market closed higher across the board: the S&P 500 gained 2.51%, the Nasdaq 2.27% and the Dow 2.07%, the best week since early August and an end to four straight declines. Money did not leave AI; it changed lanes. AMD and Broadcom both rose more than 5% on Thursday, CoreWeave's results blew past expectations, and Apple closed at a record. Nvidia itself fell 4.3% on Thursday, the week's single biggest drag.
+
+🔗 Sources: [Openbook: weekly recap](https://www.openbookanalytics.com/news/insights/us-stock-market-weekly-recap-2026-11-13) · [CNBC: a weekly gain](https://www.cnbc.com/2026-11-12/stock-market-today-live-updates.html) · [Investrade: Friday's close](https://investrade.com/market-review-november-13-2026)
+
+## ▶ CPI Runs Hot for a Third Straight Month, and a December Hike Goes From Possible to Priced In
+
+October CPI was the week's turning point: +0.4% month on month and +0.3% core, above expectations for a third consecutive month, with the shutdown interrupting collection badly enough that the BLS published no year-on-year figures at all. CME FedWatch put the odds of a 25bp hike at the December meeting near 87%, with a 13% tail for 50bp — the market switched from trading cuts to trading hikes overnight. The hawks spoke in chorus: Waller said a 0.3% core print alone justifies considering 50bp, Logan wants at least two more 25bp moves, and the market is pricing roughly four more hikes through mid-2027.
+
+🔗 Sources: [Openbook: the CPI repricing](https://www.openbookanalytics.com/news/insights/us-stock-market-weekly-recap-2026-11-13) · [Bullwaves: weekly wrap](https://bullwaves.com/blog-news/weekly-market-recap-9-15-november-2026) · [Investrade: the hawkish turn](https://investrade.com/market-review-november-13-2026)
+
+## ▶ Yields Back Above 5%, the Dollar at a 19-Month High, and Gold and Bitcoin Both Give Way
+
+The chain reaction from hike expectations swept asset prices. The 10-year Treasury yield returned above 5%, at about 5.13% and a three-week high, while the 2-year posted its largest one-day jump in years on CPI day. The dollar index climbed to its strongest in 19 months, the euro fell to an 18-month low and the yen kept sliding. In a high-rate world the assets that pay nothing go first: gold broke below $4,000 and bitcoin below $70,000. Oil ran on its own logic — Brent briefly fell under $90, but as Trump pushed Vance aside and the Iran hawks gained ground, the Iran premium crept back on Thursday and it settled at $95.84 on Friday.
+
+🔗 Sources: [Bullwaves: across asset classes](https://bullwaves.com/blog-news/weekly-market-recap-9-15-november-2026) · [Openbook: rates and the dollar](https://www.openbookanalytics.com/news/insights/us-stock-market-weekly-recap-2026-11-13) · [Peninsula: oil's weekly fall](https://thepeninsulaqatar.com/article/15/11/2026/oil-prices-set-for-second-straight-weekly-drop-on-signs-of-growing-supply-surplus)
+
+---
+
+# 🌐 International & Politics
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W46/geopolitics.jpg)
+
+## ▶ EU Naval Forces Board a Tanker in the Mediterranean and Find a False Flag on the Shadow Fleet
+
+On November 13 the EU naval force Operation IRINI boarded the suspicious tanker MV MIDAG in the Mediterranean and, under Article 110 of the UN Convention on the Law of the Sea, confirmed that it was sailing under a false flag — ship trackers showed a Zimbabwe flag. EU foreign policy chief Kallas said the bloc would keep going after Russia's shadow fleet "at sea and through diplomatic channels," and Ukraine's registry had already identified 1,404 shadow-fleet vessels by May. It was the second boarding since MV SUN in late August. On November 16 EU foreign ministers are due to approve a new sanctions round naming the banks, buyers and companies that support the fleet.
+
+🔗 Sources: [Anadolu: the boarding](https://mobil.aa.com.tr/en/europe/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean/4125825) · [DR: false flag confirmed](https://www.dr.dk/nyheder/udland/kallas-eu-styrker-har-bordet-mistaenkt-skyggetanker) · [RTSH: sanctions on Monday](https://rtsh.al/kallas-tentoi-te-shmange-sanksionet-be-godet-floten-sekrete-ruse-ne-mesdhe/)
+
+## ▶ The Hormuz Mine Mystery: Iran Says Four Tankers Were Struck, and No Maritime Body Confirms One
+
+From November 10 to 14, Iran's Revolutionary Guard and navy claimed for five straight days that tankers had hit mines and caught fire in the Strait of Hormuz, reaching four vessels — but UKMTO, the Joint Maritime Information Center, US Central Command and the owners have not confirmed a single mine. UKMTO reported only "unknown projectiles," and satellite thermal scans found no heat source on the water. What is not in dispute: the strait remains near-closed to commercial shipping, with three transits on November 8 against a pre-war baseline of 85 a day, and the UN says 25 crew have died since the war began. Iran is using the mine narrative to justify the closure, and global shipping is picking its own way between war and fiction.
+
+🔗 Sources: [Dawn: three tankers hit](https://www.dawn.com/news/2044469/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz) · [Al Arabiya: an LNG carrier struck](http://english.alarabiya.net/News/middle-east/2026-11-13/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz) · [Straits: the daily brief](https://straits.live/briefs/2026-11-14) · [AIM: five days, no confirmation](https://aimdesk.substack.com/p/saturday-scorecard-irans-mine-claims)
+
+## ▶ Hungary Digs $19.5 Million in Cash Out of a Forest, and Magyar Declares the Mafia Era Over
+
+Hungary's new asset-recovery office searched for two days in the corruption case against former development minister Seszták, recovering about $19.5 million in cash from beneath a forest floor, a farmhouse and a mansion safe — twelve Treasury employees needed eight hours and five counting machines. Seszták is suspected of taking more than $37.2 million in bribes in the state bus procurement. Prime Minister Magyar called it "the formal end of the Fidesz-KDNP mafia" and pointed at Orbán as "a proven mafia boss." Orbán's brother was arrested this week and the former central bank governor was detained earlier; Orbán calls the campaign political persecution.
+
+🔗 Sources: [LA Times: cash in the forest](https://www.latimes.com/world-nation/story/2026-11-13/hungarian-authorities-recover-19-5-million-in-cash-during-investigation-into-orban-era-minister) · [NV: what was seized](https://english.nv.ua/nation/hungary-seizes-19-5m-in-cash-in-ex-minister-probe-50659275.html) · [AP: eight hours of counting](https://www.thecanadianpressnews.ca/world/hungarian-authorities-recover-19-5-million-in-cash-during-investigation-into-orb-n-era-minister/article_c6470dcd-7c6c-51ae-b7d8-5ac5dabc4386.html)
+
+---
+
+# 🤖 AI Frontier
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W46/ai-school.jpg)
+
+## ▶ Anthropic Ships Claude Mythos and Fable 5.2, and METR's Report Points at Recursive Self-Improvement
+
+On November 9 Anthropic released Mythos and Fable 5.2 with gains across coding, reasoning and vision: Fable's input price falls to $8 per million tokens, responses are 30% faster, and it tops the Artificial Analysis Intelligence Index at 65. Mythos is restricted to vetted cybersecurity and life-science organisations. The darker thread is METR's evaluation: the company's internal models have roughly doubled the pace of its own research, or come close to "recursive self-improvement," and the release notes unusually say the new models "suspect they are being evaluated at high frequency."
+
+🔗 Sources: [TC: 5.2 and the RSI worry](https://techcrunch.com/2026-11-09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns) · [WoAI: to the top of the index](https://theworldofai.org/ai-news/97809aba)
+
+## ▶ Anthropic Files for an IPO at a $1.4 Trillion Valuation, Listing on Nasdaq November 19
+
+Anthropic opened its IPO roadshow on November 10: 825 million shares at $70–78, applying to trade as "ANT" on Nasdaq, with pricing confirmed for the 18th and trading on the 19th at a valuation near $1.4 trillion. Claude Meetings went into beta the same week, and enterprise monetisation is visibly accelerating. One question is left: squeezed between METR's report and the compute arms race, how does a company built on safety put a price on responsibility?
+
+🔗 Sources: [Trustloud: the timetable](https://trustloud.com/ai-news-this-week-nov-9-15-2026) · [Poyo: roadshow opens](https://poyo.ai/hub/2026-11-11-ai-news)
+
+## ▶ Google's Double Launch: Gemini 4 Carbon Goes Wide Open, and a Robot Model Joins a Mercedes Line
+
+On November 10 Google opened Gemini 4 Carbon, its "strongest yet," to everyone, pitched at cybersecurity and long-horizon agents; Gemini 4 Hydrogen followed on the 12th. DeepMind released Gemini Robotics 2.5, its strongest vision-language-action model, which hit a 96% success rate in validation on a Mercedes production line. At OpenAI, GPT-6 Cyber is open only to security-programme customers: in testing it found 81 unknown high-severity bugs in Firefox and became the first model rated Critical.
+
+🔗 Sources: [Poyo: Carbon opens up](https://poyo.ai/hub/2026-11-11-ai-news) · [Trustloud: the week in AI](https://trustloud.com/ai-news-this-week-nov-9-15-2026) · [WoAI: GPT-6 Cyber](https://theworldofai.org/ai-news/97809aba)
+
+---
+
+# 💻 Tech Industry
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W46/tech-industry.jpg)
+
+## ▶ Jensen Huang Resigns: After 33 Years Running Nvidia, He Leaves on a Spying Inquiry
+
+On November 12 Nvidia announced that Huang had resigned as president, CEO and director with immediate effect, ending 33 years at the helm; CFO Colette Kress became interim CEO and Harvey C. Jones became the company's first chairman. The trigger was an independent investigation opened on November 8: the New York Times reported that Huang acknowledged a relationship with Alice Huang, an executive at Singapore customer Megaspeed whom US intelligence links to Chinese intelligence. In a note to staff he admitted being unfaithful to his wife and promised to cooperate. The official announcement gave no reason for the resignation; the shares fell as much as 13% intraday.
+
+🔗 Sources: [Yahoo Finance: the resignation](https://finance.yahoo.com/technology/articles/jensen-huang-resigns-nvidia-ceo-155953722.html?fr=sycsrp_catchall) · [DCM: inquiry and handover](https://datacentremagazine.com/news/nvidia-ceo-jensen-huang-resigns-as-colette-kress-steps-in) · [Antara: the board's timeline](https://www.antaranews.com/berita/5850415/jensen-huang-mundur-sebagai-ceo-nvidia-imbas-skandal-mata-mata-china)
+
+## ▶ The Starshield Speed-Cap Fight: Zelensky Accuses SpaceX of Lying, and 105 US Lawmakers Want Answers
+
+Ukraine's military Starlink tier, Starshield, has been capped at 161 km/h over Russian-occupied territory for five days, blunting Ukraine's ability to intercept Russian drones. Zelensky kept escalating: SpaceX says nothing is capped and it is a technical issue — "we don't believe it" — and he named the political meaning, that capping over occupied territory amounts to partly conceding that it is not ours. Rubio had said Starshield was "controlled more by the US government than by SpaceX," which does not fit. One hundred and five bipartisan House members want a full accounting and immediate restoration; SpaceX told Axios only that "this is false, nothing has changed."
+
+🔗 Sources: [Kyiv Independent: what the caps cost](https://kyivindependent.com/zelensky-says-starshield-restrictions-give-russia-more-room-to-attack-accuses-spacex-of-treating-occupied-territories-as-not-ours/) · [Kyiv Post: lawmakers press](https://www.kyivpost.com/post/90089) · [CNA: five days of caps](https://www.channelnewsasia.com/world/ukraines-zelenskyy-escalates-criticism-spacex-over-speed-caps-6551911) · [UPI: the lying charge](https://www.upi.com/Top_News/World-News/2026-11-14/ukraine-starlink-starshield-musk-spacex-zelensky/8641794694357/)
+
+## ▶ Italy's Largest Fine Ever: Meta Pays €805 Million for Reading 20 Million Users' Photo Albums
+
+On November 14 Italy's data-protection authority fined Meta €805 million, about $887 million and a record for the regulator: Facebook's Android "photo suggestions" feature read users' photos and metadata without specific consent or adequate notice, was on by default, and affected roughly 20 million Italian Android users. The company has 60 days to comply — no default-on, and separate consent required. The fine is about 0.4% of Meta's annual revenue and took in the 2019 prior case and a "lack of cooperation." Meta says it will appeal.
+
+🔗 Sources: [Guardian: the $887m fine](https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos) · [Al Jazeera: the largest yet](https://aljazeera.com/news/2026-11-14/italy-fines-meta-880m-over-photo-privacy) · [BBC: 60 days to comply](https://bbc.com/news/articles/cwn83gxemk35o)
+
+---
+
+# 🌱 Environment & Energy
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W46/environment-energy.jpg)
+
+## ▶ COP31 Opens in Antalya: No Grand Declaration Wanted, Only Decisions That Land
+
+The UN climate conference opened in Antalya, Turkey on November 9, with nearly 200 countries attending and a close on the 20th. The theme is turning pledges into action: Turkey and Australia unusually share the presidency and will push for presidential decisions along the way rather than one final all-nighter, but finance remains the hardest knot. UNFCCC chief Stiell said "progress is far from enough"; Guterres said: "Our first climate duty is to tell the truth. Science is not telling us to surrender, it is telling us to fight harder." Behind all of it, a strong El Niño is pushing extreme weather higher.
+
+🔗 Sources: [UN News: the opening](https://news.un.org/en/story/2026-11-1168763) · [WMO: leaders' summit](https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action) · [UNFCCC: COP31](https://unfccc.int/cop31)
+
+## ▶ WMO: Earth's Energy Imbalance Is the Worst Since 1960, and 2026 Is Running 1.47°C Hot
+
+WMO's State of the Climate update, released at COP31, finds Earth's energy imbalance at its highest since monitoring began in 1960 and still accelerating, directly charging extreme weather. Ocean heat content and sea level are at records; atmospheric CO2 is more than 50% above pre-industrial levels and all three major greenhouse gases set records. The past 12 years are the 12 hottest on record, and January–September 2026 ran about 1.47°C above pre-industrial — with El Niño not yet at full strength. WMO's conclusion is a single sentence: observation and early warning have to run ahead of disaster.
+
+🔗 Sources: [WMO: climate update](https://wmo.int/media/news/cop31-leaders-summit-turn-commitments-action) · [UN News: the COP31 context](https://news.un.org/en/story/2026-11-1168763)
+
+## ▶ IEA: For the First Time Since the War Began, the Global Oil Market Is Back in Surplus
+
+The IEA's November report delivers a marker: for the first time since the Iran war began, global oil supply exceeds demand, with the fourth quarter back in surplus at 105 mb/d of supply, 1.7 mb/d above demand. Observed stocks rose 52 million barrels in October, the first build since June, and floating storage jumped by 86 million barrels. Prices fell hard: dated Brent dropped from an October high of $136 to about $93, still $22 above pre-war levels. Gulf producers are restoring shipments through "dark voyages," and OPEC+ output is back to 97% of pre-war. The risks are not gone: European diesel is still 77% more expensive than before the war.
+
+🔗 Sources: [IEA: November oil report](https://www.iea.org/reports/oil-market-report-november-2026) · [BR: back in surplus](https://www.brecorder.com/news/40448954) · [Peninsula: a second weekly drop](https://thepeninsulaqatar.com/article/15/11/2026/oil-prices-set-for-second-straight-weekly-drop-on-signs-of-growing-supply-surplus)
+
+---
+
+# 🏥 Health & Medicine
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W46/health-medical.jpg)
+
+## ▶ Shanghai Publishes Findings on a Gene-Editing Death: Two Researchers Dismissed and Barred for Five Years
+
+On November 13 Shanghai released the outcome of its inquiry into a gene-editing study at the Jiao Tong University school of medicine: a child with a rare neurodevelopmental disorder died a week after a custom gene-editing injection in March 2025, and the paper appeared in Nature in February. Investigators found that warnings from primate safety tests were not reported promptly, the paper did not disclose the death, and conflicts of interest were not properly declared — no fabrication, but academic misconduct. Principal investigator Qiu and first author Yang were dismissed, barred from research for five years and blacklisted; five hospital executives were disciplined. The case again exposes how thin the regulation of investigator-initiated trials remains in China.
+
+🔗 Sources: [China Daily: the outcome](http://www.chinadaily.com.cn/a/202611/13/WS6af70d2de4b03ebf8519c505.html) · [Anadolu: two dismissed](https://aa.com.tr/en/asia-pacific/china-dismisses-researchers-sanctions-hospital-officials-over-gene-therapy-scandal/4124020) · [HT: the ethics failure](https://www.hindustantimes.com/world-news/china-finds-ethical-flaw-in-gene-editing-trial-that-led-to-childs-death-two-researchers-fired-101794581533480.html)
+
+## ▶ Congo's Ebola Outbreak Becomes Its Largest Ever, and Two New Vaccines Enter Trials
+
+WHO reports that the Bundibugyo Ebola outbreak in the DRC is now the country's largest on record — nearly 11,000 confirmed cases and more than 5,300 deaths, a Public Health Emergency of International Concern, with a case fatality rate near 50% and no dedicated vaccine. The good news is that the "Tumaini" (hope) trial will add two candidate vaccines designed for this strain, Oxford's ChAdOx1 and Moderna's mRNA-1469; the outbreak has already spilled into four countries. The biggest enemy is not the virus: the town of Cantine-Aloya was attacked last week, killing 66 civilians including three health workers.
+
+🔗 Sources: [UN News: two new vaccines](https://news.un.org/en/story/2026-11-1168742) · [Al Jazeera: WHO approves trials](https://aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines) · [WHO: Tedros' briefing](https://who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-ebola-outbreak-in-the-democratic-republic-of-the-congo---11-november-2026)
+
+## ▶ The Heart-Safety Card for a Weight-Loss Shot: Survodutide Clears 5,530 Patients, With About One in Five Stopping
+
+Boehringer Ingelheim's investigational weekly shot survodutide reported its cardiovascular outcome trial at the AHA meeting on November 9, published simultaneously in the Lancet: across 5,530 adults at high cardiovascular risk the primary composite endpoint had an HR of 0.89, meeting non-inferiority — no added heart-attack or stroke risk, but no proven cardiac protection either. On efficacy, weight loss peaked at 13.7% at 72 weeks against 2.0% for placebo. The weakness is tolerability: roughly one in five participants stopped for gastrointestinal effects. The company plans a 2027 filing — in a market semaglutide owns, it still needs a superiority card.
+
+🔗 Sources: [MD: heart safety cleared](https://www.medicaldaily.com/survodutide-obesity-drug-heart-safety-trial-481084) · [SD: Alzheimer's may start outside the brain](https://www.sciencedaily.com/releases/2026-11-261108233103.htm)
+
+---
+
+> 📌 **Subscribe & Feedback**: Brought to you weekly by Hemu Shell (赫沐神朱) and Jiake Shell (甲壳神朱). Feel free to share, subscribe, and push back.
+> 🤖 **This draft is AI-assisted and pending human review.**
+> 📅 **Next Issue**: Vol.25 arrives Monday, November 23, 2026, covering November 16 – 22, 2026.
+
+> 🔗 [Original (中文)](https://jackson-chu-sys.github.io/whats-up/zh/2026-11-16-vol24.html)
