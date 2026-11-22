@@ -1,0 +1,200 @@
+# 🟣 what's Up! Global Signals Weekly｜Vol.25｜2026.11.16–11.22
+
+> *Catching up on what happened around the world last week.*
+> This issue covers: Monday, November 16 through Sunday, November 22, 2026.
+
+⚠️ AI Generated, Pending Human Review
+
+---
+
+## The Week in One Line
+
+Trump, Putin and Xi held the first US–China–Russia trilateral in Shenzhen and signed a "peace declaration" that promised only what all three could live with — no arms-control timetable, no plan for Ukraine or Iran — while two Russian Kh-101s landed in Poland and NATO's Rutte flew to Warsaw to promise every inch would be defended. GTA 6 sold $3.79 billion at retail on day one, AI-made short dramas pushed "no animals were harmed" to the top of Xiaohongshu, and Robert Pattinson became the seventh James Bond. The Nasdaq gave back its entire 2026 gain in a week — the worst since March 2020 — as AI-capex doubts and Anthropic's 11% second-day slide chilled the IPO window, with Nvidia down 23%; gold hit a 14-month low as four Chinese banks issued risk notices the same day and bitcoin bounced off a two-year low. Berlin offered Kyiv "strong, legally binding" guarantees, Trump promised a "permanent" Iran deal while Qatar mediated, and the Pentagon restricted military ties with Canada. A Lean formalisation of the Riemann hypothesis cleared community and LUMI verification, three frontier models shipped in seven days, and Washington and Beijing agreed military AI must keep humans in the loop. A Dutch court banned BYD's Ti7 across the EU, Apple locked in four to five years of Samsung DRAM, and Shenzhou-24 stood ready with the station's first foreign payload specialist. COP31 collapsed in Antalya without a fossil-fuel exit, the IEA saw renewable additions falling 11% in 2026, EU carbon broke below €81, an mRNA vaccine cut melanoma recurrence 42%, semaglutide's heart mechanism was mapped, and Bulgaria's measles rate ran 18 times the EU average on forged records.
+
+---
+
+# 🔥 This Week on Social Media
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W47/trending-news.jpg)
+
+## 1️⃣ [Weibo] Shenzhen Trilateral Summit: One "Peace Declaration," Three Sets of Calculations
+
+The APEC leaders' meeting ran in Shenzhen on November 18–19, with Trump and Putin arriving the same day and the first-ever US–China–Russia closed-door trilateral on the 19th lasting 70 to 90 minutes. The joint "peace declaration" said nuclear war cannot be won and must never be fought, called for UN reform, more refined-product supply and respect for officials' immunity. There was no arms-control timetable and no concrete plan for Ukraine or Iran: New START expired in February, and China's 600-odd warheads sit against roughly 5,000 each for the US and Russia. Trump called Putin a "friend"; Weibo's "Trump posts APEC photo captioned GOAT" drew 7.368 million in heat. Each side got what it came for — Trump a photo, Putin legitimacy, Beijing the host narrative.
+
+🔗 Sources: [Weibo: hot-search chart](https://tgmeng.com/media/weibo) · [Reuters: historic meeting](https://www.reuters.com/5f374b32b07b/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/) · [AP: no major deal](https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a)
+
+## 2️⃣ [Reddit] Two Russian Missiles Land in Poland, and NATO Says Every Inch Will Be Defended
+
+Two Kh-101 cruise missiles and a drone came down in southeastern Poland during a large Russian air campaign against Ukraine on November 20. Warsaw called it a deliberate provocation, timed to an 11-country "coalition of the willing" exercise on the Polish-Ukrainian border. NATO Secretary-General Rutte said fighters were scrambled and travelled to Warsaw on Saturday: "NATO will defend every inch of Polish territory." Trump shrugged that Putin "accidentally dropped a few small missiles"; Tusk shot back, "God protect us from such friends." It was the most serious breach of NATO airspace since 2022 and a live test of how much Article 5 is really worth.
+
+🔗 Sources: [r/worldnews: top posts](https://www.reddit.com/r/worldnews/top/?t=week) · [Al Jazeera: deliberate provocation](https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations) · [Polish Radio: NATO solidarity](https://www.polskieradio.pl/395/7785/Artykul/3755243,nato-ukraine-and-uk-express-solidarity-with-poland-after-airspace-violations)
+
+## 3️⃣ [X] GTA 6 Opens With $3.79 Billion at Retail, the Biggest Launch in Entertainment History
+
+After two delays, Grand Theft Auto VI finally shipped on November 19. Take-Two disclosed $3.79 billion in first-day retail sales, a record for any entertainment product, on 32.5 million pre-orders and a Metacritic score of 99 — against roughly $800 million for GTA V's opening day. Cloudflare said UK PS5 download peaks ran 8.6 times normal. X's US trends were wall-to-wall GTA 6 and character names like Lucia. A launch week that comes once every twelve years proved that a single-player blockbuster is still the sharpest cash-flow weapon in the industry — and made the argument that gaming has nothing left but sequels louder.
+
+🔗 Sources: [X: US trends](https://twitter-trending.com/united-states) · [Take-Two: $3.79B day one](https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/grand-theft-auto-vi-shatters-entertainment-box-office-records/) · [BBC: $3.8 billion](https://www.bbc.com/news/articles/c9zr5nyv5dj2o)
+
+## 4️⃣ [Xiaohongshu] "Replace Animal-Harming Shoots With AI" Tops the Chart
+
+Xiaohongshu's hot list kept the topic in the top five for three straight days, peaking at No. 1 on November 18 with 20.84 million in heat. The backdrop is the AI short-drama boom: in the first half of 2026 Chinese AI short-drama users passed 600 million, the market exceeded 22 billion yuan, platforms released 367,000 micro-dramas and AI accounted for more than 74%. Producers have started labelling work "AI-made, no real animals harmed." The argument: as actors, extras and VFX artists lose work, "no animals were harmed" becomes AI's most presentable line — one that never appeared on the old sets that had no animal-welfare clause at all.
+
+🔗 Sources: [Xiaohongshu: hot-list archive](https://dataxapi.com/zh/tools/hot-search/xiaohongshu/2026-11-19) · [Qilu Evening News: AI short-drama shakeout](https://sjb.qlwb.com.cn/qlwb/PDF/20260929/Q15.pdf)
+
+## 5️⃣ [Google Trends] Pattinson Becomes the Seventh James Bond
+
+Amazon MGM named 40-year-old Robert Pattinson the seventh 007 on November 16, with Denis Villeneuve directing and Steven Knight writing already in place; "robert pattinson" hit No. 3 on Google Trends' US chart that day. Pattinson broke through in Twilight and The Batman and has Christopher Nolan's Odyssey out this year. His contract, reportedly, covers only three films — and he is the most expensive of the candidates. Amazon paid $8.56 billion for MGM in 2022 and more than $1 billion more in 2025 for creative control from the Broccoli family: for the first time in 60 years, Bond is no longer the family's decision.
+
+🔗 Sources: [Google Trends: US](https://www.trendsmcp.ai/trending/google-trends-trending-november-17-2026) · [Amazon: official announcement](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film?gsid=1f62afdd-e499-4178-a144-64a9916e7269) · [CNN: the seventh Bond](https://www.cnn.com/2026/11/16/entertainment/robert-pattinson-james-bond)
+
+---
+
+# 🏦 Finance & Macro
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W47/finance-markets.jpg)
+
+## ▶ The Nasdaq Erases Its Entire 2026 Gain as the AI Trade Retreats
+
+Friday's 5.28% drop took the Nasdaq to 22,617.73 and wiped out a year-to-date gain that stood at 19% in early October; the week's 10% fall was the worst since March 2020. The S&P 500 fell 3.7% to 6,918.45 and the Dow 1.93% to 48,188, below 50,000 for the first time since June. Nvidia lost 23% on the week — its worst since 2008 — including 13% on Friday, with Reuters reporting the SEC is examining its accounting; AMD, Micron and CoreWeave fell more than 10%. The trigger remains whether AI capex can be earned back, and Anthropic's below-issue second day chilled the IPO window. The 10-year yield fell 13bp to 4.92% as money ran back to bonds.
+
+🔗 Sources: [Guardian: AI sell-off](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off) · [CNBC: tech sell-off](https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html)
+
+## ▶ Anthropic Slips Back Toward Its IPO Price on Day Two
+
+Anthropic listed on Nasdaq on November 19 at $83 a share, above a $70–78 range, raising $81.3 billion with another $26 billion in private placement — the largest IPO ever. It opened at 111.50, peaked at 115.10 and closed at 97.17, up 17%, with a market value that touched $2 trillion intraday and closed at $1.27 trillion; each of seven co-founders gained $23.3 billion on day one. On day two the tech sell-off took it down 11% to $86, just $3 from the issue price. Underwriting fees ran about $550 million. Amodei publicly defended a $900 billion AI-infrastructure pledge. Whether this was a listing-day peak or a beginning becomes clearer next week.
+
+🔗 Sources: [Fortune: near IPO price](https://fortune.com/2026/11/20/anthropic-stock-teeters-close-to-ipo-price-in-second-day-of-trading) · [Forbes: down 11%](https://forbes.com/sites/fionariley/2026/11/20/anthropic-slumps-11-on-second-day-of-trading-after-record-breaking-ipo)
+
+## ▶ Gold at a 14-Month Low as Four Chinese Banks Warn on the Same Day
+
+Spot gold fell more than 3% to $3,514.36 an ounce on November 20, a 14-month low, while ICBC's gold-accumulation product quoted 769.54 yuan a gram. ICBC, CCB, CMB and Ningbo Bank all issued precious-metals risk notices the same day. Beijing's Caibai gold bars sold out and Shenzhen's Shuibei district was packed, with one dealer reporting losses of two to three million yuan. Goldman remains bullish at $5,600 by end-2028 and UBS sees $5,000 by end-2027. Bitcoin, meanwhile, rebounded 9% from a two-year low of $55,130 to retake $60,000 — global risk assets pressed down together by the same liquidity squeeze.
+
+🔗 Sources: [JRJ: four banks' notices](https://finance.jrj.com.cn/2026/11/20202359223135.shtml) · [Eastmoney: 14-month low](https://finance.eastmoney.com/a/202611203936300937.html)
+
+---
+
+# 🌐 International & Politics
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W47/geopolitics.jpg)
+
+## ▶ Berlin Summit: Europe Offers "Legally Binding" Security Guarantees
+
+Merz hosted a Ukraine summit in Berlin on November 19 with Zelensky in person, 25 to 40 countries attending, Witkoff and Kushner representing Washington and Trump joining by phone from Air Force One. A joint German-French-British-Ukrainian statement promised "strong, legally binding" security guarantees after a ceasefire; NATO allies would provide €70 billion of military aid and training in 2026 and no less in 2027; the EU would deliver €90 billion of loans to Ukraine by end-2027. It was the closest the nine-month war has come to a text on security arrangements, but Moscow still opposes widening the talks format and Kyiv insists no deal can be made without it.
+
+🔗 Sources: [AA: Berlin developments](https://u.aa.com.tr/en/russia-ukraine-war/ukraine-proposes-further-humanitarian-missions-to-territories-under-russian-control-zelenskyy/4128123) · [Euronews: Berlin talks](https://euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu)
+
+## ▶ Trump Wants a "Permanent" Iran Deal, and Tehran Sets Four Conditions
+
+Trump told Fox on November 21 that he would reach a "permanent" agreement with Iran that closes off its nuclear path for good and cannot be undone by the next president, adding that a "third wave of leadership" was the ultimate solution. A Qatari delegation spent two hours in Tehran on Friday night. Iran's conditions: a full ceasefire, unfrozen assets, an end to oil sanctions and an end to the US counter-blockade, with no enriched uranium shipped abroad. Foreign Minister Araghchi said reopening Hormuz "would not be difficult" if Washington accepted reasonable terms. The strait normally carries a fifth of the world's oil and has been restricted for nearly nine months since the US–Israeli strikes on Iran in February.
+
+🔗 Sources: [Al Jazeera: Qatari mediation](https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions) · [AA: permanent deal](https://www.aa.com.tr/en/middle-east/trump-vows-to-make-permanent-deal-with-iran-prevent-future-nuclear-ambitions/4133079)
+
+## ▶ The Pentagon Tightens Military Cooperation With Canada
+
+The Washington Post reported on November 20 that Defense Secretary Hegseth has narrowed military cooperation with Canada — joint exercises, intelligence sharing and officer exchanges — in what is seen as pressure on Ottawa's drive for defence autonomy. Canada had just unveiled a C$74 billion rearmament plan explicitly aimed at reducing dependence on the US. Whether NORAD cooperation is affected was not disclosed. The story ran high on r/worldnews. A centrifugal "de-Americanisation" inside the alliance system is proving harder for Washington to handle than anything China or Russia is doing.
+
+🔗 Sources: [Reuters: restricting military ties](https://reuters.com/world/americas/us-defense-secretary-hegseth-restricts-military-ties-with-canada-washington-post-2026-11-20/) · [r/worldnews: top posts](https://www.reddit.com/r/worldnews/top/?t=week)
+
+---
+
+# 🤖 AI Frontier
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W47/ai-school.jpg)
+
+## ▶ The Riemann Hypothesis Verified in Lean: AI Found It, the Community Checked It
+
+On November 20 Levent Alpöge published a Lean formalisation of the Riemann hypothesis, generalised form included — 17.4 million lines and 175,000 modules — saying Claude helped find it. The Lean and Mathlib communities confirmed it; MIT's Sutherland ran the full verification with Claude Code: everything compiled with zero errors, and the five theorems depend on only three standard axioms. An independent Rust kernel, nanoda, accepted it in 27 minutes 42 seconds, and the LUMI supercomputer independently re-checked it. Zhihu's hot list drew 52.83 million, with "Can OpenAI really crack P=NP?" rising alongside. Mathematics is moving from "impossible" to "we need to redefine what a proof is."
+
+🔗 Sources: [Lean community: verification](https://leanprover-community.github.io/blog/posts/riemann-hypothesis) · [MIT verification page](https://math.mit.edu/~drew/grh) · [LUMI re-check](https://github.com/aapolipponen/rh-lean-check-lumi)
+
+## ▶ Three Frontier Models in One Week: the Cadence Matters More Than the Capability
+
+Google DeepMind released Gemini 4 Neon on November 18, pitched at frontier intelligence and end-to-end tasks, with API, AI Studio, Antigravity and Gemini App Pro/Ultra on day one, alongside Genie 4 the same day. OpenAI shipped GPT-6.2 Astra and Sol on November 17 for professional work. Before that came Gemini 4 Hydrogen on November 12 and Claude Fable on November 9. Model cycles have compressed from twice a year to once a week; Neon scored 953 on Hacker News, and the European Commission pushed Matrix to 40,000 staff. When capability gaps close to a few points, "first to ship" becomes marketing — and the real moat is compute, distribution and price.
+
+🔗 Sources: [DeepMind: Neon](https://deepmind.google/blog/introducing-gemini-4-neon?cb=scout-20261118T2145-a1b2) · [OpenAI: GPT-6.2](https://openai.com/index/introducing-gpt-6-sol-and-luna?output=1)
+
+## ▶ Washington and Beijing Agree That Military AI Must Keep Humans in the Loop
+
+Treasury Secretary Bessent told CNBC on November 20 that Trump and Xi agreed in Shenzhen that AI decisions on major military operations must involve humans. In the same stretch Washington tightened chip exports: a November 16 Commerce Department rule closed the route by which Chinese firms rent compute in overseas data centres, and Nvidia halted Hopper shipments to China this week. UN "killer robot" talks in Geneva ended on Saturday having agreed only to keep talking, with no hard commitment. The consensus stops at the level of statements and an arms-control treaty remains a blank — the most alarming gap of the week.
+
+🔗 Sources: [APA: human control](https://en.apa.az/america/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-537545) · [The News: why it matters](https://www.thenews.com.pk/latest/1424437-trump-xi-agreed-that-military-ai-decisions-should-involve-humans-heres-why)
+
+---
+
+# 💻 Tech Industry
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W47/tech-industry.jpg)
+
+## ▶ A Dutch Court Bans BYD's Ti7 for Copying the Land Rover Defender
+
+The Hague court ruled on November 20 that BYD's Ti7 infringed Jaguar Land Rover's registered design, filed in April 2018, barring import, production, sale, storage and delivery across all 27 EU member states, including BYD's Hungarian plant. Penalties run €100,000 a day or €25,000 per vehicle, capped at €10 million. BYD says the design was independent and will appeal; the UK and Australia fall outside the ban. A separate copyright case opens in Rotterdam on November 25. It is the first time a Chinese carmaker has been fully banned in Europe over design infringement — a warning to every export brand built on the "affordable lookalike" route.
+
+🔗 Sources: [Eastern Eye: EU ban](https://www.easterneye.biz/byd-ti7-suv-eu-ban-land-rover-defender-design-dispute/) · [WhichCar: the ruling](https://www.whichcar.com.au/news/dutch-court-blocks-byd-ti7-sales-in-eu-over-defender-design)
+
+## ▶ Apple Locks In a Four-to-Five-Year Memory Deal With Samsung
+
+On November 17 Maeil Business reported exclusively that Apple's long-term DRAM supply agreement with Samsung is in its final stage: four to five years, starting the first half of 2027, with guaranteed volumes plus market-based pricing. Apple had already signed with SK Hynix and was the only major buyer without a Samsung long-term deal — reversing its tradition of short, price-pressing contracts. Memory prices have quadrupled in two years, and Hynix's long-term deals with 14 major customers already cover more than half of 2027–28 capacity. Apple's Q4 purchase obligations rose by $33 billion, gross margin fell from 50.1% to 47.9% and guidance for the next quarter is 45–46%. "Chipflation" is passing the cost to everyone who upgrades a phone.
+
+🔗 Sources: [MK: exclusive](https://www.mk.co.kr/en/business/12211500) · [Korea Herald: long-term deal](https://www.koreaherald.com/article/10942672)
+
+## ▶ Shenzhou-24 Is Ready, and the Space Station Will Host Its First Foreign Payload Specialist
+
+The Shenzhou-24 spacecraft and rocket rolled to the pad at Jiuquan on November 17, wrapped against 1°C cold, and completed a final full-system rehearsal on November 21; launch is scheduled at short notice. The mission will carry the station's first foreign payload specialist, and weather support will use a neural network for hourly temperature forecasts for the first time. Weibo's "Shenzhou-24 ready for launch" drew 3.66 million in heat and Douyin 8.749 million. China's crewed programme is moving from "we can get up there ourselves" to "we can take others with us" — a quiet turning point in the architecture of international space cooperation.
+
+🔗 Sources: [CMSA: mission update](https://www.cmse.gov.cn/xwzx/202611/t20261117_57861.html) · [Xinhua: full rehearsal](https://www.xzxw.com/xw/gnyw/2026-11/22/content_6976529.html)
+
+---
+
+# 🌱 Environment & Energy
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W47/environment-energy.jpg)
+
+## ▶ COP31 Collapses in Antalya
+
+The longest COP on record ended in Antalya, Turkey on November 22 — the first major failure since Copenhagen in 2009. The "Antalya Accord" cover decision failed to find consensus: the EU, UK, small island states, Panama, the Marshall Islands and Norway refused it because the text did not mention moving away from fossil fuels, which more than 130 countries demanded; Monday's draft still said "transition away from fossil fuels immediately." Saudi Arabia and other producers objected, and the CCS clause was criticised as greenwashing. Finance also came up empty, with African negotiators calling it "an empty pocket." The US has left. Guterres: "deeply disappointed, but the science is unambiguous." The remaining subsidiary decisions passed.
+
+🔗 Sources: [UN News: decision rejected](https://news.un.org/en/story/2026/11/1168855) · [Guardian: deep divisions](https://theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected)
+
+## ▶ IEA: Global Renewable Additions Will Fall 11% in 2026
+
+The IEA's Renewables 2026, published November 6, kept reverberating this week: global renewable capacity additions are expected to fall 11% in 2026, ending 21 straight record years but still the second-highest ever. The main cause is China's solar auction reform, with additions down 55% year on year in the first nine months. Over 2026–31 the average is about 800GW a year, 57% above 2020–25; emerging economies outside China match advanced economies for the first time. The Hormuz crisis has raised energy-security demand, accelerating India, Southeast Asia, Africa and the Middle East. The 2030 "triple" target now looks like 2032. Advanced-stage projects in grid queues rose 60% to 3,000GW — the bottleneck has moved from modules to grids.
+
+🔗 Sources: [IEA: energy security](https://www.iea.org/news/energy-security-concerns-spur-faster-renewables-growth-across-a-widening-constellation-of-countries) · [IEA: executive summary](https://www.iea.org/reports/renewables-2026/executive-summary)
+
+## ▶ EU Carbon Falls Below €81
+
+EUAs fell below €81 a tonne on November 21 from 89–91 at the start of the month, on three counts: a provisional Parliament–Council deal granting industry another 121 million free allowances, worth about €10 billion; Ireland's proposal to slow the phase-out; and the Parliament's industry committee rejecting a reform compromise and postponing the vote, leaving the post-2030 cap-reduction "4% limit" in dispute. More than 100 European companies — Covestro, Evonik, Wacker, voestalpine, thyssenkrupp Steel — warned the reform would raise costs and drive closures and relocation. December's parliamentary vote is a two-way risk. CBAM advances in parallel: an Article 6 international-credit offset rule retroactive to January, and expansion to Norway and Iceland in January 2027.
+
+🔗 Sources: [Carbon FS: fortnightly](https://carbonfundamentalservices.com/carbon-market-news-roundup-40/) · [Carbon Pulse: CBAM](https://carbon-pulse.com/571760/?site=cpp#1)
+
+---
+
+# 🏥 Health & Medicine
+
+![Illustration](https://jackson-chu-sys.github.io/whats-up/assets/images/2026-W47/health-medical.jpg)
+
+## ▶ An mRNA Cancer Vaccine Cuts Recurrence Risk by 42% in Phase III
+
+JAMA published INTerpath-001 online on November 13: in 1,137 high-risk melanoma patients after surgery, the individualised mRNA vaccine intismeran autogene plus Keytruda cut the risk of recurrence or death by 42% (HR 0.58) over a median 24.6 months, with two-year recurrence-free survival of 82.2% against 70.0% and a 38% lower risk of distant metastasis. Each patient's vaccine encoded up to 34 neoantigens, 99% manufactured successfully, with a median 64 days to first dose. Overall survival data are immature, and the curves only separated at month six — consistent with how vaccines work. It is the first time an individualised cancer vaccine has hit a hard endpoint in Phase III.
+
+🔗 Sources: [JAMA: the trial](https://jamanetwork.com/journals/jama/fullarticle/2856885) · [CRI: explainer](https://www.cancerresearch.org/blog/cancer-vaccine-results-melanoma)
+
+## ▶ The Heart Mechanism of GLP-1s: More Than Weight Loss
+
+Nature Medicine published CAMEO-SEMA on November 8: in 81 patients with heart failure with preserved ejection fraction and obesity, semaglutide 2.4mg weekly for 52 weeks lowered pulmonary capillary wedge pressure by 10.6mmHg during exercise and 7.1 at rest; 53.7% reached haemodynamic remission against 7.4% on placebo (OR 14.1). A cardiac-MRI substudy showed left-atrial strain improving 5.7%, left-ventricular mass falling and geometry normalising. That explains why benefits beyond weight loss are real, and gives "weight-loss shots for heart failure" its mechanism. A separate Mayo observational study of 146 against 237 points the same way.
+
+🔗 Sources: [Nature Medicine: main trial](https://www.nature.com/articles/s41591-026-04762-3) · [CMR substudy](https://www.nature.com/articles/s41591-026-04787-8)
+
+## ▶ Measles in Europe: Bulgaria's Rate Is 18 Times the Average
+
+ECDC reported on November 17 that the EU/EEA logged 2,325 cases in the past 12 months, below 10,195 a year earlier but very unevenly spread. Bulgaria had 589 cases, 91.5 per million, 18 times the EU average of 5.1 — against just two cases in all of 2025. The starkest detail is forged certificates: in the worst-hit areas about 60% of children recorded as vaccinated show no MMR antibodies. Italy had 651 cases, Romania 268, Spain 218 and France 139; 71.8% of cases were unvaccinated and 28% were under five. England counted 1,055 cases to November 9. ECDC wants two-dose coverage back at 95% — paper vaccination records are producing a real epidemic.
+
+🔗 Sources: [BGNES: highest in EU](http://www.bgnes.com/health/bulgaria-records-highest-measles-incidence-in-eu-with-589-cases-in-one-year) · [Indeksonline: European outbreak](https://indeksonline.net/en/rastet-e-fruthit-po-bien-ne-evrope-por-disa-vende-vazhdojne-te-perballen-me-shperthime/)
+
+---
+
+> 📌 **Subscribe & Feedback**: Brought to you weekly by Hemu Shell (赫沐神朱) and Jiake Shell (甲壳神朱). Feel free to share, subscribe, and push back.
+> 🤖 **This draft is AI-assisted and pending human review.**
+> 📅 **Next Issue**: Vol.26 arrives Monday, November 30, 2026, covering November 23 – 29, 2026.
+
+> 🔗 [Original (中文)](https://jackson-chu-sys.github.io/whats-up/zh/2026-11-23-vol25.html)
