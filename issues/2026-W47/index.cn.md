@@ -1,0 +1,175 @@
+# 🟣 what's Up! 全球热点信息周刊｜Vol.25｜2026.11.16–11.22
+
+> 每周一早上，用七分钟看懂过去七天世界发生了什么。
+> 本期覆盖：2026 年 11 月 16 日（周一）至 11 月 22 日（周日）。
+> ⚠️ AI辅助生成，待人工审核。
+
+---
+
+## 🔥 时事热点
+
+### 1️⃣ [微博] 深圳三方峰会：一张"和平宣言"，三个人的算盘
+
+11 月 18–19 日 APEC 领导人会议在深圳举行，特朗普、普京同日抵深，19 日举行史上首次中美俄三方闭门会晤，历时 70–90 分钟。会后发表"和平宣言"：核战争打不赢也绝不能打、推动联合国改革、增加成品油供应、尊重国家官员豁免权。但无军控时间表、无乌克兰与伊朗的具体方案——《新削减战略武器条约》2 月已到期，中国 600 余枚弹头对美俄各 5000 余枚。特朗普称普京是"朋友"，微博"特朗普发APEC合照配文GOAT"热度 736.8 万。三方各取所需：特朗普要画面，普京要合法性，北京要主场叙事。
+
+- 来源：[微博热搜榜](https://tgmeng.com/media/weibo) · [路透：历史性会晤](https://www.reuters.com/5f374b32b07b/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/) · [美联：无重大协议](https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a)
+
+### 2️⃣ [Reddit] 两枚俄导弹落进波兰，北约说"每一寸都守"
+
+11 月 20 日俄军对乌大规模空袭期间，两枚 Kh-101 巡航导弹与一架无人机坠入波兰东南部，华沙称之为"蓄意挑衅"——时值 11 国"志愿联盟"在波乌边境军演。北约秘书长吕特称战机紧急升空，周六亲赴华沙："北约将捍卫波兰每一寸领土。"特朗普轻描淡写"普京不小心落了几枚小导弹"，图斯克回击"上帝保佑我们远离这样的朋友"。这是 2022 年以来北约领空最严重的一次擦枪走火，也是对"第五条"成色的一次实测。
+
+- 来源：[r/worldnews 热榜](https://www.reddit.com/r/worldnews/top/?t=week) · [半岛：蓄意挑衅](https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations) · [波兰电台：北约声援](https://www.polskieradio.pl/395/7785/Artykul/3755243,nato-ukraine-and-uk-express-solidarity-with-poland-after-airspace-violations)
+
+### 3️⃣ [X] GTA 6 发售：首日零售 37.9 亿美元，娱乐史纪录
+
+11 月 19 日，《侠盗猎车手 6》在两次延期后终于发售。Take-Two 披露首日零售额 37.9 亿美元，创娱乐产品历史纪录，预售 3250 万份，Metacritic 99 分；对比 GTA V 首日约 8 亿美元。Cloudflare 称英国 PS5 下载峰值达平日 8.6 倍。X 美区本周趋势被 GTA 6、Lucia 等角色名占满。十二年一遇的发售周证明：单机大作仍是这个行业最锋利的现金流武器——也让"游戏业只剩续作"的争论更响。
+
+- 来源：[X 美区趋势](https://twitter-trending.com/united-states) · [Take-Two：首日37.9亿](https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/grand-theft-auto-vi-shatters-entertainment-box-office-records/) · [BBC：38亿美元](https://www.bbc.com/news/articles/c9zr5nyv5dj2o)
+
+### 4️⃣ [小红书] "用 AI 取代伤害动物的拍摄"登顶
+
+小红书热榜连续三天停留前五，11 月 18 日登顶，热度 2084 万。背景是 AI 短剧狂飙：2026 上半年中国 AI 短剧用户破 6 亿、市场规模超 220 亿元，平台上线微短剧 36.7 万部，AI 占比超 74%。制作方开始主动标注"AI 制作，无真实动物受伤"。争议在于：当演员、群演、特效师纷纷失业，"不伤害动物"成了 AI 最体面的说辞；而在没有动物保护条款的旧剧组，这句话从不会出现。
+
+- 来源：[小红书热榜存档](https://dataxapi.com/zh/tools/hot-search/xiaohongshu/2026-11-19) · [齐鲁晚报：AI短剧洗牌](https://sjb.qlwb.com.cn/qlwb/PDF/20260929/Q15.pdf)
+
+### 5️⃣ [Google Trends] 帕丁森成为第七任 007
+
+11 月 16 日 Amazon MGM 官宣 40 岁的罗伯特·帕丁森出任第七任 007，丹尼斯·维伦纽瓦执导、斯蒂芬·奈特编剧已就位，"robert pattinson"当日冲上 Google Trends 美区第 3。帕丁森凭《暮光之城》《蝙蝠侠》成名，今年还有诺兰《奥德赛》。据报道其合同只需拍三部，是候选人中最贵的。亚马逊 2022 年以 85.6 亿美元买下米高梅，2025 年再付逾 10 亿美元从布洛克利家族手中拿走创意控制权——60 年来第一次，007 不再由家族决定。
+
+- 来源：[Google Trends 美区](https://www.trendsmcp.ai/trending/google-trends-trending-november-17-2026) · [亚马逊官宣](https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film?gsid=1f62afdd-e499-4178-a144-64a9916e7269) · [CNN：第七任](https://www.cnn.com/2026/11/16/entertainment/robert-pattinson-james-bond)
+
+---
+
+## 🏦 金融与宏观经济
+
+### ▶ 纳指抹去 2026 全年涨幅：AI 交易大退潮
+
+周五纳指跌 5.28% 收 22617.73 点，把 10 月初还 +19% 的年内涨幅全部吐回，单周跌 10% 为 2020 年 3 月以来最惨；标普跌 3.7% 收 6918.45，道指跌 1.93% 收 48188，6 月来首次失守 5 万。英伟达一周跌 23%（2008 年来最惨周），周五单日跌 13%——路透称 SEC 在查其会计处理；AMD、美光、CoreWeave 跌超 10%。导火索还是"AI 资本开支能不能收回"，加上 Anthropic 上市次日破发给 IPO 窗口泼了冷水。10 年期美债收益率降 13bp 至 4.92%，资金回流债市。
+
+- 来源：[卫报：AI抛售](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off) · [CNBC：科技股抛售](https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html)
+
+### ▶ Anthropic 上市次日跌回发行价附近
+
+11 月 19 日 Anthropic 以每股 83 美元登陆纳斯达克（高于 70–78 美元询价区间），募资 813 亿美元，另有 260 亿美元私募配套，是史上最大 IPO。首日开盘 111.50、最高 115.10、收 97.17（+17%），市值盘中破 2 万亿美元、收盘 1.27 万亿；七位联合创始人首日身家各增 233 亿美元。次日随科技股抛售跌 11% 至 86 美元，距发行价仅 3 美元。承销费约 5.5 亿美元。Amodei 为 9000 亿美元的 AI 基建承诺公开辩护。上市即巅峰还是刚起步，下周见分晓。
+
+- 来源：[Fortune：逼近发行价](https://fortune.com/2026/11/20/anthropic-stock-teeters-close-to-ipo-price-in-second-day-of-trading) · [福布斯：次日跌11%](https://forbes.com/sites/fionariley/2026/11/20/anthropic-slumps-11-on-second-day-of-trading-after-record-breaking-ipo)
+
+### ▶ 金价 14 个月新低：中国四行同日提示风险
+
+11 月 20 日现货金一度跌超 3% 至 3514.36 美元/盎司，14 个月新低；工行积存金报 769.54 元/克。工、建、招、甬四家银行同日发布贵金属风险提示。北京菜百金条被抢空，深圳水贝"人从众"，有商家称"亏两三百万"。高盛仍看多，预计 2028 年底 5600 美元，瑞银看 2027 年底 5000 美元。同一天比特币从 55130 美元的两年低点反弹 9% 收复 6 万——全球风险资产在同一个流动性收缩里被一起按下去。
+
+- 来源：[金融界：四行提示](https://finance.jrj.com.cn/2026/11/20202359223135.shtml) · [东方财富：14个月新低](https://finance.eastmoney.com/a/202611203936300937.html)
+
+---
+
+## 🌐 国际政治
+
+### ▶ 柏林峰会：欧洲给出"具法律约束力"的安全保障
+
+11 月 19 日默茨在柏林主持乌克兰问题峰会，泽连斯基亲赴，25–40 国参加，威特科夫与库什纳代表美方，特朗普在空军一号上电话接入。德法英乌联合声明承诺：停火后提供"强有力、具法律约束力"的安全保障；北约盟国 2026 年提供 700 亿欧元军援与训练，2027 年不低于同额；欧盟对乌贷款 2027 年底前到位 900 亿欧元。这是九个月战争里最接近"安全安排"文本的一次，但俄方仍反对扩大谈判格式，基辅坚持不接受无乌克兰参与的协议。
+
+- 来源：[AA：柏林动态](https://u.aa.com.tr/en/russia-ukraine-war/ukraine-proposes-further-humanitarian-missions-to-territories-under-russian-control-zelenskyy/4128123) · [Euronews：柏林会谈](https://euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu)
+
+### ▶ 特朗普要"永久协议"，伊朗开出四项条件
+
+11 月 21 日特朗普对 Fox 称，将与伊朗达成"永久性协议"，彻底阻断其核路径、防止下任总统翻盘，并称"第三拨领导层"才是终极解决方案。卡塔尔代表团周五晚赴德黑兰谈了两小时。伊朗的条件是：全面停战、解冻资产、解除石油制裁、美国停止反封锁；浓缩铀不外运。外长阿拉格奇称重开霍尔木兹"不难"，前提是美方接受合理条件。海峡平时承担全球五分之一石油运输，自 2 月美以袭伊后受限近九个月。
+
+- 来源：[半岛：卡塔尔斡旋](https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions) · [AA：永久协议](https://www.aa.com.tr/en/middle-east/trump-vows-to-make-permanent-deal-with-iran-prevent-future-nuclear-ambitions/4133079)
+
+### ▶ 五角大楼收紧对加拿大军事合作
+
+据《华盛顿邮报》11 月 20 日报道，美国防部长赫格塞思限制与加拿大的军事合作范围，涉及联合演习、情报共享与军官交流，被视为对渥太华"防务自主"路线的施压。此前加拿大公布 740 亿加元军备重整计划，明确要减少对美依赖。北美防空司令部（NORAD）的合作是否受影响尚未说明。r/worldnews 相关帖热度居前。盟友体系内部出现"去美国化"的离心力，这比中俄的挑战更让华盛顿棘手。
+
+- 来源：[路透：限制军事联系](https://reuters.com/world/americas/us-defense-secretary-hegseth-restricts-military-ties-with-canada-washington-post-2026-11-20/) · [r/worldnews 热榜](https://www.reddit.com/r/worldnews/top/?t=week)
+
+---
+
+## 🤖 人工智能
+
+### ▶ 黎曼猜想被 Lean 验证：AI 找到，社区核验
+
+11 月 20 日，Levent Alpöge 发布黎曼猜想（含广义）的 Lean 形式化证明，17.4 百万行、17.5 万个模块，自述由 Claude 辅助找到。Lean 与 Mathlib 社区确认无误；MIT 的 Sutherland 用 Claude Code 跑完整验证：全部编译零错误，5 个定理只依赖 3 条标准公理；独立 Rust 内核 nanoda 27 分 42 秒接受，LUMI 超算独立复核通过。知乎热榜 5283 万，"OpenAI 真能攻克 P=NP 吗"同步上榜。数学界的态度从"不可能"转向"要重新定义什么叫证明"。
+
+- 来源：[Lean 社区认证](https://leanprover-community.github.io/blog/posts/riemann-hypothesis) · [MIT 验证页](https://math.mit.edu/~drew/grh) · [LUMI 复核](https://github.com/aapolipponen/rh-lean-check-lumi)
+
+### ▶ 一周三款前沿模型：节奏比能力更值得看
+
+11 月 18 日 Google DeepMind 发布 Gemini 4 Neon，主打前沿智能与端到端任务，同步上线 API、AI Studio、Antigravity 与 Gemini App Pro/Ultra；同日还有 Genie 4。11 月 17 日 OpenAI 发布 GPT-6.2 Astra 与 Sol，面向专业工作场景。再往前，11 月 12 日 Gemini 4 Hydrogen、11 月 9 日 Claude Fable。模型迭代已从"半年一代"压到"一周一版"，Hacker News 上 Neon 拿到 953 分，欧盟委员会则给 4 万名员工推 Matrix。当能力差距缩到几个百分点，"抢首发"变成营销动作，真正的护城河是算力、分发与价格。
+
+- 来源：[DeepMind：Neon](https://deepmind.google/blog/introducing-gemini-4-neon?cb=scout-20261118T2145-a1b2) · [OpenAI：GPT-6.2](https://openai.com/index/introducing-gpt-6-sol-and-luna?output=1)
+
+### ▶ 中美就"军事 AI 须人类掌控"达成一致
+
+11 月 20 日财长贝森特在 CNBC 透露，特朗普与习近平在深圳会晤中就"重大军事行动的 AI 决策必须有人的参与"达成共识。同期美方收紧芯片出口：11 月 16 日商务部新规堵住中企远程租用海外数据中心算力的路径，英伟达本周停发 Hopper 系列对华。日内瓦联合国"杀手机器人"谈判周六结束，结果只是同意"继续谈"，没有任何硬承诺。共识停留在声明层面，军控条约仍是空白——这是本周最值得警惕的落差。
+
+- 来源：[APA：人类掌控](https://en.apa.az/america/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-537545) · [The News：为何重要](https://www.thenews.com.pk/latest/1424437-trump-xi-agreed-that-military-ai-decisions-should-involve-humans-heres-why)
+
+---
+
+## 💻 科技产业
+
+### ▶ 荷兰法院禁售比亚迪 Ti7：抄袭路虎卫士
+
+11 月 20 日海牙法院裁定比亚迪 Ti7 侵犯捷豹路虎卫士的注册外观设计（2018 年 4 月申请），禁止在 27 个欧盟成员国进口、生产、销售、存储与交付，含匈牙利工厂；违约金每日 10 万欧元或每辆 2.5 万欧元、上限 1000 万欧元。比亚迪称系独立设计将上诉，英国与澳洲不在禁令内。11 月 25 日鹿特丹另有版权案开庭。这是中国车企在欧洲首次因"设计侵权"被全面禁售，给所有走"平替路线"的出海品牌敲了钟。
+
+- 来源：[Eastern Eye：禁售](https://www.easterneye.biz/byd-ti7-suv-eu-ban-land-rover-defender-design-dispute/) · [WhichCar：裁定](https://www.whichcar.com.au/news/dutch-court-blocks-byd-ti7-sales-in-eu-over-defender-design)
+
+### ▶ 苹果向三星锁定 4–5 年内存长约
+
+11 月 17 日《每日经济》独家：苹果与三星的 DRAM 长期供货协议进入收尾，期限 4–5 年、2027 年上半年起，保底采购量加市价定价。苹果此前已与 SK 海力士签约，是唯一没跟三星签长约的大厂——这次一反"压价短约"的传统。背景是内存两年涨价至四倍：海力士 14 家大客户的长约已覆盖 2027–2028 年过半产能。苹果 Q4 采购义务增加 330 亿美元，毛利率从 50.1% 降至 47.9%，下季指引 45–46%。"芯片通胀"正把成本压力传给每个换手机的人。
+
+- 来源：[MK：独家](https://www.mk.co.kr/en/business/12211500) · [Korea Herald：长约](https://www.koreaherald.com/article/10942672)
+
+### ▶ 神舟二十四号就绪：空间站将迎首位外籍载荷专家
+
+11 月 17 日神舟二十四号船箭组合体在酒泉转运至发射区，1℃ 低温中穿保暖衣；11 月 21 日完成最后一次全区合练，各系统就绪，择机发射。本次任务将送空间站首位外籍载荷专家进驻，气象保障首次用神经网络做逐小时气温预报。微博"神舟二十四号发射准备就绪"热度 366 万，抖音 874.9 万。中国载人航天从"自己能上去"走向"带别人上去"，这是国际空间合作格局里一个安静的转折。
+
+- 来源：[载人航天办](https://www.cmse.gov.cn/xwzx/202611/t20261117_57861.html) · [新华社：全区合练](https://www.xzxw.com/xw/gnyw/2026-11/22/content_6976529.html)
+
+---
+
+## 🌱 环境与能源
+
+### ▶ COP31 在安塔利亚破裂
+
+11 月 22 日，史上最长的一届 COP 在土耳其安塔利亚收场，是 2009 年哥本哈根以来首次重大失败。"安塔利亚协议"封面决议未获共识：欧盟、英国、小岛国、巴拿马、马绍尔群岛、挪威拒绝接受——文本不提"退出化石燃料"，而 130 多个国家要求写入，初稿周一还写着"立即转型离开化石燃料"；沙特等产油国反对，CCS 条款被批"漂绿"。资金同样落空，非洲谈判代表称"空口袋"。美国已退出。古特雷斯："深感失望，但科学没有歧义。"其余附属决议通过。
+
+- 来源：[UN News：决议未通过](https://news.un.org/en/story/2026/11/1168855) · [卫报：深度分裂](https://theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected)
+
+### ▶ IEA：2026 年全球可再生新增将下滑 11%
+
+IEA《Renewables 2026》（11 月 6 日发布）本周持续发酵：2026 年全球可再生能源新增装机预计同比下降 11%，终结 21 年连创纪录，但仍是史上第二高。主因是中国光伏竞价改革，前九个月新增同比 -55%。2026–2031 年年均约 800GW，比 2020–2025 年高 57%；除中国外的新兴经济体新增首次追平发达经济体。霍尔木兹危机推高能源安全诉求，印度、东南亚、非洲、中东加速上马。2030 年"三倍目标"要到 2032 年左右才可能达成。并网排队中 advanced-stage 项目增 60% 至 3000GW——瓶颈已从组件变成电网。
+
+- 来源：[IEA：能源安全驱动](https://www.iea.org/news/energy-security-concerns-spur-faster-renewables-growth-across-a-widening-constellation-of-countries) · [IEA：执行摘要](https://www.iea.org/reports/renewables-2026/executive-summary)
+
+### ▶ 欧盟碳价跌破 81 欧元
+
+11 月 21 日 EUA 跌破 81 欧元/吨，月初还在 89–91。原因三重：欧洲议会与理事会临时协议给工业额外 1.21 亿份免费配额（约 100 亿欧元）；爱尔兰提议放缓退出；议会工业委员会否决改革妥协、推迟投票，post-2030 配额降幅"限 4%"的争议悬而未决。100 多家欧企（科思创、赢创、瓦克、奥钢联、蒂森克虏伯钢铁）警告改革将推高成本、导致关停外迁。12 月议会投票是双向风险。CBAM 同步推进：Article 6 国际信用可抵扣规则追溯至 1 月，2027 年 1 月扩至挪威、冰岛。
+
+- 来源：[Carbon FS：双周报](https://carbonfundamentalservices.com/carbon-market-news-roundup-40/) · [Carbon Pulse：CBAM](https://carbon-pulse.com/571760/?site=cpp#1)
+
+---
+
+## 🏥 医疗健康
+
+### ▶ mRNA 癌症疫苗 III 期：复发风险降 42%
+
+《JAMA》11 月 13 日在线发表 INTerpath-001：1137 名高危黑色素瘤术后患者，个体化 mRNA 疫苗 intismeran autogene 联合 Keytruda，中位随访 24.6 个月，复发或死亡风险降 42%（HR 0.58），2 年无复发生存 82.2% 对 70.0%；远处转移风险降 38%。每人定制最多 34 个新抗原，99% 制造成功，中位 64 天打上第一针。总生存数据尚不成熟，曲线在第 6 个月才分离——符合疫苗起效机制。这是个体化癌症疫苗第一次在 III 期拿出硬终点。
+
+- 来源：[JAMA 原文](https://jamanetwork.com/journals/jama/fullarticle/2856885) · [CRI 解读](https://www.cancerresearch.org/blog/cancer-vaccine-results-melanoma)
+
+### ▶ GLP-1 护心机制揭晓：不只是减肥
+
+《Nature Medicine》11 月 8 日发表 CAMEO-SEMA：81 名射血分数保留的心衰（HFpEF）合并肥胖患者，司美格鲁肽 2.4mg 每周一次、52 周后，运动时肺毛细血管楔压降 10.6mmHg，静息降 7.1；53.7% 达到血流动力学缓解，安慰剂组仅 7.4%（OR 14.1）。心脏磁共振子研究显示左房应变改善 5.7%、左室质量下降、几何形态恢复。这解释了为何减重之外的获益真实存在，也给"减肥针治心衰"补上机制证据。Mayo 另一项 146 对 237 的观察研究同向。
+
+- 来源：[Nature Medicine：主试验](https://www.nature.com/articles/s41591-026-04762-3) · [CMR 子研究](https://www.nature.com/articles/s41591-026-04787-8)
+
+### ▶ 欧洲麻疹：保加利亚发病率 18 倍于均值
+
+ECDC 11 月 17 日通报：EU/EEA 过去 12 个月 2325 例，低于上年同期 10195 例，但分布极不均。保加利亚 589 例、每百万人 91.5 例，是欧盟均值 5.1 的 18 倍——2025 年全年仅 2 例。最刺眼的是伪造接种证明：重灾区约 60%"已接种"的儿童查不到 MMR 抗体。意大利 651 例，罗马尼亚 268、西班牙 218、法国 139；71.8% 病例未接种，5 岁以下占 28%。英格兰截至 11 月 9 日 1055 例。ECDC 呼吁两剂覆盖率回到 95%——纸面上的疫苗记录，正在制造真实的疫情。
+
+- 来源：[BGNES：保加利亚最高](http://www.bgnes.com/health/bulgaria-records-highest-measles-incidence-in-eu-with-589-cases-in-one-year) · [Indeksonline：欧洲疫情](https://indeksonline.net/en/rastet-e-fruthit-po-bien-ne-evrope-por-disa-vende-vazhdojne-te-perballen-me-shperthime/)
+
+---
+
+*📌 本期由 AI 辅助采集与撰写，信息以来源链接为准，欢迎指正。*
